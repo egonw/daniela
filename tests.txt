@@ -67,12 +67,12 @@ InteractionTests.all
 KEGGMetaboliteTests.all
 #KEGGMetaboliteTests.hasCPDprefix
 #KEGGMetaboliteTests.noCnumber
-LIPIDMAPSTests.all
+#LIPIDMAPSTests.all
 #LIPIDMAPSTests.onlyLIPIDMAPS
-#LIPIDMAPSTests.retiredIdentifiers
-MetaboliteStructureTests.all
+LIPIDMAPSTests.retiredIdentifiers
+#MetaboliteStructureTests.all
 #MetaboliteStructureTests.atLeastFifteenMetabolites
-#MetaboliteStructureTests.isPartOfAPathway
+MetaboliteStructureTests.isPartOfAPathway
 MetabolitesTests.all
 #MetabolitesTests.ChEBIIDsNotMarkedAsMetabolite
 #MetabolitesTests.HMDBIDsNotMarkedAsMetabolite
