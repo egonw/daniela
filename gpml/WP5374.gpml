@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="TGF/Smad signaling pathway" Version="20230606" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">TGFbeta/Smad Signaling Pathway in Trabecular Meshwork. In this pathway, TGF-beta binds to TGF-beta type II receptor, inducing the activation of the TGF-beta type I receptor. This induces the phosphorilation of Smad2/3 proteins which form a complex with Smad4. The translocation of this complex to the nucleous is facilitated by TAZ protein. Once in the nucleous, it binds to SBEs (Smad Binding Elements, promoting the transcrption of TGF-beta-response genes. Under pathological conditions, this pathway is overestimulated leading to the modification of TM features and accumulation of ECM proteins in the cytoplasm.  </Comment>
+  <Graphics BoardWidth="1563.2816901408448" BoardHeight="947.8557344296644"/>
+  <DataNode TextLabel="CNN2" Type="GeneProduct">
+    <BiopaxRef>e36</BiopaxRef>
+    <Graphics CenterX="858.3327856427699" CenterY="741.3843049912834" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="P29279"/>
+  </DataNode>
+  <DataNode TextLabel="SPARC" Type="GeneProduct">
+    <BiopaxRef>da0</BiopaxRef>
+    <Graphics CenterX="861.8875217839822" CenterY="801.9649508698385" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="P09486"/>
+  </DataNode>
+  <DataNode TextLabel="POSTN" Type="GeneProduct">
+    <BiopaxRef>cba</BiopaxRef>
+    <Graphics CenterX="804.2809661680861" CenterY="771.3555163942365" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q15063"/>
+  </DataNode>
+  <DataNode TextLabel="SERPINE1" Type="GeneProduct">
+    <BiopaxRef>bec</BiopaxRef>
+    <Graphics CenterX="904.3769281582428" CenterY="768.3238489374842" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
+    <Xref Database="Uniprot-SwissProt" ID="P05121 S"/>
+  </DataNode>
+  <DataNode TextLabel="TAZ" GraphId="aba83" Type="Protein">
+    <Graphics CenterX="564.9387339624514" CenterY="410.612797504113" Width="90.0" Height="60.8336336993998" ZOrder="32768" FontSize="13" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-SwissProt" ID="Q9GZV5"/>
+  </DataNode>
+  <DataNode TextLabel="Smad3" GraphId="b9c95" Type="GeneProduct">
+    <Graphics CenterX="520.9238034809841" CenterY="322.5571121829117" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="P84022"/>
+  </DataNode>
+  <DataNode TextLabel="Smad2" GraphId="ba3a1" Type="GeneProduct">
+    <Graphics CenterX="520.9238034809841" CenterY="301.385576030444" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q15796"/>
+  </DataNode>
+  <DataNode TextLabel="TGF-I-R" GraphId="bff42" Type="Protein">
+    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double"/>
+    <Graphics CenterX="580.4907661922672" CenterY="170.82344162409584" Width="56.918" Height="170.69214635937493" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </DataNode>
+  <DataNode TextLabel="ECM" GraphId="d4d1e" Type="Protein">
+    <Graphics CenterX="1262.4401408450706" CenterY="805.8732394366206" Width="90.0" Height="37.345070422533404" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </DataNode>
+  <DataNode TextLabel="Smad4" GraphId="d6126" Type="GeneProduct">
+    <Graphics CenterX="849.6771813490597" CenterY="312.3111109758613" Width="80.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q13485"/>
+  </DataNode>
+  <DataNode TextLabel="TGF-II-R" GraphId="de268" Type="Protein">
+    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double"/>
+    <Graphics CenterX="498.1563045884015" CenterY="170.0489927803455" Width="56.918" Height="170.69214635937493" ZOrder="32770" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </DataNode>
+  <DataNode TextLabel="Smad2" GraphId="cd195" Type="GeneProduct" GroupRef="aa05b">
+    <Graphics CenterX="668.1612741125424" CenterY="302.14717877035247" Width="80.0" Height="20.0" ZOrder="32772" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q15796"/>
+  </DataNode>
+  <DataNode TextLabel="Smad3" GraphId="f241f" Type="GeneProduct" GroupRef="aa05b">
+    <Graphics CenterX="668.1612741125424" CenterY="322.2151569418787" Width="80.0" Height="20.0" ZOrder="32773" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="P84022"/>
+  </DataNode>
+  <DataNode TextLabel="Smad2" GraphId="f0fb3" Type="GeneProduct" GroupRef="a09c0">
+    <Graphics CenterX="758.151582292498" CenterY="394.9209606748152" Width="80.0" Height="20.0" ZOrder="32777" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q15796"/>
+  </DataNode>
+  <DataNode TextLabel="Smad3" GraphId="f1c1b" Type="GeneProduct" GroupRef="a09c0">
+    <Graphics CenterX="759.4236976771134" CenterY="413.716823461726" Width="80.0" Height="20.0" ZOrder="32778" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="P84022"/>
+  </DataNode>
+  <DataNode TextLabel="Smad4" GraphId="ba711" Type="GeneProduct" GroupRef="a09c0">
+    <Graphics CenterX="759.7888660131067" CenterY="433.0077874589707" Width="80.0" Height="20.0" ZOrder="32780" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q13485"/>
+  </DataNode>
+  <DataNode TextLabel="TAZ" GraphId="cbcbc" Type="Protein">
+    <Graphics CenterX="619.0995859823109" CenterY="568.9580108073613" Width="90.0" Height="60.8336336993998" ZOrder="32787" FontSize="13" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-SwissProt" ID="Q9GZV5"/>
+  </DataNode>
+  <DataNode TextLabel="Smad2" GraphId="a8b49" Type="GeneProduct" GroupRef="c858f">
+    <Graphics CenterX="714.5658166584121" CenterY="553.4625479086532" Width="80.0" Height="20.0" ZOrder="32800" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q15796"/>
+  </DataNode>
+  <DataNode TextLabel="Smad3" GraphId="e8a92" Type="GeneProduct" GroupRef="c858f">
+    <Graphics CenterX="714.565816658412" CenterY="573.4625479086534" Width="80.0" Height="20.0" ZOrder="32801" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="P84022"/>
+  </DataNode>
+  <DataNode TextLabel="Smad4" GraphId="ecec5" Type="GeneProduct" GroupRef="c858f">
+    <Graphics CenterX="714.5658166584122" CenterY="593.3298556009611" Width="80.0" Height="20.0" ZOrder="32804" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-TrEMBL" ID="Q13485"/>
+  </DataNode>
+  <DataNode TextLabel="TGF-β" GraphId="f9fcd" Type="Protein">
+    <Graphics CenterX="498.8070035475377" CenterY="49.340183715225294" Width="56.918" Height="27.241052046874966" ZOrder="32814" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="Uniprot-SwissProt" ID="P01137"/>
+  </DataNode>
+  <DataNode TextLabel="ECM" GraphId="cb0bb" Type="Protein">
+    <Graphics CenterX="1488.281690140846" CenterY="716.4929577464801" Width="90.0" Height="37.345070422533404" ZOrder="32817" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle"/>
+    <Xref Database="" ID=""/>
+  </DataNode>
+  <State GraphRef="bff42" TextLabel="P" GraphId="f4676">
+    <Graphics RelX="1.0" RelY="1.0" Width="15.0" Height="15.0" ShapeType="Oval"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="cd195" TextLabel="P" GraphId="bab15">
+    <Graphics RelX="1.0" RelY="-0.8173076923076792" Width="15.0" Height="15.0" ShapeType="Oval"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="f241f" TextLabel="P" GraphId="ef523">
+    <Graphics RelX="1.0" RelY="-0.33269230769230373" Width="15.0" Height="15.0" ShapeType="Oval"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="f0fb3" TextLabel="P" GraphId="d1b89">
+    <Graphics RelX="1.0" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="f1c1b" TextLabel="P" GraphId="c36b7">
+    <Graphics RelX="1.0" RelY="-0.9466762783807952" Width="15.0" Height="15.0" ShapeType="Oval"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="a8b49" TextLabel="P" GraphId="cb252">
+    <Graphics RelX="1.0" RelY="-1.0" Width="15.0" Height="15.0" ShapeType="Oval"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <State GraphRef="e8a92" TextLabel="P" GraphId="ab8a8">
+    <Graphics RelX="1.0" RelY="-0.7809615384615369" Width="15.0" Height="15.0" ShapeType="Oval"/>
+    <Xref Database="" ID=""/>
+  </State>
+  <Interaction>
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1001.1010563380282" Y="714.1404929577465"/>
+      <Point X="1436.3826243918807" Y="716.945572509995" ArrowHead="Arrow"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="761.6044513467489" Y="311.69543878646664"/>
+      <Point X="762.5376399848058" Y="365.4209606748152" GraphRef="df776" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="id1e336d19">
+    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double"/>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="609.0435244254313" Y="731.6339584161562"/>
+      <Point X="748.547213224895" Y="731.6339584161562" ArrowHead="mim-transcription-translation"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="idda3457ff">
+    <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
+      <Point X="660.4328870435819" Y="601.4190252573695"/>
+      <Point X="661.7167815699689" Y="714.3740607331732" ArrowHead="Arrow"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="f0eaa">
+    <Graphics ZOrder="32805" LineThickness="1.0">
+      <Point X="540.9238034809841" Y="312.5571121829117" GraphRef="b9c95" RelX="0.5" RelY="-1.0"/>
+      <Point X="620.1612741125424" Y="312.1811678561156" GraphRef="d7a78" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion"/>
+      <Anchor Position="0.5" Shape="None" GraphId="f7e4b"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="a59f6">
+    <Graphics ZOrder="32806" LineThickness="1.0">
+      <Point X="580.4907661922673" Y="256.1695148037833" GraphRef="bff42" RelX="0.0" RelY="1.0"/>
+      <Point X="580.5425387967632" Y="312.3691400195137" GraphRef="f7e4b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="f11b5">
+    <Graphics ZOrder="32807" LineStyle="Broken" LineThickness="1.0">
+      <Point X="997.8401408450704" Y="807.0765845070423"/>
+      <Point X="1211.596708898921" Y="808.4684598339386" ArrowHead="Arrow"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="cf048">
+    <Graphics ZOrder="32811" LineThickness="1.0">
+      <Point X="660.5655629327872" Y="409.8747360189011"/>
+      <Point X="659.1549295774648" Y="532.3943661971831" ArrowHead="mim-binding"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="fda4c">
+    <Graphics ZOrder="32813" LineThickness="1.0">
+      <Point X="498.6279068138314" Y="60.79817559698063"/>
+      <Point X="498.99547638851965" Y="82.59327261683268" ArrowHead="mim-binding"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <Interaction GraphId="e8074">
+    <Graphics ZOrder="32815" LineThickness="1.0">
+      <Point X="528.8094541296203" Y="169.29432353762147"/>
+      <Point X="552.972060893923" Y="169.98766463417056" ArrowHead="mim-modification"/>
+    </Graphics>
+    <Xref Database="" ID=""/>
+  </Interaction>
+  <GraphicalLine>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="809.6771813490597" Y="312.3111109758613" GraphRef="d6126" RelX="-1.0" RelY="0.0"/>
+      <Point X="708.1612741125424" Y="311.3882338649557" GraphRef="ef523" RelX="0.0" RelY="-1.0"/>
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="609.9387339624514" Y="410.612797504113" GraphRef="aba83" RelX="1.0" RelY="0.0"/>
+      <Point X="706.151582292498" Y="410.21437406689296" GraphRef="df776" RelX="-1.0" RelY="0.0"/>
+    </Graphics>
+  </GraphicalLine>
+  <Label TextLabel="cytoplasm&#10;" GraphId="a37fe">
+    <Graphics CenterX="917.7671300357287" CenterY="147.56720916040064" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle"/>
+  </Label>
+  <Label TextLabel="physiologycal conditions" GraphId="aff24">
+    <Graphics CenterX="1133.6569542253524" CenterY="697.835915492958" Width="167.28433098591586" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle"/>
+  </Label>
+  <Label TextLabel="extracellular space" GraphId="c762e">
+    <Graphics CenterX="904.5152918004304" CenterY="116.76206210157714" Width="113.26102941176477" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle"/>
+  </Label>
+  <Label TextLabel="TGF-β response genes" GraphId="c86ed">
+    <Graphics CenterX="850.2348654398133" CenterY="712.1125090800722" Width="145.0959619901576" Height="25.0" ZOrder="28672" FillColor="ffffff" FontWeight="Bold" FontSize="12" Valign="Middle"/>
+  </Label>
+  <Label TextLabel="nucleus" GraphId="fbf40">
+    <Graphics CenterX="745.901915365242" CenterY="673.8772407052247" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle"/>
+  </Label>
+  <Label TextLabel="pathological conditions" GraphId="ce94d">
+    <Graphics CenterX="1115.668133802817" CenterY="789.3588028169028" Width="155.6538732394365" Height="25.0" ZOrder="32809" FillColor="ffffff" FontSize="12" Valign="Middle"/>
+  </Label>
+  <Shape GraphId="d9197">
+    <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Nucleus"/>
+    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double"/>
+    <Graphics CenterX="747.8001816168285" CenterY="763.5131070750239" Width="550.9722357850987" Height="206.1176819039709" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" LineThickness="3.0" Rotation="0.0"/>
+  </Shape>
+  <Shape GraphId="fe235">
+    <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Cell"/>
+    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double"/>
+    <Graphics CenterX="596.0932508044407" CenterY="523.9007654057866" Width="1543.721596982668" Height="787.9099380477554" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="3.0" Rotation="0.0"/>
+  </Shape>
+  <Group GroupId="c858f" GraphId="ae149" Style="Complex"/>
+  <Group GroupId="ca3e7" GraphId="b83b9" Style="Group"/>
+  <Group GroupId="aa05b" GraphId="d7a78" Style="Group"/>
+  <Group GroupId="a09c0" GraphId="df776" Style="Complex"/>
+  <Group GroupId="a50b7" GraphId="a983a" Style="Complex"/>
+  <Group GroupId="d7b01" GraphId="b6eab" Style="Complex"/>
+  <InfoBox CenterX="0.0" CenterY="0.0"/>
+  <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bec">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22923731</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matrix control of transforming growth factor-β function</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Journal of biochemistry</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horiguchi, M.</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ota, M.</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rifkin, D. B.</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e36">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22923731 </bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matrix control of transforming growth factor-β function</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Journal of biochemistry</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Horiguchi, M.</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ota, M.,</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rifkin, D. B.</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="da0">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The role of matricellular proteins in glaucoma</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matrix Biology</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The role of matricellular proteins in glaucoma</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matrix Biology, 37:174-182</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wallace DM</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Murphy-Ullrich JE</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crawford Downs J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O'Brien CJ</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cba">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string"/>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">The role of matricellular proteins in glaucoma</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Matrix Biology, 37:174-182.</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wallace DM</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Murphy-Ullrich JE</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crawford Downs J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O'Brien CJ.</bp:AUTHORS>
+    </bp:PublicationXref>
+  </Biopax>
+</Pathway>

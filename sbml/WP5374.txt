@@ -1,0 +1,30 @@
+TGFbeta/Smad Signaling Pathway in Trabecular Meshwork. In this pathway, TGF-beta binds to TGF-beta type II receptor, inducing the activation of the TGF-beta type I receptor. This induces the phosphorilation of Smad2/3 proteins which form a complex with Smad4. The translocation of this complex to the nucleous is facilitated by TAZ protein. Once in the nucleous, it binds to SBEs (Smad Binding Elements, promoting the transcrption of TGF-beta-response genes. Under pathological conditions, this pathway is overestimulated leading to the modification of TM features and accumulation of ECM proteins in the cytoplasm.  
+
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_0
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_1
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_2
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_3
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P05121 S
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: Q9GZV5
+[DataNode:bff42]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
+[DataNode:de268]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: Q9GZV5
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P01137
+[ARROW:id14324]	Interaction is not connected
+[BINDING:id14325]	Interaction is not connected
+[LINE:id1e336d19]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
+[TRANSCRIPTION_TRANSLATION:id1e336d19]	Interaction is not connected
+[ARROW:idda3457ff]	Interaction is not connected
+[ARROW:f11b5]	Interaction is not connected
+[BINDING:cf048]	Interaction is not connected
+[BINDING:fda4c]	Interaction is not connected
+[MODIFICATION:e8074]	Interaction is not connected
+[LINE:id14323]	Invalid interaction type.
+[LINE:id14322]	Interaction edge is invalid (one end is not connected).
+[BioPax:da0]	No pubmed identifier defined for publication: title: The role of matricellular proteins in glaucoma
+[BioPax:cba]	No pubmed identifier defined for publication: title: The role of matricellular proteins in glaucoma
+[BiopaxReference:cba]	Publication is invalid.
+[BiopaxReference:da0]	Publication is invalid.
+[Complex:b6eab]	Empty element is invalid
+[Complex:b83b9]	Empty element is invalid
+[Complex:a983a]	Empty element is invalid

@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Involvement of δ-secretase in neurodegenerative diseases" Version="20230607" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">δ-secretase in neurodegenerative diseases.</Comment>
+  <Comment Source="WikiPathways-description">Dear Prof. Digles,
+ 
+this is my user name and email for the classic Wikipathways: Pat hofer, hofer_patrick@gmx.at
+ 
+Best regards,
+ 
+δ-secretase in neurodegenerative diseases</Comment>
+  <Comment Source="WikiPathways-description">δ-secretase in neurodegenerative diseases</Comment>
+  <Comment Source="WikiPathways-description">δ-secretase in neurodegenerative diseases</Comment>
+  <BiopaxRef>cb3</BiopaxRef>
+  <Graphics BoardWidth="1284.9206349206347" BoardHeight="1009.985234403839" />
+  <DataNode TextLabel="Tau (1-368) fragment&#xA;" GraphId="a0b29" Type="Protein">
+    <Graphics CenterX="898.4678571428568" CenterY="719.8583333333331" Width="122.15000000000009" Height="34.75" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="AKT" GraphId="a2ced" Type="Protein">
+    <Graphics CenterX="591.2967032967031" CenterY="614.7350427350428" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="amyloid-beta" GraphId="a4b6b" Type="Protein">
+    <Graphics CenterX="1049.4430257769216" CenterY="875.3220910623941" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Tau" GraphId="b5765" Type="Protein">
+    <Graphics CenterX="899.1428571428572" CenterY="641.9166666666663" Width="128.0" Height="31.5" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P10636" />
+  </DataNode>
+  <DataNode TextLabel="δ-secretase" GraphId="b6e95" Type="Protein">
+    <Graphics CenterX="367.3329865926961" CenterY="479.5907112035758" Width="118.74364308830383" Height="65.9775389120046" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="APP" GraphId="b73f1" Type="Protein">
+    <Graphics CenterX="1049.4430257769206" CenterY="787.632377740303" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P05067" />
+  </DataNode>
+  <DataNode TextLabel="STAT1&#xA;" GraphId="b7c44" Type="Protein">
+    <Graphics CenterX="594.7035805311664" CenterY="785.1201824092782" Width="90.0" Height="31.6486087899255" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P42224" />
+  </DataNode>
+  <DataNode TextLabel="TrkB" GraphId="b8468" Type="Protein">
+    <Graphics CenterX="243.5840964590959" CenterY="570.3846153846155" Width="134.89529914529987" Height="53.269230769230944" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="Q16620" />
+  </DataNode>
+  <DataNode TextLabel="LGMN" GraphId="b93db" Type="GeneProduct">
+    <Graphics CenterX="473.51941747572874" CenterY="756.0298196948671" Width="92.5589459084608" Height="27.468793342580973" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000100600" />
+  </DataNode>
+  <DataNode TextLabel="BDNF" GraphId="bfc98" Type="Protein">
+    <Graphics CenterX="132.5467032967036" CenterY="627.3226495726492" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P23560" />
+  </DataNode>
+  <DataNode TextLabel="BACE1&#xA;" GraphId="c1260" Type="GeneProduct">
+    <Graphics CenterX="593.4859766397637" CenterY="844.4253145647608" Width="90.0" Height="29.669651586588998" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P56817" />
+  </DataNode>
+  <DataNode TextLabel="SET" GraphId="c31e7" Type="Protein">
+    <Graphics CenterX="792.1428571428572" CenterY="523.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="Q01105" />
+  </DataNode>
+  <DataNode TextLabel="Tau " GraphId="ca5ec" Type="Protein">
+    <Graphics CenterX="717.2625152625154" CenterY="641.435897435897" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P10636" />
+  </DataNode>
+  <DataNode TextLabel="AKT" GraphId="cc8f2" Type="Protein">
+    <Comment></Comment>
+    <Graphics CenterX="591.2967032967033" CenterY="533.1965811965813" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="mRNA" GraphId="ce2eb" Type="Rna">
+    <Graphics CenterX="473.41192787794785" CenterY="831.730235783633" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="δ-secretase&#xA;" GraphId="cec39" Type="Protein">
+    <Graphics CenterX="884.0178571428572" CenterY="449.625" Width="350.25" Height="110.75" ZOrder="32768" FontWeight="Bold" FontSize="18" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="TDP-43 fragment" GraphId="cf07c" Type="Protein">
+    <Graphics CenterX="1058.8528422828315" CenterY="741.9038461538445" Width="111.58586402576998" Height="20.192307692307793" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="α-synuclein (1-103) fragment" GraphId="ddc80" Type="Protein">
+    <Graphics CenterX="791.0734126984136" CenterY="263.95405982906027" Width="176.58333333333303" Height="23.20299145299135" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Dopamine" GraphId="e3d1e" Type="Metabolite">
+    <Graphics CenterX="970.1428571428572" CenterY="164.4102564102563" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="ChEMBL compound" ID="CHEMBL59" />
+  </DataNode>
+  <DataNode TextLabel="C/EBP𝛽" GraphId="e4db0" Type="Protein">
+    <Graphics CenterX="385.2727304723687" CenterY="799.902583662295" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P17676" />
+  </DataNode>
+  <DataNode TextLabel="SRPK2 fragment" GraphId="e9165" Type="Protein">
+    <Graphics CenterX="586.3065554951041" CenterY="399.13835241481826" Width="110.561492184396" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="TDP-43" GraphId="ec8d2" Type="Protein">
+    <Graphics CenterX="1058.5616605616613" CenterY="674.3931623931624" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="Q13148" />
+  </DataNode>
+  <DataNode TextLabel="MAO B&#xA;" GraphId="ed350" Type="Protein">
+    <Graphics CenterX="791.8843101343099" CenterY="206.6132478632478" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P27338" />
+  </DataNode>
+  <DataNode TextLabel="DOPAL" GraphId="ed7de" Type="Metabolite">
+    <Graphics CenterX="970.1428571428572" CenterY="285.076923076923" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="ChEBI" ID="27978" />
+  </DataNode>
+  <DataNode TextLabel="α-synuclein" GraphId="f14b9" Type="Protein">
+    <Graphics CenterX="789.7924297924296" CenterY="355.46153846153857" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P37840" />
+  </DataNode>
+  <DataNode TextLabel="SRPK2" GraphId="f75bc" Type="Protein">
+    <Graphics CenterX="586.3394687620965" CenterY="295.79042187388745" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-SwissProt" ID="P78362" />
+  </DataNode>
+  <DataNode TextLabel="SET fragment" GraphId="f7f35" Type="Protein">
+    <Graphics CenterX="791.7817460317461" CenterY="588.5138888888887" Width="90.0" Height="24.75" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <State GraphRef="cc8f2" TextLabel="A" GraphId="bcc0f">
+    <Comment>Activated</Comment>
+    <Graphics RelX="-1.0" RelY="-0.9111111111111131" Width="22.790598290598606" Height="20.69230769230763" ShapeType="Oval" />
+    <Xref Database="" ID="" />
+  </State>
+  <State GraphRef="b6e95" TextLabel="P" GraphId="d0cf5">
+    <Comment>Phosphorylated</Comment>
+    <Graphics RelX="-0.9500624219725364" RelY="-0.9336650082918738" Width="25.555555555555316" Height="24.361111111111313" ShapeType="Oval" />
+    <Xref Database="" ID="" />
+  </State>
+  <State GraphRef="ca5ec" TextLabel="P" GraphId="d103b">
+    <Comment>Phosphorylated
+</Comment>
+    <Graphics RelX="-0.9753086419753092" RelY="-0.7333333333333303" Width="20.158119658119602" Height="21.34188034188037" ShapeType="Oval" />
+    <Xref Database="" ID="" />
+  </State>
+  <Interaction GraphId="id1610061a">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="132.5467032967036" Y="614.8226495726492" GraphRef="bfc98" RelX="0.0" RelY="-1.0" />
+      <Point X="176.13644688644592" Y="570.3846153846155" GraphRef="b8468" RelX="-1.0" RelY="0.0" ArrowHead="mim-binding" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id1a41e81d">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="1058.5616605616613" Y="686.8931623931624" GraphRef="ec8d2" RelX="0.0" RelY="1.0" />
+      <Point X="1058.8528422828315" Y="731.8076923076906" GraphRef="cf07c" RelX="0.0" RelY="-1.0" ArrowHead="mim-cleavage" />
+      <Anchor Position="0.4" Shape="None" GraphId="f46d0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id1c3a7280">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="591.2967032967033" Y="520.6965811965813" GraphRef="cc8f2" RelX="0.0" RelY="-1.0" />
+      <Point X="541.3569909255391" Y="478.66508062402545" GraphRef="fe5c6" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id1e78bfcf">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="792.1428571428572" Y="535.5" GraphRef="c31e7" RelX="0.0" RelY="1.0" />
+      <Point X="791.7817460317461" Y="576.1388888888887" GraphRef="f7f35" RelX="0.0" RelY="-1.0" ArrowHead="mim-cleavage" />
+      <Anchor Position="0.4" Shape="None" GraphId="f77c5" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id27acc3ef">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="586.3394687620965" Y="308.29042187388745" GraphRef="f75bc" RelX="0.0" RelY="1.0" />
+      <Point X="586.3065554951041" Y="386.63835241481826" GraphRef="e9165" RelX="0.0" RelY="-1.0" ArrowHead="mim-cleavage" />
+      <Anchor Position="0.4898828796064721" Shape="None" GraphId="a90aa" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id2960d61b">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="1049.4430257769206" Y="800.132377740303" GraphRef="b73f1" RelX="0.0" RelY="1.0" />
+      <Point X="1049.4430257769216" Y="862.8220910623941" GraphRef="a4b6b" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.1733557498318847" Shape="None" GraphId="af270" />
+      <Anchor Position="0.5880968392737139" Shape="None" GraphId="aaab1" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id446c1dfc">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="970.1428571428572" Y="176.9102564102563" GraphRef="e3d1e" RelX="0.0" RelY="1.0" />
+      <Point X="970.1428571428572" Y="272.576923076923" GraphRef="ed7de" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.32265701777897005" Shape="None" GraphId="d413d" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id47439a83">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="311.0317460317458" Y="570.3846153846155" GraphRef="b8468" RelX="1.0" RelY="0.0" />
+      <Point X="591.2967032967032" Y="570.2583571841627" GraphRef="f05de" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id4b6fab95">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="791.7817460317461" Y="600.8888888888887" GraphRef="f7f35" RelX="0.0" RelY="1.0" />
+      <Point X="791.4146520146521" Y="641.6282051282047" GraphRef="c3257" RelX="0.0" RelY="0.0" ArrowHead="mim-inhibition" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id4bea0ac7">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="594.7035805311664" Y="800.9444868042409" GraphRef="b7c44" RelX="0.0" RelY="1.0" />
+      <Point X="593.4859766397637" Y="829.5904887714663" GraphRef="c1260" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation" />
+      <Anchor Position="0.0" Shape="None" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id5984df2e">
+    <Comment>cleavage of APP</Comment>
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="971.5803571428573" Y="505.0" GraphRef="cec39" RelX="0.5" RelY="1.0" />
+      <Point X="971.3616071428573" Y="524.0" />
+      <Point X="971.1428571428572" Y="667.5" />
+      <Point X="1049.4430257769209" Y="811.0" GraphRef="af270" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Anchor Position="0.44444063967698616" Shape="None" GraphId="f9cbd" />
+      <Anchor Position="0.5195278776681435" Shape="None" GraphId="ad64e" />
+      <Anchor Position="0.12098792217661686" Shape="None" GraphId="b63bf" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id5a3c0603">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="789.7924297924296" Y="342.96153846153857" GraphRef="f14b9" RelX="0.0" RelY="-1.0" />
+      <Point X="791.0734126984136" Y="275.55555555555594" GraphRef="ddc80" RelX="0.0" RelY="1.0" ArrowHead="mim-cleavage" />
+      <Anchor Position="0.4" Shape="None" GraphId="c172b" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id685eec5d">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="837.3928571428568" Y="719.8583333333331" GraphRef="a0b29" RelX="-1.0" RelY="0.0" />
+      <Point X="277.3079212454208" Y="597.019230769231" GraphRef="b8468" RelX="0.5" RelY="1.0" ArrowHead="mim-inhibition" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id6bc4cd45">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="243.58409645909586" Y="597.019230769231" GraphRef="b8468" RelX="0.0" RelY="1.0" />
+      <Point X="340.2727304723687" Y="799.902583662295" GraphRef="e4db0" RelX="-1.0" RelY="0.0" ArrowHead="mim-inhibition" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id6e4bb3c4">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="638.4859766397637" Y="837.0079016681136" GraphRef="c1260" RelX="1.0" RelY="-0.5" />
+      <Point X="1049.443025776921" Y="837.0" GraphRef="aaab1" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id785a2265">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="541.3394687620965" Y="295.79042187388745" GraphRef="f75bc" RelX="-1.0" RelY="0.0" />
+      <Point X="469.8519193920929" Y="479.24236820106427" GraphRef="b31d0" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7e726fcb">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="884.0178571428573" Y="394.25" GraphRef="cec39" RelX="0.0" RelY="-1.0" />
+      <Point X="790.3048229548232" Y="315.99914529914554" GraphRef="c172b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id81e412ea">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="702.781746031747" Y="263.95405982906027" GraphRef="ddc80" RelX="-1.0" RelY="0.0" />
+      <Point X="277.3079212454208" Y="543.75" GraphRef="b8468" RelX="0.5" RelY="-1.0" ArrowHead="mim-inhibition" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id8e405755">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="473.41192787794785" Y="844.230235783633" GraphRef="ce2eb" RelX="0.0" RelY="1.0" />
+      <Point X="854.0273925104024" Y="942.5" />
+      <Point X="1234.6428571428569" Y="682.21875" />
+      <Point X="1059.1428571428573" Y="421.9375" GraphRef="cec39" RelX="1.0" RelY="-0.5" ArrowHead="mim-stimulation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id8e743321">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="473.5194174757287" Y="769.7642163661576" GraphRef="b93db" RelX="0.0" RelY="1.0" />
+      <Point X="473.41192787794785" Y="819.230235783633" GraphRef="ce2eb" RelX="0.0" RelY="-1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id96652050">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="836.8843101343099" Y="206.6132478632478" GraphRef="ed350" RelX="1.0" RelY="0.0" />
+      <Point X="970.1428571428572" Y="207.77777777777777" GraphRef="d413d" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ida8d8beb">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="385.2727304723687" Y="787.402583662295" GraphRef="e4db0" RelX="0.0" RelY="-1.0" />
+      <Point X="427.2399445214983" Y="756.0298196948671" GraphRef="b93db" RelX="-1.0" RelY="0.0" ArrowHead="mim-binding" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idab054f4f">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="899.1428571428572" Y="657.6666666666663" GraphRef="b5765" RelX="0.0" RelY="1.0" />
+      <Point X="898.4678571428568" Y="702.4833333333331" GraphRef="a0b29" RelX="0.0" RelY="-1.0" ArrowHead="mim-cleavage" />
+      <Anchor Position="0.4" Shape="None" GraphId="e86bc" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idc229af7c">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="762.2625152625154" Y="641.435897435897" GraphRef="ca5ec" RelX="1.0" RelY="0.0" />
+      <Point X="835.1428571428572" Y="641.9166666666663" GraphRef="b5765" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4" Shape="None" GraphId="c3257" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idc8b18fa8">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="971.1428571428572" Y="704.4444444444445" GraphRef="ad64e" RelX="0.0" RelY="0.0" />
+      <Point X="1058.6781332501293" Y="704.8589743589737" GraphRef="f46d0" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idc8f43ae7">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="708.8928571428573" Y="477.3125" GraphRef="cec39" RelX="-1.0" RelY="0.5" />
+      <Point X="426.704808136848" Y="479.59071120357584" GraphRef="b6e95" RelX="1.0" RelY="0.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.593702911258834" Shape="None" GraphId="fe5c6" />
+      <Anchor Position="0.8470980206028285" Shape="None" GraphId="b31d0" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idd15557ac">
+    <Comment>cleavage of SET</Comment>
+    <Comment>Type your comment here</Comment>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="971.1428571428572" Y="551.111111111111" GraphRef="b63bf" RelX="0.0" RelY="0.0" />
+      <Point X="791.9984126984128" Y="551.7555555555555" GraphRef="f77c5" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ide02413c7">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="898.4678571428568" Y="737.2333333333331" GraphRef="a0b29" RelX="0.0" RelY="1.0" />
+      <Point X="594.7035805311664" Y="769.2958780143155" GraphRef="b7c44" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ide84b785d">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="970.1428571428572" Y="297.576923076923" GraphRef="ed7de" RelX="0.0" RelY="1.0" />
+      <Point X="971.5803571428573" Y="394.25" GraphRef="cec39" RelX="0.5" RelY="-1.0" ArrowHead="mim-stimulation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ideda33385">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="791.0734126984136" Y="252.3525641025646" GraphRef="ddc80" RelX="0.0" RelY="-1.0" />
+      <Point X="791.8843101343099" Y="219.1132478632478" GraphRef="ed350" RelX="0.0" RelY="1.0" ArrowHead="mim-binding" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idf10ea0c4">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="591.2967032967031" Y="602.2350427350428" GraphRef="a2ced" RelX="0.0" RelY="-1.0" />
+      <Point X="591.2967032967033" Y="545.6965811965813" GraphRef="cc8f2" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.565574030151621" Shape="None" GraphId="f05de" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idf9476c0a">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="1049.4430257769216" Y="887.8220910623941" GraphRef="a4b6b" RelX="0.0" RelY="1.0" />
+      <Point X="519.7988904299591" Y="749.1626213592219" GraphRef="b93db" RelX="1.0" RelY="-0.5" ArrowHead="mim-stimulation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idfa36a0c6">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="971.1428571428572" Y="675.5555555555555" GraphRef="f9cbd" RelX="0.0" RelY="0.0" />
+      <Point X="898.872857142857" Y="675.593333333333" GraphRef="e86bc" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="a1843">
+    <Graphics ConnectorType="Elbow" ZOrder="32770" LineThickness="1.0">
+      <Point X="708.8928571428573" Y="449.625" GraphRef="cec39" RelX="-1.0" RelY="0.0" />
+      <Point X="655.7303370786518" Y="398.14836584924325" />
+      <Point X="586.3233451160851" Y="346.6717316984865" GraphRef="a90aa" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Label TextLabel="SET fragment: &#xA;hyperphosphorylation -&gt; tau aggregation&#xA;via PP2A inhibition" GraphId="a61a9">
+    <Graphics CenterX="695.3449817419721" CenterY="562.401864353147" Width="180.95182756083184" Height="46.099999999998175" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+  </Label>
+  <Label TextLabel="more prone to aggreagation&#xA;-&gt; neurotoxic effect" GraphId="a9df1">
+    <Graphics CenterX="879.7100753434776" CenterY="235.78076525336087" Width="168.06101344364023" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="Tau (1-368) fragment:&#xA;more prone to phosphorylation" GraphId="b4ffc">
+    <Graphics CenterX="749.3532711073351" CenterY="701.2974570274678" Width="163.64999999999998" Height="45.0500000000001" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="phosphorylated by SRPK2:&#xA;promote enzymatic activity" GraphId="b7314">
+    <Graphics CenterX="529.9206349206339" CenterY="228.77777777777783" Width="185.7" Height="42.000000000000114" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="cleaved SRPK2 increases&#xA;nuclear translocation&#xA;and kinase activity -&gt; &#xA;promoting tau aggregation" GraphId="ccd09">
+    <Graphics CenterX="565.3937594477088" CenterY="447.6666782246873" Width="149.99999999999991" Height="57.649999999999814" ZOrder="28672" FillColor="ffffff" FontSize="10" Valign="Middle" />
+  </Label>
+  <Label TextLabel="amyloid-beta promotes &#xA;δ-secretase expression" GraphId="d4b19">
+    <Graphics CenterX="787.1567267683779" CenterY="890.4212898751747" Width="142.85714285714306" Height="44.400138696255205" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="blocked TrkB -&gt; increased &#xA;delta-secretase expression,&#xA;fragmentation of APP and tau,&#xA;blockage of neuronal signals -&gt;&#xA;neuronal cell death&#xA;" GraphId="d8315">
+    <Graphics CenterX="367.4302666050238" CenterY="650.5285868392671" Width="181.11111111111097" Height="71.11111111111086" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="TDP-43: aggregation&#xA;in inclusion bodies" GraphId="e2546">
+    <Graphics CenterX="1103.0623015873018" CenterY="628.3500000000003" Width="114.82777777777895" Height="63.299999999999955" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="phosphorylated by AKT:&#xA;inhibit enzymatic activation" GraphId="e3206">
+    <Graphics CenterX="448.3179958391121" CenterY="531.6369625520111" Width="155.24999999999997" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="aggregation" GraphId="f3785">
+    <Graphics CenterX="746.1428571428563" CenterY="306.23333333333346" Width="90.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Shape GraphId="bd508">
+    <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Cell" />
+    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double" />
+    <Graphics CenterX="739.6031746031745" CenterY="561.5130121816168" Width="1030.6349206349205" Height="836.9444444444443" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
+  </Shape>
+  <Shape GraphId="df0ac">
+    <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Nucleus" />
+    <Attribute Key="org.pathvisio.DoubleLineProperty" Value="Double" />
+    <Graphics CenterX="501.4424410540917" CenterY="846.9010055478501" Width="411.9278779472954" Height="239.6237864077671" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Oval" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
+  </Shape>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">frontotemporal dementia</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:9255</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alzheimer's disease</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:10652</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="cb3">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31911834</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">δ-secretase in neurodegenerative diseases: mechanisms, regulators and therapeutic opportunities.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transl Neurodegener</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zhang Z</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tian Y</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ye K</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">amyotrophic lateral sclerosis</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:332</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Parkinson's disease</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:14330</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">neurodegenerative disease</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:1289</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
+  </Biopax>
+</Pathway>

@@ -1,0 +1,36 @@
+δ-secretase in neurodegenerative diseases.
+Dear Prof. Digles,
+ 
+this is my user name and email for the classic Wikipathways: Pat hofer, hofer_patrick@gmx.at
+ 
+Best regards,
+ 
+δ-secretase in neurodegenerative diseases
+δ-secretase in neurodegenerative diseases
+δ-secretase in neurodegenerative diseases
+
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P10636
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P05067
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P42224
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: Q16620
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P23560
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P56817
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: Q01105
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P10636
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P17676
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: Q13148
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P27338
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P37840
+[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P78362
+[TRANSCRIPTION_TRANSLATION:id8e743321]	Invalid interaction type.
+[STIMULATION:id4bea0ac7]	Invalid interaction type.
+[STIMULATION:ide84b785d]	Invalid interaction type.
+[STIMULATION:id8e405755]	Invalid interaction type.
+[STIMULATION:idf9476c0a]	Invalid interaction type.
+[CATALYSIS:idc8b18fa8]	Interaction can not connect two anchors.
+[CATALYSIS:idd15557ac]	Interaction can not connect two anchors.
+[CATALYSIS:idfa36a0c6]	Interaction can not connect two anchors.
+[HeterodimerAssociationReaction:ideda33385]	Reaction should contain at least 2 reactants. GraphId: ideda33385
+[HeterodimerAssociationReaction:id1610061a]	Reaction should contain at least 2 reactants. GraphId: id1610061a
+[HeterodimerAssociationReaction:ida8d8beb]	Reaction should contain at least 2 reactants. GraphId: ida8d8beb
+[HeterodimerAssociationReaction:ide02413c7]	Reaction should contain at least 2 reactants. GraphId: ide02413c7
