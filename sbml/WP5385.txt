@@ -1,0 +1,43 @@
+Growth factors and hormones in Beta-cell proliferation
+Growh factors and hormones in Beta-cell proliferation
+
+
+[-:-]	This database type is not implemented yet: Other; resource: CHEBI:18258
+[-:-]	This database type is not implemented yet: Other; resource: CHEBI:18332
+[-:-]	This database type is not implemented yet: Other; resource: CHEBI:29108
+[-:-]	This database type is not implemented yet: Other; resource: CHEBI:18258
+[STIMULATION:id12d019b7]	Interaction is not connected
+[STIMULATION:id23675709]	Interaction is not connected
+[STIMULATION:id3932fca8]	Interaction is not connected
+[STIMULATION:id6efcb2b5]	Interaction is not connected
+[STIMULATION:id73560808]	Interaction is not connected
+[STIMULATION:id773935ed]	Interaction is not connected
+[STIMULATION:id8f3efec]	Interaction is not connected
+[STIMULATION:id9f37ed98]	Interaction is not connected
+[STIMULATION:id9f518d00]	Interaction is not connected
+[STIMULATION:ida15bf21f]	Interaction is not connected
+[STIMULATION:idb6cca23c]	Interaction is not connected
+[STIMULATION:idc12871cf]	Interaction is not connected
+[INHIBITION:idd001a62e]	Interaction is not connected
+[STIMULATION:iddbe138d7]	Interaction is not connected
+[STIMULATION:iddc58a8d7]	Interaction is not connected
+[STIMULATION:idf33bcfe6]	Interaction is not connected
+[STIMULATION:idc3d2ec4b]	Invalid interaction type.
+[STIMULATION:id367f4ecd]	Invalid interaction type.
+[STIMULATION:id11c8e5f8]	Invalid interaction type.
+[STIMULATION:id8dbbe773]	Invalid interaction type.
+[STIMULATION:idbd8469d]	Invalid interaction type.
+[STIMULATION:idcb6bb4ac]	Invalid interaction type.
+[STIMULATION:id17156c19]	Invalid interaction type.
+[STIMULATION:ide8f8233c]	Invalid interaction type.
+[STIMULATION:id3eda4dcd]	Invalid interaction type.
+[STIMULATION:ide9cccc2a]	Invalid interaction type.
+[:db8d7]	 Shape can not be part of reaction. Tranforming to Unknown
+[HeterodimerAssociationReaction:id98a5e5f]	Reaction should contain at least 2 reactants. GraphId: id98a5e5f
+[HeterodimerAssociationReaction:id28aeb278]	Reaction should contain at least 2 reactants. GraphId: id28aeb278
+[HeterodimerAssociationReaction:idde9852b]	Reaction should contain at least 2 reactants. GraphId: idde9852b
+[HeterodimerAssociationReaction:id26e3cb39]	Reaction should contain at least 2 reactants. GraphId: id26e3cb39
+[HeterodimerAssociationReaction:id1ee658bd]	Reaction should contain at least 2 reactants. GraphId: id1ee658bd
+[HeterodimerAssociationReaction:ide83591df]	Reaction should contain at least 2 reactants. GraphId: ide83591df
+[HeterodimerAssociationReaction:id6105db16]	Reaction should contain at least 2 reactants. GraphId: id6105db16
+[HeterodimerAssociationReaction:idb2e4be81]	Reaction should contain at least 2 reactants. GraphId: idb2e4be81
