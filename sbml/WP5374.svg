@@ -8,11 +8,7 @@
   /><g
   ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="-1" width="1571" height="955" y="-1" stroke="none"
-      /><path fill="rgb(248,247,240)" d="M715.1516 376.921 L802.7889 376.921 L807.7889 381.921 L807.7889 446.0078 L802.7889 451.0078 L715.1516 451.0078 L710.1516 446.0078 L710.1516 381.921 Z" fill-rule="evenodd" stroke="none"
-      /><path fill="none" d="M715.1516 376.921 L802.7889 376.921 L807.7889 381.921 L807.7889 446.0078 L802.7889 451.0078 L715.1516 451.0078 L710.1516 446.0078 L710.1516 381.921 Z" stroke-width="3" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="740" xml:space="preserve" y="446" font-family="sans-serif" stroke="none"
-      >df776</text
-      ><path fill="none" d="M609.9387 410.6128 L653.0452 410.4343" stroke="black"
+      /><path fill="none" d="M609.9387 410.6128 L653.0452 410.4343" stroke="black"
       /><path fill="black" d="M623.773 404.8152 L609.9387 410.6128 L623.8206 416.2956 Z" stroke="none"
       /><path fill="none" d="M663.0451 410.3929 L706.1516 410.2144" stroke="black"
       /><path fill="black" d="M692.3173 416.012 L706.1516 410.2144 L692.2697 404.5316 Z" stroke="none"
@@ -22,6 +18,12 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="655" xml:space="preserve" y="414" stroke="none"
       >?</text
+    ></g
+    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
+    ><path d="M715.1516 376.921 L802.7889 376.921 L807.7889 381.921 L807.7889 446.0078 L802.7889 451.0078 L715.1516 451.0078 L710.1516 446.0078 L710.1516 381.921 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" d="M715.1516 376.921 L802.7889 376.921 L807.7889 381.921 L807.7889 446.0078 L802.7889 451.0078 L715.1516 451.0078 L710.1516 446.0078 L710.1516 381.921 Z" stroke-width="3" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="740" xml:space="preserve" y="446" font-family="sans-serif" stroke="none"
+      >df776</text
     ></g
     ><g fill-opacity="0.0314" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.0314"
     ><rect x="-175.7675" y="129.9458" width="1543.7216" rx="10" ry="10" height="787.9099" stroke="none"
@@ -50,34 +52,6 @@
     ><g text-rendering="geometricPrecision" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
     ><text x="777" xml:space="preserve" y="707" stroke="none"
       >TGF-β response genes</text
-      ><rect fill="white" x="864" width="80" height="20" y="758" stroke="none"
-      /><rect fill="none" x="864" width="80" height="20" y="758"
-      /><text x="874" xml:space="preserve" y="772" stroke="none"
-      >SERPINE1</text
-      ><rect x="1217.4401" y="787.2007" fill="white" width="90" rx="5" ry="5" height="37.3451" stroke="none"
-      /><rect x="1217.4401" y="787.2007" fill="none" width="90" rx="5" ry="5" height="37.3451"
-      /><text x="1249" xml:space="preserve" y="810" stroke="none"
-      >ECM</text
-      ><rect fill="white" x="809" width="80" height="20" y="302" stroke="none"
-      /><rect fill="none" x="809" width="80" height="20" y="302"
-      /><text x="828" xml:space="preserve" y="316" stroke="none"
-      >Smad4</text
-      ><rect fill="white" x="764" width="80" height="20" y="761" stroke="none"
-      /><rect fill="none" x="764" width="80" height="20" y="761"
-      /><text x="783" xml:space="preserve" y="775" stroke="none"
-      >POSTN</text
-      ><rect x="552.0318" y="85.4774" fill="white" width="56.918" rx="5" ry="5" height="170.6921" stroke="none"
-      /><rect x="552.0318" y="85.4774" fill="none" width="56.918" rx="5" ry="5" height="170.6921"
-      /><text x="559" xml:space="preserve" y="175" stroke="none"
-      >TGF-I-R</text
-      ><rect fill="white" x="480" width="80" height="20" y="312" stroke="none"
-      /><rect fill="none" x="480" width="80" height="20" y="312"
-      /><text x="499" xml:space="preserve" y="327" stroke="none"
-      >Smad3</text
-      ><rect fill="white" x="818" width="80" height="20" y="731" stroke="none"
-      /><rect fill="none" x="818" width="80" height="20" y="731"
-      /><text x="841" xml:space="preserve" y="745" stroke="none"
-      >CNN2</text
       ><rect fill="white" x="480" width="80" height="20" y="291" stroke="none"
       /><rect fill="none" x="480" width="80" height="20" y="291"
       /><text x="499" xml:space="preserve" y="305" stroke="none"
@@ -90,6 +64,34 @@
       /><rect fill="none" x="821" width="80" height="20" y="791"
       /><text x="841" xml:space="preserve" y="806" stroke="none"
       >SPARC</text
+      ><rect fill="white" x="480" width="80" height="20" y="312" stroke="none"
+      /><rect fill="none" x="480" width="80" height="20" y="312"
+      /><text x="499" xml:space="preserve" y="327" stroke="none"
+      >Smad3</text
+      ><rect fill="white" x="809" width="80" height="20" y="302" stroke="none"
+      /><rect fill="none" x="809" width="80" height="20" y="302"
+      /><text x="828" xml:space="preserve" y="316" stroke="none"
+      >Smad4</text
+      ><rect fill="white" x="764" width="80" height="20" y="761" stroke="none"
+      /><rect fill="none" x="764" width="80" height="20" y="761"
+      /><text x="783" xml:space="preserve" y="775" stroke="none"
+      >POSTN</text
+      ><rect x="1217.4401" y="787.2007" fill="white" width="90" rx="5" ry="5" height="37.3451" stroke="none"
+      /><rect x="1217.4401" y="787.2007" fill="none" width="90" rx="5" ry="5" height="37.3451"
+      /><text x="1249" xml:space="preserve" y="810" stroke="none"
+      >ECM</text
+      ><rect fill="white" x="818" width="80" height="20" y="731" stroke="none"
+      /><rect fill="none" x="818" width="80" height="20" y="731"
+      /><text x="841" xml:space="preserve" y="745" stroke="none"
+      >CNN2</text
+      ><rect x="552.0318" y="85.4774" fill="white" width="56.918" rx="5" ry="5" height="170.6921" stroke="none"
+      /><rect x="552.0318" y="85.4774" fill="none" width="56.918" rx="5" ry="5" height="170.6921"
+      /><text x="559" xml:space="preserve" y="175" stroke="none"
+      >TGF-I-R</text
+      ><rect fill="white" x="864" width="80" height="20" y="758" stroke="none"
+      /><rect fill="none" x="864" width="80" height="20" y="758"
+      /><text x="874" xml:space="preserve" y="772" stroke="none"
+      >SERPINE1</text
       ><circle fill="white" r="7.5" cx="608.9498" cy="256.1695" stroke="none"
       /><circle fill="none" r="7.5" cx="608.9498" cy="256.1695"
       /><text x="605" xml:space="preserve" font-size="10px" y="261" stroke="none"
@@ -106,15 +108,15 @@
       /><rect fill="none" x="628" width="80" height="20" y="292"
       /><text x="646" xml:space="preserve" y="306" stroke="none"
       >Smad2</text
+      ><rect fill="white" x="628" width="80" height="20" y="312" stroke="none"
+      /><rect fill="none" x="628" width="80" height="20" y="312"
+      /><text x="646" xml:space="preserve" y="326" stroke="none"
+      >Smad3</text
       ><circle fill="white" r="7.5" cx="708.1613" cy="278.9741" stroke="none"
       /><circle fill="none" r="7.5" cx="708.1613" cy="278.9741"
       /><line y2="293" fill="none" x1="708" x2="708" y1="286"
       /><text x="705" xml:space="preserve" font-size="10px" y="283" stroke="none"
       >P</text
-      ><rect fill="white" x="628" width="80" height="20" y="312" stroke="none"
-      /><rect fill="none" x="628" width="80" height="20" y="312"
-      /><text x="646" xml:space="preserve" y="326" stroke="none"
-      >Smad3</text
       ><circle fill="white" r="7.5" cx="708.1613" cy="303.8882" stroke="none"
       /><circle fill="none" r="7.5" cx="708.1613" cy="303.8882"
       /><line y2="318" fill="none" x1="708" x2="708" y1="311"
@@ -154,15 +156,15 @@
       /><rect fill="none" x="674" width="80" height="20" y="543"
       /><text x="693" xml:space="preserve" y="557" stroke="none"
       >Smad2</text
-      ><rect fill="white" x="674" width="80" height="20" y="563" stroke="none"
-      /><rect fill="none" x="674" width="80" height="20" y="563"
-      /><text x="693" xml:space="preserve" y="577" stroke="none"
-      >Smad3</text
       ><circle fill="white" r="7.5" cx="754.5658" cy="528.4625" stroke="none"
       /><circle fill="none" r="7.5" cx="754.5658" cy="528.4625"
       /><line y2="543" fill="none" x1="754" x2="754" y1="535"
       /><text x="751" xml:space="preserve" font-size="10px" y="533" stroke="none"
       >P</text
+      ><rect fill="white" x="674" width="80" height="20" y="563" stroke="none"
+      /><rect fill="none" x="674" width="80" height="20" y="563"
+      /><text x="693" xml:space="preserve" y="577" stroke="none"
+      >Smad3</text
       ><circle fill="white" r="7.5" cx="754.5658" cy="550.6529" stroke="none"
       /><circle fill="none" r="7.5" cx="754.5658" cy="550.6529"
       /><line y2="565" fill="none" x1="754" x2="754" y1="558"
@@ -192,14 +194,14 @@
       /><rect x="1443.2817" y="697.8204" fill="none" width="90" rx="5" ry="5" height="37.3451"
       /><text x="1475" xml:space="preserve" y="720" stroke="none"
       >ECM</text
+      ><text x="1039" xml:space="preserve" y="791" font-family="'Dialog'" stroke="none"
+      >pathological conditions</text
       ><text x="702" xml:space="preserve" y="676" font-family="'Dialog'" stroke="none"
       >nucleus</text
       ><text x="849" xml:space="preserve" y="119" font-family="'Dialog'" stroke="none"
       >extracellular space</text
       ><text x="874" xml:space="preserve" y="150" font-family="'Dialog'" stroke="none"
       >cytoplasm </text
-      ><text x="1039" xml:space="preserve" y="791" font-family="'Dialog'" stroke="none"
-      >pathological conditions</text
     ></g
   ></g
 ></svg

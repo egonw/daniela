@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8' standalone='no'?>
-<!-- Created by minerva version 16.2.11 on 2023-06-13 at 11:31:31 CEST with JSBML version 1.6.1. -->
+<!-- Created by minerva version 16.2.11 on 2023-06-14 at 07:54:41 CEST with JSBML version 1.6.1. -->
 <sbml xmlns="http://www.sbml.org/sbml/level3/version2/core" layout:required="false" level="3" multi:required="true" render:required="false" version="2" xmlns:layout="http://www.sbml.org/sbml/level3/version1/layout/version1" xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1" xmlns:render="http://www.sbml.org/sbml/level3/version1/render/version1">
   <model areaUnits="area_unit" extentUnits="mole" lengthUnits="metre" substanceUnits="mole" timeUnits="second" volumeUnits="litre">
     <notes>
@@ -16,8 +16,8 @@
 [DataNode:de268]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
 [-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: Q9GZV5
 [-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P01137
-[ARROW:id14324]	Interaction is not connected
-[BINDING:id14325]	Interaction is not connected
+[ARROW:id14328]	Interaction is not connected
+[BINDING:id14329]	Interaction is not connected
 [LINE:id1e336d19]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
 [TRANSCRIPTION_TRANSLATION:id1e336d19]	Interaction is not connected
 [ARROW:idda3457ff]	Interaction is not connected
@@ -25,15 +25,15 @@
 [BINDING:cf048]	Interaction is not connected
 [BINDING:fda4c]	Interaction is not connected
 [MODIFICATION:e8074]	Interaction is not connected
-[LINE:id14323]	Invalid interaction type.
-[LINE:id14322]	Interaction edge is invalid (one end is not connected).
+[LINE:id14327]	Invalid interaction type.
+[LINE:id14326]	Interaction edge is invalid (one end is not connected).
 [BioPax:da0]	No pubmed identifier defined for publication: title: The role of matricellular proteins in glaucoma
 [BioPax:cba]	No pubmed identifier defined for publication: title: The role of matricellular proteins in glaucoma
 [BiopaxReference:cba]	Publication is invalid.
 [BiopaxReference:da0]	Publication is invalid.
-[Complex:b6eab]	Empty element is invalid
+[Complex:a983a]	Empty element is invalid
 [Complex:b83b9]	Empty element is invalid
-[Complex:a983a]	Empty element is invalid</p>
+[Complex:b6eab]	Empty element is invalid</p>
 </body>
     </notes>
     <annotation>
@@ -100,86 +100,24 @@
               <render:style render:idList="text_d9197">
                 <render:g render:stroke="color_FF000000" render:text-anchor="start" render:vtext-anchor="top"/>
               </render:style>
-              <render:style render:idList="de268">
+              <render:style render:idList="f9fcd">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
                       <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
                       <render:element render:x="52" render:y="0" xsi:type="RenderPoint"/>
                       <render:element render:basePoint1_x="54" render:basePoint1_y="0" render:basePoint2_x="57" render:basePoint2_y="3" render:x="57" render:y="5" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="57" render:y="166" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="57" render:basePoint1_y="168" render:basePoint2_x="54" render:basePoint2_y="171" render:x="52" render:y="171" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="5" render:y="171" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="3" render:basePoint1_y="171" render:basePoint2_x="0" render:basePoint2_y="168" render:x="0" render:y="166" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="57" render:y="22" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="57" render:basePoint1_y="24" render:basePoint2_x="54" render:basePoint2_y="27" render:x="52" render:y="27" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="5" render:y="27" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="3" render:basePoint1_y="27" render:basePoint2_x="0" render:basePoint2_y="24" render:x="0" render:y="22" xsi:type="RenderCubicBezier"/>
                       <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
                       <render:element render:basePoint1_x="0" render:basePoint1_y="3" render:basePoint2_x="3" render:basePoint2_y="0" render:x="5" render:y="0" xsi:type="RenderCubicBezier"/>
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
               </render:style>
-              <render:style render:idList="text_de268">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="f0fb3">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_f0fb3">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="modification_text_34045">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="modification_34043">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="50%" render:y="-7+50%" xsi:type="RenderPoint"/>
-                      <render:element render:x="50%" render:y="50%" xsi:type="RenderPoint"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="aba83">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="13" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
-                      <render:element render:x="85" render:y="0" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="87" render:basePoint1_y="0" render:basePoint2_x="90" render:basePoint2_y="3" render:x="90" render:y="5" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="90" render:y="56" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="90" render:basePoint1_y="58" render:basePoint2_x="87" render:basePoint2_y="61" render:x="85" render:y="61" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="5" render:y="61" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="3" render:basePoint1_y="61" render:basePoint2_x="0" render:basePoint2_y="58" render:x="0" render:y="56" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="0" render:basePoint1_y="3" render:basePoint2_x="3" render:basePoint2_y="0" render:x="5" render:y="0" xsi:type="RenderCubicBezier"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_aba83">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="d4d1e">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
-                      <render:element render:x="85" render:y="0" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="87" render:basePoint1_y="0" render:basePoint2_x="90" render:basePoint2_y="3" render:x="90" render:y="5" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="90" render:y="32" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="90" render:basePoint1_y="34" render:basePoint2_x="87" render:basePoint2_y="37" render:x="85" render:y="37" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="5" render:y="37" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="3" render:basePoint1_y="37" render:basePoint2_x="0" render:basePoint2_y="34" render:x="0" render:y="32" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="0" render:basePoint1_y="3" render:basePoint2_x="3" render:basePoint2_y="0" render:x="5" render:y="0" xsi:type="RenderCubicBezier"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_d4d1e">
+              <render:style render:idList="text_f9fcd">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
               <render:style render:idList="bff42">
@@ -202,20 +140,32 @@
               <render:style render:idList="text_bff42">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="modification_text_34048">
+              <render:style render:idList="modification_text_34320">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="modification_34046">
+              <render:style render:idList="modification_34318">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:ellipse render:cx="50%" render:cy="50%" render:rx="50%" render:ry="50%"/>
                 </render:g>
               </render:style>
-              <render:style render:idList="gen_dn_1">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+              <render:style render:idList="aba83">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="13" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
+                      <render:element render:x="85" render:y="0" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="87" render:basePoint1_y="0" render:basePoint2_x="90" render:basePoint2_y="3" render:x="90" render:y="5" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="90" render:y="56" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="90" render:basePoint1_y="58" render:basePoint2_x="87" render:basePoint2_y="61" render:x="85" render:y="61" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="5" render:y="61" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="3" render:basePoint1_y="61" render:basePoint2_x="0" render:basePoint2_y="58" render:x="0" render:y="56" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="0" render:basePoint1_y="3" render:basePoint2_x="3" render:basePoint2_y="0" render:x="5" render:y="0" xsi:type="RenderCubicBezier"/>
+                    </render:listOfElements>
+                  </render:polygon>
                 </render:g>
               </render:style>
-              <render:style render:idList="text_gen_dn_1">
+              <render:style render:idList="text_aba83">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
               <render:style render:idList="b9c95">
@@ -226,6 +176,28 @@
               <render:style render:idList="text_b9c95">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
+              <render:style render:idList="a8b49">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_a8b49">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="modification_text_34323">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="modification_34321">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="50%" render:y="-7+50%" xsi:type="RenderPoint"/>
+                      <render:element render:x="50%" render:y="50%" xsi:type="RenderPoint"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
+              </render:style>
               <render:style render:idList="cd195">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
@@ -234,10 +206,10 @@
               <render:style render:idList="text_cd195">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="modification_text_34051">
+              <render:style render:idList="modification_text_34326">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="modification_34049">
+              <render:style render:idList="modification_34324">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
                   <render:polygon>
@@ -248,18 +220,34 @@
                   </render:polygon>
                 </render:g>
               </render:style>
-              <render:style render:idList="f241f">
+              <render:style render:idList="gen_dn_3">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
                 </render:g>
               </render:style>
-              <render:style render:idList="text_f241f">
+              <render:style render:idList="text_gen_dn_3">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="modification_text_34054">
+              <render:style render:idList="ecec5">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_ecec5">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="e8a92">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_e8a92">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="modification_text_34329">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="modification_34052">
+              <render:style render:idList="modification_34327">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
                   <render:polygon>
@@ -269,56 +257,6 @@
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
-              </render:style>
-              <render:style render:idList="f1c1b">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_f1c1b">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="modification_text_34057">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="modification_34055">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="50%" render:y="-7+50%" xsi:type="RenderPoint"/>
-                      <render:element render:x="50%" render:y="50%" xsi:type="RenderPoint"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="f9fcd">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
-                      <render:element render:x="52" render:y="0" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="54" render:basePoint1_y="0" render:basePoint2_x="57" render:basePoint2_y="3" render:x="57" render:y="5" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="57" render:y="22" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="57" render:basePoint1_y="24" render:basePoint2_x="54" render:basePoint2_y="27" render:x="52" render:y="27" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="5" render:y="27" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="3" render:basePoint1_y="27" render:basePoint2_x="0" render:basePoint2_y="24" render:x="0" render:y="22" xsi:type="RenderCubicBezier"/>
-                      <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
-                      <render:element render:basePoint1_x="0" render:basePoint1_y="3" render:basePoint2_x="3" render:basePoint2_y="0" render:x="5" render:y="0" xsi:type="RenderCubicBezier"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_f9fcd">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="gen_dn_0">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_gen_dn_0">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
               <render:style render:idList="cbcbc">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="13" render:stroke="color_FF000000" render:stroke-width="1">
@@ -340,41 +278,6 @@
               <render:style render:idList="text_cbcbc">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="gen_dn_2">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_gen_dn_2">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="d7a78">
-                <render:g render:fill="color_FFF8F7F0" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
-                      <render:element render:x="91" render:y="0" xsi:type="RenderPoint"/>
-                      <render:element render:x="96" render:y="5" xsi:type="RenderPoint"/>
-                      <render:element render:x="96" render:y="51" xsi:type="RenderPoint"/>
-                      <render:element render:x="91" render:y="56" xsi:type="RenderPoint"/>
-                      <render:element render:x="5" render:y="56" xsi:type="RenderPoint"/>
-                      <render:element render:x="0" render:y="51" xsi:type="RenderPoint"/>
-                      <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_d7a78">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="bottom"/>
-              </render:style>
-              <render:style render:idList="ecec5">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_ecec5">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
               <render:style render:idList="df776">
                 <render:g render:fill="color_FFF8F7F0" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
@@ -393,36 +296,6 @@
               </render:style>
               <render:style render:idList="text_df776">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="bottom"/>
-              </render:style>
-              <render:style render:idList="a8b49">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_a8b49">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="modification_text_34060">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
-              <render:style render:idList="modification_34058">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
-                  <render:polygon>
-                    <render:listOfElements>
-                      <render:element render:x="50%" render:y="-7+50%" xsi:type="RenderPoint"/>
-                      <render:element render:x="50%" render:y="50%" xsi:type="RenderPoint"/>
-                    </render:listOfElements>
-                  </render:polygon>
-                </render:g>
-              </render:style>
-              <render:style render:idList="ba711">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_ba711">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
               <render:style render:idList="ae149">
                 <render:g render:fill="color_FFF8F7F0" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
@@ -443,14 +316,6 @@
               <render:style render:idList="text_ae149">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="bottom"/>
               </render:style>
-              <render:style render:idList="gen_dn_3">
-                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
-                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
-                </render:g>
-              </render:style>
-              <render:style render:idList="text_gen_dn_3">
-                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
-              </render:style>
               <render:style render:idList="ba3a1">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
@@ -459,26 +324,50 @@
               <render:style render:idList="text_ba3a1">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="d6126">
+              <render:style render:idList="gen_dn_0">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
                 </render:g>
               </render:style>
-              <render:style render:idList="text_d6126">
+              <render:style render:idList="text_gen_dn_0">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="e8a92">
+              <render:style render:idList="ba711">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
                 </render:g>
               </render:style>
-              <render:style render:idList="text_e8a92">
+              <render:style render:idList="text_ba711">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="modification_text_34063">
+              <render:style render:idList="gen_dn_2">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_gen_dn_2">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="gen_dn_1">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_gen_dn_1">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="f241f">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_f241f">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="modification_text_34332">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
-              <render:style render:idList="modification_34061">
+              <render:style render:idList="modification_34330">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
                   <render:polygon>
@@ -488,6 +377,55 @@
                     </render:listOfElements>
                   </render:polygon>
                 </render:g>
+              </render:style>
+              <render:style render:idList="d7a78">
+                <render:g render:fill="color_FFF8F7F0" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
+                      <render:element render:x="91" render:y="0" xsi:type="RenderPoint"/>
+                      <render:element render:x="96" render:y="5" xsi:type="RenderPoint"/>
+                      <render:element render:x="96" render:y="51" xsi:type="RenderPoint"/>
+                      <render:element render:x="91" render:y="56" xsi:type="RenderPoint"/>
+                      <render:element render:x="5" render:y="56" xsi:type="RenderPoint"/>
+                      <render:element render:x="0" render:y="51" xsi:type="RenderPoint"/>
+                      <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_d7a78">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="bottom"/>
+              </render:style>
+              <render:style render:idList="f0fb3">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_f0fb3">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="modification_text_34335">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="modification_34333">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="50%" render:y="-7+50%" xsi:type="RenderPoint"/>
+                      <render:element render:x="50%" render:y="50%" xsi:type="RenderPoint"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
+              </render:style>
+              <render:style render:idList="d6126">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_d6126">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
               <render:style render:idList="cb0bb">
                 <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
@@ -507,6 +445,68 @@
                 </render:g>
               </render:style>
               <render:style render:idList="text_cb0bb">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="d4d1e">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
+                      <render:element render:x="85" render:y="0" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="87" render:basePoint1_y="0" render:basePoint2_x="90" render:basePoint2_y="3" render:x="90" render:y="5" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="90" render:y="32" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="90" render:basePoint1_y="34" render:basePoint2_x="87" render:basePoint2_y="37" render:x="85" render:y="37" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="5" render:y="37" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="3" render:basePoint1_y="37" render:basePoint2_x="0" render:basePoint2_y="34" render:x="0" render:y="32" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="0" render:basePoint1_y="3" render:basePoint2_x="3" render:basePoint2_y="0" render:x="5" render:y="0" xsi:type="RenderCubicBezier"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_d4d1e">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="f1c1b">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:rectangle render:height="100%" render:rx="0" render:ry="0" render:width="100%" render:x="0" render:y="0"/>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_f1c1b">
+                <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="modification_text_34338">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1" render:text-anchor="middle" render:vtext-anchor="middle"/>
+              </render:style>
+              <render:style render:idList="modification_34336">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="10" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:ellipse render:cx="50%" render:cy="-15+50%" render:rx="8" render:ry="8"/>
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="50%" render:y="-7+50%" xsi:type="RenderPoint"/>
+                      <render:element render:x="50%" render:y="50%" xsi:type="RenderPoint"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
+              </render:style>
+              <render:style render:idList="de268">
+                <render:g render:fill="color_FFFFFFFF" render:font-size="12" render:stroke="color_FF000000" render:stroke-width="1">
+                  <render:polygon>
+                    <render:listOfElements>
+                      <render:element render:x="5" render:y="0" xsi:type="RenderPoint"/>
+                      <render:element render:x="52" render:y="0" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="54" render:basePoint1_y="0" render:basePoint2_x="57" render:basePoint2_y="3" render:x="57" render:y="5" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="57" render:y="166" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="57" render:basePoint1_y="168" render:basePoint2_x="54" render:basePoint2_y="171" render:x="52" render:y="171" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="5" render:y="171" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="3" render:basePoint1_y="171" render:basePoint2_x="0" render:basePoint2_y="168" render:x="0" render:y="166" xsi:type="RenderCubicBezier"/>
+                      <render:element render:x="0" render:y="5" xsi:type="RenderPoint"/>
+                      <render:element render:basePoint1_x="0" render:basePoint1_y="3" render:basePoint2_x="3" render:basePoint2_y="0" render:x="5" render:y="0" xsi:type="RenderCubicBezier"/>
+                    </render:listOfElements>
+                  </render:polygon>
+                </render:g>
+              </render:style>
+              <render:style render:idList="text_de268">
                 <render:g render:stroke="color_FF000000" render:text-anchor="middle" render:vtext-anchor="middle"/>
               </render:style>
               <render:style render:idList="node_1">
@@ -536,7 +536,7 @@
               <render:style render:idList="node_6">
                 <render:g render:endHead="line_ending_FULL" render:fill="color_FF000000" render:stroke="color_FF000000" render:stroke-width="1"/>
               </render:style>
-              <render:style render:idList="id14323_4">
+              <render:style render:idList="id14327_4">
                 <render:g render:fill="color_FFFFFFFF" render:stroke="color_FF000000" render:stroke-width="1">
                   <render:polygon>
                     <render:listOfElements>
@@ -565,27 +565,13 @@
         </render:listOfRenderInformation>
         <layout:dimensions layout:height="948" layout:width="1564"/>
         <layout:listOfAdditionalGraphicalObjects>
-          <layout:generalGlyph layout:id="modification_34043" layout:reference="modification_residue_0">
-            <layout:boundingBox>
-              <layout:position layout:x="792.151582292498" layout:y="378.9209606748152" layout:z="32778"/>
-              <layout:dimensions layout:height="12" layout:width="12"/>
-            </layout:boundingBox>
-            <layout:listOfReferenceGlyphs>
-              <layout:referenceGlyph layout:glyph="f0fb3" layout:id="modification_reference_34044">
-                <layout:boundingBox>
-                  <layout:position layout:x="792.151582292498" layout:y="378.9209606748152" layout:z="32778"/>
-                  <layout:dimensions layout:height="12" layout:width="12"/>
-                </layout:boundingBox>
-              </layout:referenceGlyph>
-            </layout:listOfReferenceGlyphs>
-          </layout:generalGlyph>
-          <layout:generalGlyph layout:id="modification_34046" layout:reference="modification_residue_1">
+          <layout:generalGlyph layout:id="modification_34318" layout:reference="modification_residue_0">
             <layout:boundingBox>
               <layout:position layout:x="602.9497661922671" layout:y="250.16951480378327" layout:z="32769"/>
               <layout:dimensions layout:height="12" layout:width="12"/>
             </layout:boundingBox>
             <layout:listOfReferenceGlyphs>
-              <layout:referenceGlyph layout:glyph="bff42" layout:id="modification_reference_34047">
+              <layout:referenceGlyph layout:glyph="bff42" layout:id="modification_reference_34319">
                 <layout:boundingBox>
                   <layout:position layout:x="602.9497661922671" layout:y="250.16951480378327" layout:z="32769"/>
                   <layout:dimensions layout:height="12" layout:width="12"/>
@@ -593,55 +579,13 @@
               </layout:referenceGlyph>
             </layout:listOfReferenceGlyphs>
           </layout:generalGlyph>
-          <layout:generalGlyph layout:id="modification_34049" layout:reference="modification_residue_2">
-            <layout:boundingBox>
-              <layout:position layout:x="702.1612741125424" layout:y="287.9741018472757" layout:z="32773"/>
-              <layout:dimensions layout:height="12" layout:width="12"/>
-            </layout:boundingBox>
-            <layout:listOfReferenceGlyphs>
-              <layout:referenceGlyph layout:glyph="cd195" layout:id="modification_reference_34050">
-                <layout:boundingBox>
-                  <layout:position layout:x="702.1612741125424" layout:y="287.9741018472757" layout:z="32773"/>
-                  <layout:dimensions layout:height="12" layout:width="12"/>
-                </layout:boundingBox>
-              </layout:referenceGlyph>
-            </layout:listOfReferenceGlyphs>
-          </layout:generalGlyph>
-          <layout:generalGlyph layout:id="modification_34052" layout:reference="modification_residue_3">
-            <layout:boundingBox>
-              <layout:position layout:x="702.1612741125424" layout:y="312.8882338649557" layout:z="32774"/>
-              <layout:dimensions layout:height="12" layout:width="12"/>
-            </layout:boundingBox>
-            <layout:listOfReferenceGlyphs>
-              <layout:referenceGlyph layout:glyph="f241f" layout:id="modification_reference_34053">
-                <layout:boundingBox>
-                  <layout:position layout:x="702.1612741125424" layout:y="312.8882338649557" layout:z="32774"/>
-                  <layout:dimensions layout:height="12" layout:width="12"/>
-                </layout:boundingBox>
-              </layout:referenceGlyph>
-            </layout:listOfReferenceGlyphs>
-          </layout:generalGlyph>
-          <layout:generalGlyph layout:id="modification_34055" layout:reference="modification_residue_4">
-            <layout:boundingBox>
-              <layout:position layout:x="793.4236976771134" layout:y="398.25006067791804" layout:z="32779"/>
-              <layout:dimensions layout:height="12" layout:width="12"/>
-            </layout:boundingBox>
-            <layout:listOfReferenceGlyphs>
-              <layout:referenceGlyph layout:glyph="f1c1b" layout:id="modification_reference_34056">
-                <layout:boundingBox>
-                  <layout:position layout:x="793.4236976771134" layout:y="398.25006067791804" layout:z="32779"/>
-                  <layout:dimensions layout:height="12" layout:width="12"/>
-                </layout:boundingBox>
-              </layout:referenceGlyph>
-            </layout:listOfReferenceGlyphs>
-          </layout:generalGlyph>
-          <layout:generalGlyph layout:id="modification_34058" layout:reference="modification_residue_5">
+          <layout:generalGlyph layout:id="modification_34321" layout:reference="modification_residue_1">
             <layout:boundingBox>
               <layout:position layout:x="748.5658166584121" layout:y="537.4625479086532" layout:z="32801"/>
               <layout:dimensions layout:height="12" layout:width="12"/>
             </layout:boundingBox>
             <layout:listOfReferenceGlyphs>
-              <layout:referenceGlyph layout:glyph="a8b49" layout:id="modification_reference_34059">
+              <layout:referenceGlyph layout:glyph="a8b49" layout:id="modification_reference_34322">
                 <layout:boundingBox>
                   <layout:position layout:x="748.5658166584121" layout:y="537.4625479086532" layout:z="32801"/>
                   <layout:dimensions layout:height="12" layout:width="12"/>
@@ -649,15 +593,71 @@
               </layout:referenceGlyph>
             </layout:listOfReferenceGlyphs>
           </layout:generalGlyph>
-          <layout:generalGlyph layout:id="modification_34061" layout:reference="modification_residue_6">
+          <layout:generalGlyph layout:id="modification_34324" layout:reference="modification_residue_2">
+            <layout:boundingBox>
+              <layout:position layout:x="702.1612741125424" layout:y="287.9741018472757" layout:z="32773"/>
+              <layout:dimensions layout:height="12" layout:width="12"/>
+            </layout:boundingBox>
+            <layout:listOfReferenceGlyphs>
+              <layout:referenceGlyph layout:glyph="cd195" layout:id="modification_reference_34325">
+                <layout:boundingBox>
+                  <layout:position layout:x="702.1612741125424" layout:y="287.9741018472757" layout:z="32773"/>
+                  <layout:dimensions layout:height="12" layout:width="12"/>
+                </layout:boundingBox>
+              </layout:referenceGlyph>
+            </layout:listOfReferenceGlyphs>
+          </layout:generalGlyph>
+          <layout:generalGlyph layout:id="modification_34327" layout:reference="modification_residue_3">
             <layout:boundingBox>
               <layout:position layout:x="748.565816658412" layout:y="559.6529325240381" layout:z="32802"/>
               <layout:dimensions layout:height="12" layout:width="12"/>
             </layout:boundingBox>
             <layout:listOfReferenceGlyphs>
-              <layout:referenceGlyph layout:glyph="e8a92" layout:id="modification_reference_34062">
+              <layout:referenceGlyph layout:glyph="e8a92" layout:id="modification_reference_34328">
                 <layout:boundingBox>
                   <layout:position layout:x="748.565816658412" layout:y="559.6529325240381" layout:z="32802"/>
+                  <layout:dimensions layout:height="12" layout:width="12"/>
+                </layout:boundingBox>
+              </layout:referenceGlyph>
+            </layout:listOfReferenceGlyphs>
+          </layout:generalGlyph>
+          <layout:generalGlyph layout:id="modification_34330" layout:reference="modification_residue_4">
+            <layout:boundingBox>
+              <layout:position layout:x="702.1612741125424" layout:y="312.8882338649557" layout:z="32774"/>
+              <layout:dimensions layout:height="12" layout:width="12"/>
+            </layout:boundingBox>
+            <layout:listOfReferenceGlyphs>
+              <layout:referenceGlyph layout:glyph="f241f" layout:id="modification_reference_34331">
+                <layout:boundingBox>
+                  <layout:position layout:x="702.1612741125424" layout:y="312.8882338649557" layout:z="32774"/>
+                  <layout:dimensions layout:height="12" layout:width="12"/>
+                </layout:boundingBox>
+              </layout:referenceGlyph>
+            </layout:listOfReferenceGlyphs>
+          </layout:generalGlyph>
+          <layout:generalGlyph layout:id="modification_34333" layout:reference="modification_residue_5">
+            <layout:boundingBox>
+              <layout:position layout:x="792.151582292498" layout:y="378.9209606748152" layout:z="32778"/>
+              <layout:dimensions layout:height="12" layout:width="12"/>
+            </layout:boundingBox>
+            <layout:listOfReferenceGlyphs>
+              <layout:referenceGlyph layout:glyph="f0fb3" layout:id="modification_reference_34334">
+                <layout:boundingBox>
+                  <layout:position layout:x="792.151582292498" layout:y="378.9209606748152" layout:z="32778"/>
+                  <layout:dimensions layout:height="12" layout:width="12"/>
+                </layout:boundingBox>
+              </layout:referenceGlyph>
+            </layout:listOfReferenceGlyphs>
+          </layout:generalGlyph>
+          <layout:generalGlyph layout:id="modification_34336" layout:reference="modification_residue_6">
+            <layout:boundingBox>
+              <layout:position layout:x="793.4236976771134" layout:y="398.25006067791804" layout:z="32779"/>
+              <layout:dimensions layout:height="12" layout:width="12"/>
+            </layout:boundingBox>
+            <layout:listOfReferenceGlyphs>
+              <layout:referenceGlyph layout:glyph="f1c1b" layout:id="modification_reference_34337">
+                <layout:boundingBox>
+                  <layout:position layout:x="793.4236976771134" layout:y="398.25006067791804" layout:z="32779"/>
                   <layout:dimensions layout:height="12" layout:width="12"/>
                 </layout:boundingBox>
               </layout:referenceGlyph>
@@ -685,16 +685,16 @@
           </layout:compartmentGlyph>
         </layout:listOfCompartmentGlyphs>
         <layout:listOfSpeciesGlyphs>
-          <layout:speciesGlyph layout:id="de268" layout:species="species_0">
+          <layout:speciesGlyph layout:id="f9fcd" layout:species="species_0">
             <layout:boundingBox>
-              <layout:position layout:x="469.6973045884015" layout:y="84.70291960065802" layout:z="32770"/>
-              <layout:dimensions layout:height="170.69214635937493" layout:width="56.918"/>
+              <layout:position layout:x="470.3480035475377" layout:y="35.71965769178781" layout:z="32814"/>
+              <layout:dimensions layout:height="27.241052046874966" layout:width="56.918"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="f0fb3" layout:species="species_1">
+          <layout:speciesGlyph layout:id="bff42" layout:species="species_1">
             <layout:boundingBox>
-              <layout:position layout:x="718.151582292498" layout:y="384.9209606748152" layout:z="32777"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
+              <layout:position layout:x="552.0317661922672" layout:y="85.47736844440837" layout:z="32768"/>
+              <layout:dimensions layout:height="170.69214635937493" layout:width="56.918"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
           <layout:speciesGlyph layout:id="aba83" layout:species="species_2">
@@ -703,57 +703,39 @@
               <layout:dimensions layout:height="60.8336336993998" layout:width="90"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="d4d1e" layout:species="species_3">
-            <layout:boundingBox>
-              <layout:position layout:x="1217.4401408450706" layout:y="787.2007042253539" layout:z="32768"/>
-              <layout:dimensions layout:height="37.345070422533404" layout:width="90"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="bff42" layout:species="species_4">
-            <layout:boundingBox>
-              <layout:position layout:x="552.0317661922672" layout:y="85.47736844440837" layout:z="32768"/>
-              <layout:dimensions layout:height="170.69214635937493" layout:width="56.918"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="gen_dn_1" layout:species="species_5">
-            <layout:boundingBox>
-              <layout:position layout:x="821.8875217839822" layout:y="791.9649508698385" layout:z="32768"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="b9c95" layout:species="species_6">
+          <layout:speciesGlyph layout:id="b9c95" layout:species="species_3">
             <layout:boundingBox>
               <layout:position layout:x="480.92380348098413" layout:y="312.5571121829117" layout:z="32768"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="cd195" layout:species="species_7">
+          <layout:speciesGlyph layout:id="a8b49" layout:species="species_4">
+            <layout:boundingBox>
+              <layout:position layout:x="674.5658166584121" layout:y="543.4625479086532" layout:z="32800"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="cd195" layout:species="species_5">
             <layout:boundingBox>
               <layout:position layout:x="628.1612741125424" layout:y="292.14717877035247" layout:z="32772"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="f241f" layout:species="species_8">
+          <layout:speciesGlyph layout:id="gen_dn_3" layout:species="species_6">
             <layout:boundingBox>
-              <layout:position layout:x="628.1612741125424" layout:y="312.2151569418787" layout:z="32773"/>
+              <layout:position layout:x="864.3769281582428" layout:y="758.3238489374842" layout:z="32768"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="f1c1b" layout:species="species_9">
+          <layout:speciesGlyph layout:id="ecec5" layout:species="species_7">
             <layout:boundingBox>
-              <layout:position layout:x="719.4236976771134" layout:y="403.716823461726" layout:z="32778"/>
+              <layout:position layout:x="674.5658166584122" layout:y="583.3298556009611" layout:z="32804"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="f9fcd" layout:species="species_10">
+          <layout:speciesGlyph layout:id="e8a92" layout:species="species_8">
             <layout:boundingBox>
-              <layout:position layout:x="470.3480035475377" layout:y="35.71965769178781" layout:z="32814"/>
-              <layout:dimensions layout:height="27.241052046874966" layout:width="56.918"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="gen_dn_0" layout:species="species_11">
-            <layout:boundingBox>
-              <layout:position layout:x="818.3327856427699" layout:y="731.3843049912834" layout:z="32768"/>
+              <layout:position layout:x="674.565816658412" layout:y="563.4625479086534" layout:z="32801"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
@@ -763,76 +745,94 @@
               <layout:dimensions layout:height="60.8336336993998" layout:width="90"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="gen_dn_2" layout:species="species_12">
-            <layout:boundingBox>
-              <layout:position layout:x="764.2809661680861" layout:y="761.3555163942365" layout:z="32768"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="d7a78" layout:species="species_13">
-            <layout:boundingBox>
-              <layout:position layout:x="620.1612741125424" layout:y="284.14717877035247" layout:z="32771"/>
-              <layout:dimensions layout:height="56.06797817152625" layout:width="96"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="ecec5" layout:species="species_14">
-            <layout:boundingBox>
-              <layout:position layout:x="674.5658166584122" layout:y="583.3298556009611" layout:z="32804"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="df776" layout:species="species_15">
+          <layout:speciesGlyph layout:id="df776" layout:species="species_9">
             <layout:boundingBox>
               <layout:position layout:x="710.151582292498" layout:y="376.9209606748152" layout:z="12288"/>
               <layout:dimensions layout:height="74.0868267841555" layout:width="97.6372837206087"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="a8b49" layout:species="species_16">
-            <layout:boundingBox>
-              <layout:position layout:x="674.5658166584121" layout:y="543.4625479086532" layout:z="32800"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="ba711" layout:species="species_17">
-            <layout:boundingBox>
-              <layout:position layout:x="719.7888660131067" layout:y="423.0077874589707" layout:z="32780"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="ae149" layout:species="species_18">
+          <layout:speciesGlyph layout:id="ae149" layout:species="species_10">
             <layout:boundingBox>
               <layout:position layout:x="666.565816658412" layout:y="535.4625479086532" layout:z="32799"/>
               <layout:dimensions layout:height="75.86730769230792" layout:width="96.00000000000023"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="gen_dn_3" layout:species="species_19">
-            <layout:boundingBox>
-              <layout:position layout:x="864.3769281582428" layout:y="758.3238489374842" layout:z="32768"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="ba3a1" layout:species="species_20">
+          <layout:speciesGlyph layout:id="ba3a1" layout:species="species_11">
             <layout:boundingBox>
               <layout:position layout:x="480.92380348098413" layout:y="291.385576030444" layout:z="32768"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="d6126" layout:species="species_21">
+          <layout:speciesGlyph layout:id="gen_dn_0" layout:species="species_12">
+            <layout:boundingBox>
+              <layout:position layout:x="818.3327856427699" layout:y="731.3843049912834" layout:z="32768"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="ba711" layout:species="species_13">
+            <layout:boundingBox>
+              <layout:position layout:x="719.7888660131067" layout:y="423.0077874589707" layout:z="32780"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="gen_dn_2" layout:species="species_14">
+            <layout:boundingBox>
+              <layout:position layout:x="764.2809661680861" layout:y="761.3555163942365" layout:z="32768"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="gen_dn_1" layout:species="species_15">
+            <layout:boundingBox>
+              <layout:position layout:x="821.8875217839822" layout:y="791.9649508698385" layout:z="32768"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="f241f" layout:species="species_16">
+            <layout:boundingBox>
+              <layout:position layout:x="628.1612741125424" layout:y="312.2151569418787" layout:z="32773"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="d7a78" layout:species="species_17">
+            <layout:boundingBox>
+              <layout:position layout:x="620.1612741125424" layout:y="284.14717877035247" layout:z="32771"/>
+              <layout:dimensions layout:height="56.06797817152625" layout:width="96"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="f0fb3" layout:species="species_18">
+            <layout:boundingBox>
+              <layout:position layout:x="718.151582292498" layout:y="384.9209606748152" layout:z="32777"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="d6126" layout:species="species_19">
             <layout:boundingBox>
               <layout:position layout:x="809.6771813490597" layout:y="302.3111109758613" layout:z="32768"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="e8a92" layout:species="species_22">
-            <layout:boundingBox>
-              <layout:position layout:x="674.565816658412" layout:y="563.4625479086534" layout:z="32801"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:speciesGlyph>
-          <layout:speciesGlyph layout:id="cb0bb" layout:species="species_23">
+          <layout:speciesGlyph layout:id="cb0bb" layout:species="species_20">
             <layout:boundingBox>
               <layout:position layout:x="1443.281690140846" layout:y="697.8204225352134" layout:z="32817"/>
               <layout:dimensions layout:height="37.345070422533404" layout:width="90"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="d4d1e" layout:species="species_21">
+            <layout:boundingBox>
+              <layout:position layout:x="1217.4401408450706" layout:y="787.2007042253539" layout:z="32768"/>
+              <layout:dimensions layout:height="37.345070422533404" layout:width="90"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="f1c1b" layout:species="species_22">
+            <layout:boundingBox>
+              <layout:position layout:x="719.4236976771134" layout:y="403.716823461726" layout:z="32778"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:speciesGlyph>
+          <layout:speciesGlyph layout:id="de268" layout:species="species_23">
+            <layout:boundingBox>
+              <layout:position layout:x="469.6973045884015" layout:y="84.70291960065802" layout:z="32770"/>
+              <layout:dimensions layout:height="170.69214635937493" layout:width="56.918"/>
             </layout:boundingBox>
           </layout:speciesGlyph>
         </layout:listOfSpeciesGlyphs>
@@ -879,7 +879,7 @@
               </layout:speciesReferenceGlyph>
             </layout:listOfSpeciesReferenceGlyphs>
           </layout:reactionGlyph>
-          <layout:reactionGlyph layout:id="id14323_4" layout:reaction="id14323">
+          <layout:reactionGlyph layout:id="id14327_4" layout:reaction="id14327">
             <layout:curve>
               <layout:listOfCurveSegments>
                 <layout:curveSegment xsi:type="LineSegment">
@@ -925,21 +925,21 @@
               <layout:dimensions layout:height="25" layout:width="145.0959619901576"/>
             </layout:boundingBox>
           </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="de268" layout:id="text_de268" layout:text="TGF-II-R">
+          <layout:textGlyph layout:graphicalObject="f9fcd" layout:id="text_f9fcd" layout:text="TGF-β">
             <layout:boundingBox>
-              <layout:position layout:x="469.6973045884015" layout:y="84.70291960065802" layout:z="32771"/>
+              <layout:position layout:x="470.3480035475377" layout:y="35.71965769178781" layout:z="32815"/>
+              <layout:dimensions layout:height="27.241052046874966" layout:width="56.918"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="bff42" layout:id="text_bff42" layout:text="TGF-I-R">
+            <layout:boundingBox>
+              <layout:position layout:x="552.0317661922672" layout:y="85.47736844440837" layout:z="32769"/>
               <layout:dimensions layout:height="170.69214635937493" layout:width="56.918"/>
             </layout:boundingBox>
           </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="f0fb3" layout:id="text_f0fb3" layout:text="Smad2">
+          <layout:textGlyph layout:graphicalObject="modification_34318" layout:id="modification_text_34320" layout:text="P">
             <layout:boundingBox>
-              <layout:position layout:x="718.151582292498" layout:y="384.9209606748152" layout:z="32778"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="modification_34043" layout:id="modification_text_34045" layout:text="P">
-            <layout:boundingBox>
-              <layout:position layout:x="794.151582292498" layout:y="365.9209606748152" layout:z="32779"/>
+              <layout:position layout:x="604.9497661922671" layout:y="252.16951480378327" layout:z="32770"/>
               <layout:dimensions layout:height="8" layout:width="8"/>
             </layout:boundingBox>
           </layout:textGlyph>
@@ -949,112 +949,10 @@
               <layout:dimensions layout:height="60.8336336993998" layout:width="90"/>
             </layout:boundingBox>
           </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="d4d1e" layout:id="text_d4d1e" layout:text="ECM">
-            <layout:boundingBox>
-              <layout:position layout:x="1217.4401408450706" layout:y="787.2007042253539" layout:z="32769"/>
-              <layout:dimensions layout:height="37.345070422533404" layout:width="90"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="bff42" layout:id="text_bff42" layout:text="TGF-I-R">
-            <layout:boundingBox>
-              <layout:position layout:x="552.0317661922672" layout:y="85.47736844440837" layout:z="32769"/>
-              <layout:dimensions layout:height="170.69214635937493" layout:width="56.918"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="modification_34046" layout:id="modification_text_34048" layout:text="P">
-            <layout:boundingBox>
-              <layout:position layout:x="604.9497661922671" layout:y="252.16951480378327" layout:z="32770"/>
-              <layout:dimensions layout:height="8" layout:width="8"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="gen_dn_1" layout:id="text_gen_dn_1" layout:text="SPARC">
-            <layout:boundingBox>
-              <layout:position layout:x="821.8875217839822" layout:y="791.9649508698385" layout:z="32769"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
           <layout:textGlyph layout:graphicalObject="b9c95" layout:id="text_b9c95" layout:text="Smad3">
             <layout:boundingBox>
               <layout:position layout:x="480.92380348098413" layout:y="312.5571121829117" layout:z="32769"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="cd195" layout:id="text_cd195" layout:text="Smad2">
-            <layout:boundingBox>
-              <layout:position layout:x="628.1612741125424" layout:y="292.14717877035247" layout:z="32773"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="modification_34049" layout:id="modification_text_34051" layout:text="P">
-            <layout:boundingBox>
-              <layout:position layout:x="704.1612741125424" layout:y="274.9741018472757" layout:z="32774"/>
-              <layout:dimensions layout:height="8" layout:width="8"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="f241f" layout:id="text_f241f" layout:text="Smad3">
-            <layout:boundingBox>
-              <layout:position layout:x="628.1612741125424" layout:y="312.2151569418787" layout:z="32774"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="modification_34052" layout:id="modification_text_34054" layout:text="P">
-            <layout:boundingBox>
-              <layout:position layout:x="704.1612741125424" layout:y="299.8882338649557" layout:z="32775"/>
-              <layout:dimensions layout:height="8" layout:width="8"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="f1c1b" layout:id="text_f1c1b" layout:text="Smad3">
-            <layout:boundingBox>
-              <layout:position layout:x="719.4236976771134" layout:y="403.716823461726" layout:z="32779"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="modification_34055" layout:id="modification_text_34057" layout:text="P">
-            <layout:boundingBox>
-              <layout:position layout:x="795.4236976771134" layout:y="385.25006067791804" layout:z="32780"/>
-              <layout:dimensions layout:height="8" layout:width="8"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="f9fcd" layout:id="text_f9fcd" layout:text="TGF-β">
-            <layout:boundingBox>
-              <layout:position layout:x="470.3480035475377" layout:y="35.71965769178781" layout:z="32815"/>
-              <layout:dimensions layout:height="27.241052046874966" layout:width="56.918"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="gen_dn_0" layout:id="text_gen_dn_0" layout:text="CNN2">
-            <layout:boundingBox>
-              <layout:position layout:x="818.3327856427699" layout:y="731.3843049912834" layout:z="32769"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="cbcbc" layout:id="text_cbcbc" layout:text="TAZ">
-            <layout:boundingBox>
-              <layout:position layout:x="574.0995859823109" layout:y="538.5411939576614" layout:z="32788"/>
-              <layout:dimensions layout:height="60.8336336993998" layout:width="90"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="gen_dn_2" layout:id="text_gen_dn_2" layout:text="POSTN">
-            <layout:boundingBox>
-              <layout:position layout:x="764.2809661680861" layout:y="761.3555163942365" layout:z="32769"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="d7a78" layout:id="text_d7a78" layout:text="d7a78">
-            <layout:boundingBox>
-              <layout:position layout:x="620.1612741125424" layout:y="284.14717877035247" layout:z="32772"/>
-              <layout:dimensions layout:height="54.06797817152625" layout:width="96"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="ecec5" layout:id="text_ecec5" layout:text="Smad4">
-            <layout:boundingBox>
-              <layout:position layout:x="674.5658166584122" layout:y="583.3298556009611" layout:z="32805"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="df776" layout:id="text_df776" layout:text="df776">
-            <layout:boundingBox>
-              <layout:position layout:x="710.151582292498" layout:y="376.9209606748152" layout:z="12289"/>
-              <layout:dimensions layout:height="72.0868267841555" layout:width="97.6372837206087"/>
             </layout:boundingBox>
           </layout:textGlyph>
           <layout:textGlyph layout:graphicalObject="a8b49" layout:id="text_a8b49" layout:text="Smad2">
@@ -1063,22 +961,22 @@
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="modification_34058" layout:id="modification_text_34060" layout:text="P">
+          <layout:textGlyph layout:graphicalObject="modification_34321" layout:id="modification_text_34323" layout:text="P">
             <layout:boundingBox>
               <layout:position layout:x="750.5658166584121" layout:y="524.4625479086532" layout:z="32802"/>
               <layout:dimensions layout:height="8" layout:width="8"/>
             </layout:boundingBox>
           </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="ba711" layout:id="text_ba711" layout:text="Smad4">
+          <layout:textGlyph layout:graphicalObject="cd195" layout:id="text_cd195" layout:text="Smad2">
             <layout:boundingBox>
-              <layout:position layout:x="719.7888660131067" layout:y="423.0077874589707" layout:z="32781"/>
+              <layout:position layout:x="628.1612741125424" layout:y="292.14717877035247" layout:z="32773"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="ae149" layout:id="text_ae149" layout:text="ae149">
+          <layout:textGlyph layout:graphicalObject="modification_34324" layout:id="modification_text_34326" layout:text="P">
             <layout:boundingBox>
-              <layout:position layout:x="666.565816658412" layout:y="535.4625479086532" layout:z="32800"/>
-              <layout:dimensions layout:height="73.86730769230792" layout:width="96.00000000000023"/>
+              <layout:position layout:x="704.1612741125424" layout:y="274.9741018472757" layout:z="32774"/>
+              <layout:dimensions layout:height="8" layout:width="8"/>
             </layout:boundingBox>
           </layout:textGlyph>
           <layout:textGlyph layout:graphicalObject="gen_dn_3" layout:id="text_gen_dn_3" layout:text="SERPINE1">
@@ -1087,15 +985,9 @@
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="ba3a1" layout:id="text_ba3a1" layout:text="Smad2">
+          <layout:textGlyph layout:graphicalObject="ecec5" layout:id="text_ecec5" layout:text="Smad4">
             <layout:boundingBox>
-              <layout:position layout:x="480.92380348098413" layout:y="291.385576030444" layout:z="32769"/>
-              <layout:dimensions layout:height="20" layout:width="80"/>
-            </layout:boundingBox>
-          </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="d6126" layout:id="text_d6126" layout:text="Smad4">
-            <layout:boundingBox>
-              <layout:position layout:x="809.6771813490597" layout:y="302.3111109758613" layout:z="32769"/>
+              <layout:position layout:x="674.5658166584122" layout:y="583.3298556009611" layout:z="32805"/>
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:textGlyph>
@@ -1105,10 +997,94 @@
               <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:textGlyph>
-          <layout:textGlyph layout:graphicalObject="modification_34061" layout:id="modification_text_34063" layout:text="P">
+          <layout:textGlyph layout:graphicalObject="modification_34327" layout:id="modification_text_34329" layout:text="P">
             <layout:boundingBox>
               <layout:position layout:x="750.565816658412" layout:y="546.6529325240381" layout:z="32803"/>
               <layout:dimensions layout:height="8" layout:width="8"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="cbcbc" layout:id="text_cbcbc" layout:text="TAZ">
+            <layout:boundingBox>
+              <layout:position layout:x="574.0995859823109" layout:y="538.5411939576614" layout:z="32788"/>
+              <layout:dimensions layout:height="60.8336336993998" layout:width="90"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="df776" layout:id="text_df776" layout:text="df776">
+            <layout:boundingBox>
+              <layout:position layout:x="710.151582292498" layout:y="376.9209606748152" layout:z="12289"/>
+              <layout:dimensions layout:height="72.0868267841555" layout:width="97.6372837206087"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="ae149" layout:id="text_ae149" layout:text="ae149">
+            <layout:boundingBox>
+              <layout:position layout:x="666.565816658412" layout:y="535.4625479086532" layout:z="32800"/>
+              <layout:dimensions layout:height="73.86730769230792" layout:width="96.00000000000023"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="ba3a1" layout:id="text_ba3a1" layout:text="Smad2">
+            <layout:boundingBox>
+              <layout:position layout:x="480.92380348098413" layout:y="291.385576030444" layout:z="32769"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="gen_dn_0" layout:id="text_gen_dn_0" layout:text="CNN2">
+            <layout:boundingBox>
+              <layout:position layout:x="818.3327856427699" layout:y="731.3843049912834" layout:z="32769"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="ba711" layout:id="text_ba711" layout:text="Smad4">
+            <layout:boundingBox>
+              <layout:position layout:x="719.7888660131067" layout:y="423.0077874589707" layout:z="32781"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="gen_dn_2" layout:id="text_gen_dn_2" layout:text="POSTN">
+            <layout:boundingBox>
+              <layout:position layout:x="764.2809661680861" layout:y="761.3555163942365" layout:z="32769"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="gen_dn_1" layout:id="text_gen_dn_1" layout:text="SPARC">
+            <layout:boundingBox>
+              <layout:position layout:x="821.8875217839822" layout:y="791.9649508698385" layout:z="32769"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="f241f" layout:id="text_f241f" layout:text="Smad3">
+            <layout:boundingBox>
+              <layout:position layout:x="628.1612741125424" layout:y="312.2151569418787" layout:z="32774"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="modification_34330" layout:id="modification_text_34332" layout:text="P">
+            <layout:boundingBox>
+              <layout:position layout:x="704.1612741125424" layout:y="299.8882338649557" layout:z="32775"/>
+              <layout:dimensions layout:height="8" layout:width="8"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="d7a78" layout:id="text_d7a78" layout:text="d7a78">
+            <layout:boundingBox>
+              <layout:position layout:x="620.1612741125424" layout:y="284.14717877035247" layout:z="32772"/>
+              <layout:dimensions layout:height="54.06797817152625" layout:width="96"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="f0fb3" layout:id="text_f0fb3" layout:text="Smad2">
+            <layout:boundingBox>
+              <layout:position layout:x="718.151582292498" layout:y="384.9209606748152" layout:z="32778"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="modification_34333" layout:id="modification_text_34335" layout:text="P">
+            <layout:boundingBox>
+              <layout:position layout:x="794.151582292498" layout:y="365.9209606748152" layout:z="32779"/>
+              <layout:dimensions layout:height="8" layout:width="8"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="d6126" layout:id="text_d6126" layout:text="Smad4">
+            <layout:boundingBox>
+              <layout:position layout:x="809.6771813490597" layout:y="302.3111109758613" layout:z="32769"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
             </layout:boundingBox>
           </layout:textGlyph>
           <layout:textGlyph layout:graphicalObject="cb0bb" layout:id="text_cb0bb" layout:text="ECM">
@@ -1117,27 +1093,51 @@
               <layout:dimensions layout:height="37.345070422533404" layout:width="90"/>
             </layout:boundingBox>
           </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="d4d1e" layout:id="text_d4d1e" layout:text="ECM">
+            <layout:boundingBox>
+              <layout:position layout:x="1217.4401408450706" layout:y="787.2007042253539" layout:z="32769"/>
+              <layout:dimensions layout:height="37.345070422533404" layout:width="90"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="f1c1b" layout:id="text_f1c1b" layout:text="Smad3">
+            <layout:boundingBox>
+              <layout:position layout:x="719.4236976771134" layout:y="403.716823461726" layout:z="32779"/>
+              <layout:dimensions layout:height="20" layout:width="80"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="modification_34336" layout:id="modification_text_34338" layout:text="P">
+            <layout:boundingBox>
+              <layout:position layout:x="795.4236976771134" layout:y="385.25006067791804" layout:z="32780"/>
+              <layout:dimensions layout:height="8" layout:width="8"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
+          <layout:textGlyph layout:graphicalObject="de268" layout:id="text_de268" layout:text="TGF-II-R">
+            <layout:boundingBox>
+              <layout:position layout:x="469.6973045884015" layout:y="84.70291960065802" layout:z="32771"/>
+              <layout:dimensions layout:height="170.69214635937493" layout:width="56.918"/>
+            </layout:boundingBox>
+          </layout:textGlyph>
           <layout:textGlyph layout:id="layer_text_0" layout:text="pathological conditions">
             <layout:boundingBox>
-              <layout:position layout:x="1037.8411971830988" layout:y="776.8588028169028" layout:z="32821"/>
+              <layout:position layout:x="1037.8411971830988" layout:y="776.8588028169028" layout:z="32818"/>
               <layout:dimensions layout:height="25" layout:width="155.6538732394365"/>
             </layout:boundingBox>
           </layout:textGlyph>
           <layout:textGlyph layout:id="layer_text_1" layout:text="extracellular space">
             <layout:boundingBox>
-              <layout:position layout:x="847.884777094548" layout:y="104.26206210157714" layout:z="32819"/>
+              <layout:position layout:x="847.884777094548" layout:y="104.26206210157714" layout:z="32820"/>
               <layout:dimensions layout:height="25" layout:width="113.26102941176477"/>
             </layout:boundingBox>
           </layout:textGlyph>
           <layout:textGlyph layout:id="layer_text_2" layout:text="cytoplasm ">
             <layout:boundingBox>
-              <layout:position layout:x="872.7671300357287" layout:y="135.06720916040064" layout:z="32820"/>
+              <layout:position layout:x="872.7671300357287" layout:y="135.06720916040064" layout:z="32821"/>
               <layout:dimensions layout:height="25" layout:width="90"/>
             </layout:boundingBox>
           </layout:textGlyph>
           <layout:textGlyph layout:id="layer_text_3" layout:text="nucleus">
             <layout:boundingBox>
-              <layout:position layout:x="700.901915365242" layout:y="661.3772407052247" layout:z="32818"/>
+              <layout:position layout:x="700.901915365242" layout:y="661.3772407052247" layout:z="32819"/>
               <layout:dimensions layout:height="25" layout:width="90"/>
             </layout:boundingBox>
           </layout:textGlyph>
@@ -1149,36 +1149,17 @@
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_GenericProtein" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_GenericProtein_34007" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_GenericProtein_34282" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_GenericProtein" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_GenericProtein_34008" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_GenericProtein_34283" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_modification_type_GenericProtein_Residue_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_GenericProtein_Residue_PHOSPHORYLATED_34012"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-        </multi:listOfSpeciesFeatureTypes>
-      </multi:speciesType>
-      <multi:speciesType multi:id="minerva_species_type_Gene_f0fb3" multi:name="Gene" sboTerm="SBO:0000243">
-        <multi:listOfSpeciesFeatureTypes>
-          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_f0fb3" multi:name="Position to compartment" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_f0fb3_34009" multi:name="NULL"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_f0fb3_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_f0fb3_ModificationSite_PHOSPHORYLATED_34010"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_activity_Gene_f0fb3" multi:name="Activity" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_f0fb3_34011" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_GenericProtein_Residue_PHOSPHORYLATED_34284"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
@@ -1187,12 +1168,31 @@
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_34013" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_34285" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_Gene" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_34014" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_34286" multi:name="false"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+        </multi:listOfSpeciesFeatureTypes>
+      </multi:speciesType>
+      <multi:speciesType multi:id="minerva_species_type_Gene_a8b49" multi:name="Gene" sboTerm="SBO:0000243">
+        <multi:listOfSpeciesFeatureTypes>
+          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_a8b49" multi:name="Position to compartment" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_a8b49_34287" multi:name="NULL"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_a8b49_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_a8b49_ModificationSite_PHOSPHORYLATED_34288"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_activity_Gene_a8b49" multi:name="Activity" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_a8b49_34289" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
@@ -1201,36 +1201,69 @@
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_cd195" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_cd195_34015" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_cd195_34290" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_cd195_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_cd195_ModificationSite_PHOSPHORYLATED_34016"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_cd195_ModificationSite_PHOSPHORYLATED_34291"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_Gene_cd195" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_cd195_34017" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_cd195_34292" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
       </multi:speciesType>
-      <multi:speciesType multi:id="minerva_species_type_Gene_f241f" multi:name="Gene" sboTerm="SBO:0000243">
+      <multi:speciesType multi:id="minerva_species_type_Gene_ecec5" multi:name="Gene" sboTerm="SBO:0000243">
         <multi:listOfSpeciesFeatureTypes>
-          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_f241f" multi:name="Position to compartment" multi:occur="1">
+          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_ecec5" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_f241f_34018" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_ecec5_34293" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_f241f_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
+          <multi:speciesFeatureType multi:id="minerva_activity_Gene_ecec5" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_f241f_ModificationSite_PHOSPHORYLATED_34019"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_ecec5_34294" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_activity_Gene_f241f" multi:name="Activity" multi:occur="1">
+        </multi:listOfSpeciesFeatureTypes>
+      </multi:speciesType>
+      <multi:speciesType multi:id="minerva_species_type_Gene_e8a92" multi:name="Gene" sboTerm="SBO:0000243">
+        <multi:listOfSpeciesFeatureTypes>
+          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_e8a92" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_f241f_34020" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_e8a92_34295" multi:name="NULL"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_e8a92_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_e8a92_ModificationSite_PHOSPHORYLATED_34296"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_activity_Gene_e8a92" multi:name="Activity" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_e8a92_34297" multi:name="false"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+        </multi:listOfSpeciesFeatureTypes>
+      </multi:speciesType>
+      <multi:speciesType multi:id="minerva_species_type_Gene_f0fb3" multi:name="Gene" sboTerm="SBO:0000243">
+        <multi:listOfSpeciesFeatureTypes>
+          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_f0fb3" multi:name="Position to compartment" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_f0fb3_34312" multi:name="NULL"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_f0fb3_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_f0fb3_ModificationSite_PHOSPHORYLATED_34313"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_activity_Gene_f0fb3" multi:name="Activity" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_f0fb3_34314" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
@@ -1239,54 +1272,17 @@
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_f1c1b" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_f1c1b_34021" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_f1c1b_34315" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_f1c1b_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_f1c1b_ModificationSite_PHOSPHORYLATED_34022"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_f1c1b_ModificationSite_PHOSPHORYLATED_34316"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_Gene_f1c1b" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_f1c1b_34023" multi:name="false"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-        </multi:listOfSpeciesFeatureTypes>
-      </multi:speciesType>
-      <multi:speciesType multi:id="minerva_species_type_Complex_d7a78" multi:name="Complex" sboTerm="SBO:0000289">
-        <multi:listOfSpeciesFeatureTypes>
-          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Complex_d7a78" multi:name="Position to compartment" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Complex_d7a78_34024" multi:name="NULL"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_hypothetical_Complex_d7a78" multi:name="Hypothetical" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_hypothetical_Complex_d7a78_34025" multi:name="true"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_activity_Complex_d7a78" multi:name="Activity" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Complex_d7a78_34026" multi:name="false"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-        </multi:listOfSpeciesFeatureTypes>
-        <multi:listOfSpeciesTypeInstances>
-          <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_cd195" multi:speciesType="minerva_species_type_Gene_cd195"/>
-          <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_f241f" multi:speciesType="minerva_species_type_Gene_f241f"/>
-        </multi:listOfSpeciesTypeInstances>
-      </multi:speciesType>
-      <multi:speciesType multi:id="minerva_species_type_Gene_ecec5" multi:name="Gene" sboTerm="SBO:0000243">
-        <multi:listOfSpeciesFeatureTypes>
-          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_ecec5" multi:name="Position to compartment" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_ecec5_34027" multi:name="NULL"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_activity_Gene_ecec5" multi:name="Activity" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_ecec5_34028" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_f1c1b_34317" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
@@ -1295,12 +1291,12 @@
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_ba711" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_ba711_34035" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_ba711_34304" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_Gene_ba711" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_ba711_34036" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_ba711_34305" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
@@ -1309,17 +1305,17 @@
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Complex_df776" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Complex_df776_34029" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Complex_df776_34298" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_hypothetical_Complex_df776" multi:name="Hypothetical" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_hypothetical_Complex_df776_34030" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_hypothetical_Complex_df776_34299" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_Complex_df776" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Complex_df776_34031" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Complex_df776_34300" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
@@ -1329,66 +1325,70 @@
           <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_ba711" multi:speciesType="minerva_species_type_Gene_ba711"/>
         </multi:listOfSpeciesTypeInstances>
       </multi:speciesType>
-      <multi:speciesType multi:id="minerva_species_type_Gene_a8b49" multi:name="Gene" sboTerm="SBO:0000243">
-        <multi:listOfSpeciesFeatureTypes>
-          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_a8b49" multi:name="Position to compartment" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_a8b49_34032" multi:name="NULL"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_a8b49_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_a8b49_ModificationSite_PHOSPHORYLATED_34033"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_activity_Gene_a8b49" multi:name="Activity" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_a8b49_34034" multi:name="false"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-        </multi:listOfSpeciesFeatureTypes>
-      </multi:speciesType>
-      <multi:speciesType multi:id="minerva_species_type_Gene_e8a92" multi:name="Gene" sboTerm="SBO:0000243">
-        <multi:listOfSpeciesFeatureTypes>
-          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_e8a92" multi:name="Position to compartment" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_e8a92_34040" multi:name="NULL"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_e8a92_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_e8a92_ModificationSite_PHOSPHORYLATED_34041"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-          <multi:speciesFeatureType multi:id="minerva_activity_Gene_e8a92" multi:name="Activity" multi:occur="1">
-            <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_e8a92_34042" multi:name="false"/>
-            </multi:listOfPossibleSpeciesFeatureValues>
-          </multi:speciesFeatureType>
-        </multi:listOfSpeciesFeatureTypes>
-      </multi:speciesType>
       <multi:speciesType multi:id="minerva_species_type_Complex_ae149" multi:name="Complex" sboTerm="SBO:0000253">
         <multi:listOfSpeciesFeatureTypes>
           <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Complex_ae149" multi:name="Position to compartment" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Complex_ae149_34037" multi:name="NULL"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Complex_ae149_34301" multi:name="NULL"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_hypothetical_Complex_ae149" multi:name="Hypothetical" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_hypothetical_Complex_ae149_34038" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_hypothetical_Complex_ae149_34302" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
           <multi:speciesFeatureType multi:id="minerva_activity_Complex_ae149" multi:name="Activity" multi:occur="1">
             <multi:listOfPossibleSpeciesFeatureValues>
-              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Complex_ae149_34039" multi:name="false"/>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Complex_ae149_34303" multi:name="false"/>
             </multi:listOfPossibleSpeciesFeatureValues>
           </multi:speciesFeatureType>
         </multi:listOfSpeciesFeatureTypes>
         <multi:listOfSpeciesTypeInstances>
-          <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_e8a92" multi:speciesType="minerva_species_type_Gene_e8a92"/>
-          <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_a8b49" multi:speciesType="minerva_species_type_Gene_a8b49"/>
           <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_ecec5" multi:speciesType="minerva_species_type_Gene_ecec5"/>
+          <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_a8b49" multi:speciesType="minerva_species_type_Gene_a8b49"/>
+          <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_e8a92" multi:speciesType="minerva_species_type_Gene_e8a92"/>
+        </multi:listOfSpeciesTypeInstances>
+      </multi:speciesType>
+      <multi:speciesType multi:id="minerva_species_type_Gene_f241f" multi:name="Gene" sboTerm="SBO:0000243">
+        <multi:listOfSpeciesFeatureTypes>
+          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Gene_f241f" multi:name="Position to compartment" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Gene_f241f_34306" multi:name="NULL"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_modification_type_Gene_f241f_ModificationSite_PHOSPHORYLATED" multi:name="phosphorylated" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_modification_type_Gene_f241f_ModificationSite_PHOSPHORYLATED_34307"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_activity_Gene_f241f" multi:name="Activity" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Gene_f241f_34308" multi:name="false"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+        </multi:listOfSpeciesFeatureTypes>
+      </multi:speciesType>
+      <multi:speciesType multi:id="minerva_species_type_Complex_d7a78" multi:name="Complex" sboTerm="SBO:0000289">
+        <multi:listOfSpeciesFeatureTypes>
+          <multi:speciesFeatureType multi:id="minerva_position_to_compartment_Complex_d7a78" multi:name="Position to compartment" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_position_to_compartment_Complex_d7a78_34309" multi:name="NULL"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_hypothetical_Complex_d7a78" multi:name="Hypothetical" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_hypothetical_Complex_d7a78_34310" multi:name="true"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+          <multi:speciesFeatureType multi:id="minerva_activity_Complex_d7a78" multi:name="Activity" multi:occur="1">
+            <multi:listOfPossibleSpeciesFeatureValues>
+              <multi:possibleSpeciesFeatureValue multi:id="minerva_activity_Complex_d7a78_34311" multi:name="false"/>
+            </multi:listOfPossibleSpeciesFeatureValues>
+          </multi:speciesFeatureType>
+        </multi:listOfSpeciesFeatureTypes>
+        <multi:listOfSpeciesTypeInstances>
+          <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_cd195" multi:speciesType="minerva_species_type_Gene_cd195"/>
+          <multi:speciesTypeInstance multi:id="child_minerva_species_type_Gene_f241f" multi:speciesType="minerva_species_type_Gene_f241f"/>
         </multi:listOfSpeciesTypeInstances>
       </multi:speciesType>
     </multi:listOfSpeciesTypes>
@@ -1444,7 +1444,7 @@
             </compartment>
     </listOfCompartments>
     <listOfSpecies>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_0" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="TGF-II-R" sboTerm="SBO:0000252">
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_0" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="TGF-β" sboTerm="SBO:0000252">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1460,17 +1460,17 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34007"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34282"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34008"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34283"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_1" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_f0fb3" name="Smad2" sboTerm="SBO:0000243">
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_1" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="TGF-I-R" sboTerm="SBO:0000252">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1479,29 +1479,24 @@
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
 <rdf:Description rdf:about="#species_1">
-<bqbiol:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:uniprot:Q15796"/>
-</rdf:Bag>
-</bqbiol:isDescribedBy>
 <dcterms:modified rdf:parseType="Resource"/>
 </rdf:Description>
 </rdf:RDF>
         </annotation>
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_f0fb3">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_f0fb3_34009"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34282"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_f0fb3_ModificationSite_PHOSPHORYLATED">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_GenericProtein_Residue_PHOSPHORYLATED">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue id="modification_residue_0" multi:value="minerva_modification_type_Gene_f0fb3_ModificationSite_PHOSPHORYLATED_34010"/>
+              <multi:speciesFeatureValue id="modification_residue_0" multi:value="minerva_modification_type_GenericProtein_Residue_PHOSPHORYLATED_34284"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_f0fb3">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_f0fb3_34011"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34283"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -1522,17 +1517,17 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34007"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34282"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34008"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34283"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_3" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="ECM" sboTerm="SBO:0000252">
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_3" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="Smad3" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1541,94 +1536,6 @@
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
 <rdf:Description rdf:about="#species_3">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34007"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34008"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_4" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="TGF-I-R" sboTerm="SBO:0000252">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_4">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34007"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_GenericProtein_Residue_PHOSPHORYLATED">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue id="modification_residue_1" multi:value="minerva_modification_type_GenericProtein_Residue_PHOSPHORYLATED_34012"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34008"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="comp_1" constant="false" hasOnlySubstanceUnits="false" id="species_5" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="SPARC" sboTerm="SBO:0000243">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_5">
-<bqbiol:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:uniprot:P09486"/>
-</rdf:Bag>
-</bqbiol:isDescribedBy>
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34013"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34014"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_6" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="Smad3" sboTerm="SBO:0000243">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_6">
 <bqbiol:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:uniprot:P84022"/>
@@ -1641,17 +1548,17 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34013"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34285"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34014"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34286"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_7" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_cd195" name="Smad2" sboTerm="SBO:0000243">
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_4" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_a8b49" name="Smad2" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1659,7 +1566,43 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_7">
+<rdf:Description rdf:about="#species_4">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q15796"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_a8b49">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_a8b49_34287"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_a8b49_ModificationSite_PHOSPHORYLATED">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue id="modification_residue_1" multi:value="minerva_modification_type_Gene_a8b49_ModificationSite_PHOSPHORYLATED_34288"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_a8b49">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_a8b49_34289"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_5" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_cd195" name="Smad2" sboTerm="SBO:0000243">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_5">
 <bqbiol:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:uniprot:Q15796"/>
@@ -1672,22 +1615,84 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_cd195">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_cd195_34015"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_cd195_34290"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_cd195_ModificationSite_PHOSPHORYLATED">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue id="modification_residue_2" multi:value="minerva_modification_type_Gene_cd195_ModificationSite_PHOSPHORYLATED_34016"/>
+              <multi:speciesFeatureValue id="modification_residue_2" multi:value="minerva_modification_type_Gene_cd195_ModificationSite_PHOSPHORYLATED_34291"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_cd195">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_cd195_34017"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_cd195_34292"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_8" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_f241f" name="Smad3" sboTerm="SBO:0000243">
+      <species boundaryCondition="false" compartment="comp_1" constant="false" hasOnlySubstanceUnits="false" id="species_6" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="SERPINE1" sboTerm="SBO:0000243">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_6">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:pubmed:22923731"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34285"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34286"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_7" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_ecec5" name="Smad4" sboTerm="SBO:0000243">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_7">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q13485"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_ecec5">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_ecec5_34293"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_ecec5">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_ecec5_34294"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_8" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_e8a92" name="Smad3" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1706,24 +1711,24 @@
 </rdf:RDF>
         </annotation>
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_f241f">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_e8a92">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_f241f_34018"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_e8a92_34295"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_f241f_ModificationSite_PHOSPHORYLATED">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_e8a92_ModificationSite_PHOSPHORYLATED">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue id="modification_residue_3" multi:value="minerva_modification_type_Gene_f241f_ModificationSite_PHOSPHORYLATED_34019"/>
+              <multi:speciesFeatureValue id="modification_residue_3" multi:value="minerva_modification_type_Gene_e8a92_ModificationSite_PHOSPHORYLATED_34296"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_f241f">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_e8a92">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_f241f_34020"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_e8a92_34297"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_9" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_f1c1b" name="Smad3" sboTerm="SBO:0000243">
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_9" initialConcentration="0" multi:speciesType="minerva_species_type_Complex_df776" name="df776" sboTerm="SBO:0000253">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1732,34 +1737,29 @@
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
 <rdf:Description rdf:about="#species_9">
-<bqbiol:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:uniprot:P84022"/>
-</rdf:Bag>
-</bqbiol:isDescribedBy>
 <dcterms:modified rdf:parseType="Resource"/>
 </rdf:Description>
 </rdf:RDF>
         </annotation>
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_f1c1b">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Complex_df776">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_f1c1b_34021"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Complex_df776_34298"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_f1c1b_ModificationSite_PHOSPHORYLATED">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_hypothetical_Complex_df776">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue id="modification_residue_4" multi:value="minerva_modification_type_Gene_f1c1b_ModificationSite_PHOSPHORYLATED_34022"/>
+              <multi:speciesFeatureValue multi:value="minerva_hypothetical_Complex_df776_34299"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_f1c1b">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Complex_df776">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_f1c1b_34023"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Complex_df776_34300"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_10" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="TGF-β" sboTerm="SBO:0000252">
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_10" initialConcentration="0" multi:speciesType="minerva_species_type_Complex_ae149" name="ae149" sboTerm="SBO:0000253">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1773,19 +1773,24 @@
 </rdf:RDF>
         </annotation>
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Complex_ae149">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34007"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Complex_ae149_34301"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_hypothetical_Complex_ae149">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34008"/>
+              <multi:speciesFeatureValue multi:value="minerva_hypothetical_Complex_ae149_34302"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Complex_ae149">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Complex_ae149_34303"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="comp_1" constant="false" hasOnlySubstanceUnits="false" id="species_11" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="CNN2" sboTerm="SBO:0000243">
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_11" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="Smad2" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1794,6 +1799,37 @@
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
 <rdf:Description rdf:about="#species_11">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q15796"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34285"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34286"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="comp_1" constant="false" hasOnlySubstanceUnits="false" id="species_12" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="CNN2" sboTerm="SBO:0000243">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_12">
 <bqbiol:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:uniprot:P29279"/>
@@ -1811,48 +1847,17 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34013"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34285"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34014"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34286"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="comp_1" constant="false" hasOnlySubstanceUnits="false" id="species_12" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="POSTN" sboTerm="SBO:0000243">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_12">
-<bqbiol:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:uniprot:Q15063"/>
-</rdf:Bag>
-</bqbiol:isDescribedBy>
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34013"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34014"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_13" initialConcentration="0" multi:speciesType="minerva_species_type_Complex_d7a78" name="d7a78" sboTerm="SBO:0000289">
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_13" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_ba711" name="Smad4" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -1861,135 +1866,6 @@
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
 <rdf:Description rdf:about="#species_13">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Complex_d7a78">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Complex_d7a78_34024"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_hypothetical_Complex_d7a78">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_hypothetical_Complex_d7a78_34025"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Complex_d7a78">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Complex_d7a78_34026"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_14" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_ecec5" name="Smad4" sboTerm="SBO:0000243">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_14">
-<bqbiol:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:uniprot:Q13485"/>
-</rdf:Bag>
-</bqbiol:isDescribedBy>
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_ecec5">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_ecec5_34027"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_ecec5">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_ecec5_34028"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_15" initialConcentration="0" multi:speciesType="minerva_species_type_Complex_df776" name="df776" sboTerm="SBO:0000253">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_15">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Complex_df776">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Complex_df776_34029"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_hypothetical_Complex_df776">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_hypothetical_Complex_df776_34030"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Complex_df776">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Complex_df776_34031"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_16" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_a8b49" name="Smad2" sboTerm="SBO:0000243">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_16">
-<bqbiol:isDescribedBy>
-<rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:uniprot:Q15796"/>
-</rdf:Bag>
-</bqbiol:isDescribedBy>
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_a8b49">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_a8b49_34032"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_a8b49_ModificationSite_PHOSPHORYLATED">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue id="modification_residue_5" multi:value="minerva_modification_type_Gene_a8b49_ModificationSite_PHOSPHORYLATED_34033"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_a8b49">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_a8b49_34034"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_17" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_ba711" name="Smad4" sboTerm="SBO:0000243">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_17">
 <bqbiol:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:uniprot:Q13485"/>
@@ -2002,17 +1878,17 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_ba711">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_ba711_34035"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_ba711_34304"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_ba711">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_ba711_34036"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_ba711_34305"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_18" initialConcentration="0" multi:speciesType="minerva_species_type_Complex_ae149" name="ae149" sboTerm="SBO:0000253">
+      <species boundaryCondition="false" compartment="comp_1" constant="false" hasOnlySubstanceUnits="false" id="species_14" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="POSTN" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -2020,41 +1896,10 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_18">
-<dcterms:modified rdf:parseType="Resource"/>
-</rdf:Description>
-</rdf:RDF>
-        </annotation>
-              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Complex_ae149">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Complex_ae149_34037"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_hypothetical_Complex_ae149">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_hypothetical_Complex_ae149_34038"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Complex_ae149">
-            <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Complex_ae149_34039"/>
-            </multi:listOfSpeciesFeatureValues>
-          </multi:speciesFeature>
-        </multi:listOfSpeciesFeatures>
-      </species>
-      <species boundaryCondition="false" compartment="comp_1" constant="false" hasOnlySubstanceUnits="false" id="species_19" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="SERPINE1" sboTerm="SBO:0000243">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-<p/>
-</body>
-        </notes>
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_19">
+<rdf:Description rdf:about="#species_14">
 <bqbiol:isDescribedBy>
 <rdf:Bag>
-<rdf:li rdf:resource="urn:miriam:pubmed:22923731"/>
+<rdf:li rdf:resource="urn:miriam:uniprot:Q15063"/>
 </rdf:Bag>
 </bqbiol:isDescribedBy>
 <dcterms:modified rdf:parseType="Resource"/>
@@ -2064,17 +1909,17 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34013"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34285"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34014"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34286"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_20" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="Smad2" sboTerm="SBO:0000243">
+      <species boundaryCondition="false" compartment="comp_1" constant="false" hasOnlySubstanceUnits="false" id="species_15" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="SPARC" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -2082,7 +1927,105 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_20">
+<rdf:Description rdf:about="#species_15">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P09486"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34285"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34286"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_16" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_f241f" name="Smad3" sboTerm="SBO:0000243">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_16">
+<bqbiol:isDescribedBy>
+<rdf:Bag>
+<rdf:li rdf:resource="urn:miriam:uniprot:P84022"/>
+</rdf:Bag>
+</bqbiol:isDescribedBy>
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_f241f">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_f241f_34306"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_f241f_ModificationSite_PHOSPHORYLATED">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue id="modification_residue_4" multi:value="minerva_modification_type_Gene_f241f_ModificationSite_PHOSPHORYLATED_34307"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_f241f">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_f241f_34308"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_17" initialConcentration="0" multi:speciesType="minerva_species_type_Complex_d7a78" name="d7a78" sboTerm="SBO:0000289">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_17">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Complex_d7a78">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Complex_d7a78_34309"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_hypothetical_Complex_d7a78">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_hypothetical_Complex_d7a78_34310"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Complex_d7a78">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Complex_d7a78_34311"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_18" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_f0fb3" name="Smad2" sboTerm="SBO:0000243">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_18">
 <bqbiol:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:uniprot:Q15796"/>
@@ -2093,19 +2036,24 @@
 </rdf:RDF>
         </annotation>
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_f0fb3">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34013"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_f0fb3_34312"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_f0fb3_ModificationSite_PHOSPHORYLATED">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34014"/>
+              <multi:speciesFeatureValue id="modification_residue_5" multi:value="minerva_modification_type_Gene_f0fb3_ModificationSite_PHOSPHORYLATED_34313"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_f0fb3">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_f0fb3_34314"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_21" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="Smad4" sboTerm="SBO:0000243">
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_19" initialConcentration="0" multi:speciesType="minerva_species_type_Gene" name="Smad4" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -2113,7 +2061,7 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#species_21">
+<rdf:Description rdf:about="#species_19">
 <bqbiol:isDescribedBy>
 <rdf:Bag>
 <rdf:li rdf:resource="urn:miriam:uniprot:Q13485"/>
@@ -2126,17 +2074,69 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34013"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_34285"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34014"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_34286"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_22" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_e8a92" name="Smad3" sboTerm="SBO:0000243">
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_20" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="ECM" sboTerm="SBO:0000252">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_20">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34282"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34283"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_21" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="ECM" sboTerm="SBO:0000252">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+<p/>
+</body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+<rdf:Description rdf:about="#species_21">
+<dcterms:modified rdf:parseType="Resource"/>
+</rdf:Description>
+</rdf:RDF>
+        </annotation>
+              <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34282"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
+            <multi:listOfSpeciesFeatureValues>
+              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34283"/>
+            </multi:listOfSpeciesFeatureValues>
+          </multi:speciesFeature>
+        </multi:listOfSpeciesFeatures>
+      </species>
+      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_22" initialConcentration="0" multi:speciesType="minerva_species_type_Gene_f1c1b" name="Smad3" sboTerm="SBO:0000243">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -2155,24 +2155,24 @@
 </rdf:RDF>
         </annotation>
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_e8a92">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_Gene_f1c1b">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_e8a92_34040"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_Gene_f1c1b_34315"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_e8a92_ModificationSite_PHOSPHORYLATED">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_modification_type_Gene_f1c1b_ModificationSite_PHOSPHORYLATED">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue id="modification_residue_6" multi:value="minerva_modification_type_Gene_e8a92_ModificationSite_PHOSPHORYLATED_34041"/>
+              <multi:speciesFeatureValue id="modification_residue_6" multi:value="minerva_modification_type_Gene_f1c1b_ModificationSite_PHOSPHORYLATED_34316"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
-          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_e8a92">
+          <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_Gene_f1c1b">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_e8a92_34042"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_Gene_f1c1b_34317"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
       </species>
-      <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="species_23" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="ECM" sboTerm="SBO:0000252">
+      <species boundaryCondition="false" compartment="comp_0" constant="false" hasOnlySubstanceUnits="false" id="species_23" initialConcentration="0" multi:speciesType="minerva_species_type_GenericProtein" name="TGF-II-R" sboTerm="SBO:0000252">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -2188,12 +2188,12 @@
               <multi:listOfSpeciesFeatures xmlns:multi="http://www.sbml.org/sbml/level3/version1/multi/version1">
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_position_to_compartment_GenericProtein">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34007"/>
+              <multi:speciesFeatureValue multi:value="minerva_position_to_compartment_GenericProtein_34282"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
           <multi:speciesFeature multi:occur="1" multi:speciesFeatureType="minerva_activity_GenericProtein">
             <multi:listOfSpeciesFeatureValues>
-              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34008"/>
+              <multi:speciesFeatureValue multi:value="minerva_activity_GenericProtein_34283"/>
             </multi:listOfSpeciesFeatureValues>
           </multi:speciesFeature>
         </multi:listOfSpeciesFeatures>
@@ -2214,16 +2214,16 @@
 </rdf:RDF>
         </annotation>
               <listOfReactants>
-          <speciesReference constant="false" species="species_6"/>
+          <speciesReference constant="false" species="species_3"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="false" species="species_13"/>
+          <speciesReference constant="false" species="species_17"/>
         </listOfProducts>
         <listOfModifiers>
-          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_4"/>
+          <modifierSpeciesReference sboTerm="SBO:0000013" species="species_1"/>
         </listOfModifiers>
       </reaction>
-      <reaction id="id14323" reversible="true" sboTerm="SBO:0000396">
+      <reaction id="id14327" reversible="true" sboTerm="SBO:0000396">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
 <p/>
@@ -2231,7 +2231,7 @@
         </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-<rdf:Description rdf:about="#id14323">
+<rdf:Description rdf:about="#id14327">
 <dcterms:modified rdf:parseType="Resource"/>
 </rdf:Description>
 </rdf:RDF>
@@ -2240,7 +2240,7 @@
           <speciesReference constant="false" species="species_2"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="false" species="species_15"/>
+          <speciesReference constant="false" species="species_9"/>
         </listOfProducts>
       </reaction>
     </listOfReactions>

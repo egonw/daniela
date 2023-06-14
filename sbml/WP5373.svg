@@ -8,6 +8,15 @@
   /><g
   ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="-1" width="3772" height="1610" y="-1" stroke="none"
+      /><path fill="none" d="M3239.0847 843.2602 L3239.0847 886.4376" stroke="black"
+      /><path fill="none" d="M3239.0847 896.4376 L3239.0847 939.6151" stroke="black"
+      /><path d="M3239.0847 939.6151 L3233.3445 925.7569 L3244.825 925.7569 Z" stroke="none"
+      /><path fill="none" d="M3239.0847 939.6151 L3233.3445 925.7569 L3244.825 925.7569 Z" stroke="black"
+      /><line y2="886.4376" fill="none" x1="3239.0847" x2="3239.0847" stroke="black" y1="896.4376"
+      /><path fill="none" stroke-dasharray="8,8" d="M927.0018 629.7776 L927.0018 1021.535 L2540.4521 1021.535 L2540.4521 1079.673" stroke="black"
+      /><path fill="none" stroke-dasharray="8,8" d="M2540.4521 1089.673 L2540.4521 1147.811" stroke="black"
+      /><path fill="none" d="M2534.7119 1133.9529 L2540.4521 1147.811 L2546.1924 1133.9529" stroke="black"
+      /><line fill="none" x1="2540.4522" x2="2540.4522" y1="1089.673" y2="1079.673" stroke-dasharray="8,8" stroke="black"
       /><path fill="none" d="M2580.6658 1215.3251 L2627.8274 1313.6687" stroke="black"
       /><path fill="none" d="M2632.1514 1322.6855 L2679.313 1421.0293" stroke="black"
       /><path d="M2679.313 1421.0293 L2668.1448 1411.0157 L2678.4966 1406.0515 Z" stroke="none"
@@ -24,27 +33,53 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="3239" xml:space="preserve" y="1142" stroke="none"
       ></text
-    ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M2900.0149 1173.257 L2996.0149 1173.257 L3001.0149 1178.257 L3001.0149 1284.257 L2996.0149 1289.257 L2900.0149 1289.257 L2895.0149 1284.257 L2895.0149 1178.257 Z" stroke="none" fill-rule="evenodd"
+      ><path fill="none" d="M1153.0956 194.0672 L1153.3212 273.9579"
+      /><path fill="none" d="M1153.3495 283.9579 L1153.575 363.8485"
+      /><path d="M1147.7957 350.0066 L1153.575 363.8485 L1159.2761 349.9742 Z" stroke="none"
+      /><path fill="none" d="M1153.3212 273.9579 L1153.3212 273.9579"
+      /><path fill="none" d="M1153.3495 283.9579 L1153.3495 283.9579"
     /></g
-    ><g text-rendering="geometricPrecision" stroke-dasharray="8,8" stroke-width="3" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><path fill="none" d="M2900.0149 1173.257 L2996.0149 1173.257 L3001.0149 1178.257 L3001.0149 1284.257 L2996.0149 1289.257 L2900.0149 1289.257 L2895.0149 1284.257 L2895.0149 1178.257 Z" fill-rule="evenodd"
-      /><text x="2928" y="1284" font-family="sans-serif" stroke-dasharray="none" stroke="none" stroke-width="1" xml:space="preserve"
-      >a2d1b</text
-      ><path fill="none" stroke-width="1" stroke-dasharray="none" d="M1731.1493 498.605 L1593.1235 621.7684"
-      /><path fill="none" stroke-width="1" stroke-dasharray="none" d="M1585.6621 628.4264 L1447.6364 751.5898"
+    ><g transform="translate(1153.3353,278.9579) rotate(89.8382) translate(-1153.3353,-278.9579)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
+    ><rect x="1148.3353" width="10" height="10" y="273.9579" stroke="none"
+      /><rect fill="none" x="1148.3353" width="10" height="10" y="273.9579" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="1150" xml:space="preserve" y="282" stroke="none"
+      >?</text
+      ><path fill="none" d="M2832.5081 1231.4011 L2858.7615 1231.3406"
+      /><path fill="none" d="M2868.7615 1231.3175 L2895.0149 1231.257"
     /></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><path d="M1447.6364 751.5898 L1454.1545 738.0801 L1461.7982 746.6461 Z" stroke="none"
+    ><path d="M2895.0149 1231.257 L2881.1699 1237.0292 L2881.1433 1225.5487 Z" stroke="none"
+      /><path fill="none" d="M2895.0149 1231.257 L2881.1699 1237.0292 L2881.1433 1225.5487 Z" stroke="black"
+      /><line y2="1231.3406" fill="none" x1="2868.7615" x2="2858.7615" stroke="black" y1="1231.3175"
+      /><path fill="none" d="M3182.2209 1272.1077 L2976.2312 1344.9025" stroke="black"
+      /><path fill="none" d="M2966.8027 1348.2344 L2760.813 1421.0293" stroke="black"
+      /><path d="M2760.813 1421.0293 L2771.9668 1410.9995 L2775.792 1421.824 Z" stroke="none"
+      /><path fill="none" d="M2760.813 1421.0293 L2771.9668 1410.9995 L2775.792 1421.824 Z" stroke="black"
+      /><line y2="1344.9024" fill="none" x1="2966.8027" x2="2976.2312" stroke="black" y1="1348.2344"
+      /><path fill="none" d="M3060.7827 1037.6705 L3113.6746 998.2555" stroke="black"
+      /><path fill="none" d="M3121.6929 992.2802 L3172.1792 954.6577" stroke="black"
+      /><line y2="950.6485" fill="none" x1="3175.1669" x2="3169.1915" stroke="black" y1="958.6669"
+      /><path fill="none" d="M3113.6746 998.2555 L3113.6746 998.2555" stroke="black"
+      /><path fill="none" d="M3121.6929 992.2802 L3121.6929 992.2802" stroke="black"
+      /><line y2="998.2555" fill="none" x1="3121.693" x2="3113.6745" stroke="black" y1="992.2802"
+      /><path fill="none" d="M3239.0847 966.1151 L3239.0847 1002.8651" stroke="black"
+      /><path fill="none" d="M3239.0847 1012.8651 L3239.0847 1049.6151" stroke="black"
+      /><path d="M3239.0847 1049.6151 L3233.3445 1035.7568 L3244.825 1035.7568 Z" stroke="none"
+      /><path fill="none" d="M3239.0847 1049.6151 L3233.3445 1035.7568 L3244.825 1035.7568 Z" stroke="black"
+      /><line y2="1002.8651" fill="none" x1="3239.0847" x2="3239.0847" stroke="black" y1="1012.8651"
+      /><path fill="rgb(248,247,240)" d="M3191.2209 1207.3354 L3287.4951 1207.3354 L3292.4951 1212.3354 L3292.4951 1331.8798 L3287.4951 1336.8798 L3191.2209 1336.8798 L3186.2209 1331.8798 L3186.2209 1212.3354 Z" fill-rule="evenodd" stroke="none"
+      /><path fill="none" d="M3191.2209 1207.3354 L3287.4951 1207.3354 L3292.4951 1212.3354 L3292.4951 1331.8798 L3287.4951 1336.8798 L3191.2209 1336.8798 L3186.2209 1331.8798 L3186.2209 1212.3354 Z" stroke-width="3" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="3223" xml:space="preserve" y="1331" font-family="sans-serif" stroke="none"
+      >adffa</text
+      ><path fill="none" d="M1731.1493 498.605 L1593.1235 621.7684" stroke="black"
+      /><path fill="none" d="M1585.6621 628.4264 L1447.6364 751.5898" stroke="black"
+      /><path d="M1447.6364 751.5898 L1454.1545 738.0801 L1461.7982 746.6461 Z" stroke="none"
       /><path fill="none" d="M1447.6364 751.5898 L1454.1545 738.0801 L1461.7982 746.6461 Z" stroke="black"
       /><path fill="none" d="M1593.1235 621.7684 L1593.1235 621.7684" stroke="black"
       /><path fill="none" d="M1585.6621 628.4264 L1585.6621 628.4264" stroke="black"
       /><line y2="621.7684" fill="none" x1="1585.6621" x2="1593.1235" stroke="black" y1="628.4264"
-      /><path fill="none" stroke-dasharray="8,8" d="M927.0018 629.7776 L927.0018 1021.535 L2540.4521 1021.535 L2540.4521 1079.673" stroke="black"
-      /><path fill="none" stroke-dasharray="8,8" d="M2540.4521 1089.673 L2540.4521 1147.811" stroke="black"
-      /><path fill="none" d="M2534.7119 1133.9529 L2540.4521 1147.811 L2546.1924 1133.9529" stroke="black"
-      /><line fill="none" x1="2540.4522" x2="2540.4522" y1="1089.673" y2="1079.673" stroke-dasharray="8,8" stroke="black"
       /><path fill="none" d="M2322.9482 1179.66 L2386.4871 1180.5444" stroke="black"
       /><path fill="none" d="M2396.4861 1180.6836 L2460.0249 1181.568" stroke="black"
       /><path d="M2460.0249 1181.568 L2446.0881 1187.1149 L2446.248 1175.6355 Z" stroke="none"
@@ -52,54 +87,19 @@
       /><path fill="none" d="M2386.4871 1180.5444 L2386.4871 1180.5444" stroke="black"
       /><path fill="none" d="M2396.4861 1180.6836 L2396.4861 1180.6836" stroke="black"
       /><line y2="1180.5444" fill="none" x1="2396.4861" x2="2386.4871" stroke="black" y1="1180.6836"
-      /><path fill="none" d="M3060.7827 1037.6705 L3113.6746 998.2555" stroke="black"
-      /><path fill="none" d="M3121.6929 992.2802 L3172.1792 954.6577" stroke="black"
-      /><line y2="950.6485" fill="none" x1="3175.1669" x2="3169.1915" stroke="black" y1="958.6669"
-      /><path fill="none" d="M3113.6746 998.2555 L3113.6746 998.2555" stroke="black"
-      /><path fill="none" d="M3121.6929 992.2802 L3121.6929 992.2802" stroke="black"
-      /><line y2="998.2555" fill="none" x1="3121.693" x2="3113.6745" stroke="black" y1="992.2802"
-      /><path fill="none" d="M3239.0847 859.1151 L3239.0847 894.3651" stroke="black"
-      /><path fill="none" d="M3239.0847 904.3651 L3239.0847 939.6151" stroke="black"
-      /><path d="M3239.0847 939.6151 L3233.3445 925.7569 L3244.825 925.7569 Z" stroke="none"
-      /><path fill="none" d="M3239.0847 939.6151 L3233.3445 925.7569 L3244.825 925.7569 Z" stroke="black"
-      /><line y2="894.3651" fill="none" x1="3239.0847" x2="3239.0847" stroke="black" y1="904.3651"
-      /><path fill="none" d="M3182.2209 1272.1077 L2976.2312 1344.9025" stroke="black"
-      /><path fill="none" d="M2966.8027 1348.2344 L2760.813 1421.0293" stroke="black"
-      /><path d="M2760.813 1421.0293 L2771.9668 1410.9995 L2775.792 1421.824 Z" stroke="none"
-      /><path fill="none" d="M2760.813 1421.0293 L2771.9668 1410.9995 L2775.792 1421.824 Z" stroke="black"
-      /><line y2="1344.9024" fill="none" x1="2966.8027" x2="2976.2312" stroke="black" y1="1348.2344"
-      /><path fill="rgb(248,247,240)" d="M3191.2209 1207.3354 L3287.4951 1207.3354 L3292.4951 1212.3354 L3292.4951 1331.8798 L3287.4951 1336.8798 L3191.2209 1336.8798 L3186.2209 1331.8798 L3186.2209 1212.3354 Z" fill-rule="evenodd" stroke="none"
-      /><path fill="none" d="M3191.2209 1207.3354 L3287.4951 1207.3354 L3292.4951 1212.3354 L3292.4951 1331.8798 L3287.4951 1336.8798 L3191.2209 1336.8798 L3186.2209 1331.8798 L3186.2209 1212.3354 Z" stroke-width="3" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="3223" xml:space="preserve" y="1331" font-family="sans-serif" stroke="none"
-      >adffa</text
-      ><path fill="none" d="M1153.0956 194.0672 L1153.3212 273.9579" stroke="black"
-      /><path fill="none" d="M1153.3495 283.9579 L1153.575 363.8485" stroke="black"
-      /><path fill="black" d="M1147.7957 350.0066 L1153.575 363.8485 L1159.2761 349.9742 Z" stroke="none"
-      /><path fill="none" d="M1153.3212 273.9579 L1153.3212 273.9579" stroke="black"
-      /><path fill="none" d="M1153.3495 283.9579 L1153.3495 283.9579" stroke="black"
-      /><rect x="1148.3353" width="10" height="10" y="273.9579" transform="translate(1153.3353,278.9579) rotate(89.8382) translate(-1153.3353,-278.9579)" stroke="none"
-      /><rect x="1148.3353" y="273.9579" transform="translate(1153.3353,278.9579) rotate(89.8382) translate(-1153.3353,-278.9579)" fill="none" width="10" height="10" stroke="black"
+      /><path fill="rgb(248,247,240)" d="M2900.0149 1173.257 L2996.0149 1173.257 L3001.0149 1178.257 L3001.0149 1284.257 L2996.0149 1289.257 L2900.0149 1289.257 L2895.0149 1284.257 L2895.0149 1178.257 Z" fill-rule="evenodd" stroke="none"
     /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="1150" xml:space="preserve" y="282" stroke="none"
-      >?</text
-      ><path fill="none" d="M3239.0847 966.1151 L3239.0847 1002.8651"
-      /><path fill="none" d="M3239.0847 1012.8651 L3239.0847 1049.6151"
+    ><g text-rendering="geometricPrecision" stroke-dasharray="8,8" stroke-width="3" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><path fill="none" d="M2900.0149 1173.257 L2996.0149 1173.257 L3001.0149 1178.257 L3001.0149 1284.257 L2996.0149 1289.257 L2900.0149 1289.257 L2895.0149 1284.257 L2895.0149 1178.257 Z" fill-rule="evenodd"
+      /><text x="2928" y="1284" font-family="sans-serif" stroke-dasharray="none" stroke="none" stroke-width="1" xml:space="preserve"
+      >a2d1b</text
+      ><path fill="none" stroke-width="1" stroke-dasharray="none" d="M3239.0847 674.6151 L3239.0847 722.8151"
+      /><path fill="none" stroke-width="1" stroke-dasharray="none" d="M3239.0847 732.8151 L3239.0847 807.6151"
+      /><path stroke-width="1" stroke-dasharray="none" d="M3233.3445 793.7569 L3239.0847 807.6151 L3244.825 793.7569 Z" stroke="none"
+      /><path fill="none" stroke-width="1" stroke-dasharray="none" d="M3433.8013 727.1151 L3244.0847 727.8151"
     /></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><path d="M3239.0847 1049.6151 L3233.3445 1035.7568 L3244.825 1035.7568 Z" stroke="none"
-      /><path fill="none" d="M3239.0847 1049.6151 L3233.3445 1035.7568 L3244.825 1035.7568 Z" stroke="black"
-      /><line y2="1002.8651" fill="none" x1="3239.0847" x2="3239.0847" stroke="black" y1="1012.8651"
-      /><path fill="none" d="M2832.5081 1231.4011 L2858.7615 1231.3406" stroke="black"
-      /><path fill="none" d="M2868.7615 1231.3175 L2895.0149 1231.257" stroke="black"
-      /><path d="M2895.0149 1231.257 L2881.1699 1237.0292 L2881.1433 1225.5487 Z" stroke="none"
-      /><path fill="none" d="M2895.0149 1231.257 L2881.1699 1237.0292 L2881.1433 1225.5487 Z" stroke="black"
-      /><line y2="1231.3406" fill="none" x1="2868.7615" x2="2858.7615" stroke="black" y1="1231.3175"
-      /><path fill="none" d="M3239.0847 674.6151 L3239.0847 722.8151" stroke="black"
-      /><path fill="none" d="M3239.0847 732.8151 L3239.0847 807.6151" stroke="black"
-      /><path fill="black" d="M3233.3445 793.7569 L3239.0847 807.6151 L3244.825 793.7569 Z" stroke="none"
-      /><path fill="none" d="M3433.8013 727.1151 L3244.0847 727.8151" stroke="black"
-      /><circle r="4" cx="3248.0847" cy="727.8003" stroke="none"
+    ><circle r="4" cx="3248.0847" cy="727.8003" stroke="none"
       /><circle fill="none" r="4" cx="3248.0847" cy="727.8003" stroke="black"
       /><rect x="3234.0847" width="10" height="10" y="722.8151" transform="translate(3239.0847,727.8151) rotate(90) translate(-3239.0847,-727.8151)" stroke="none"
       /><rect x="3234.0847" y="722.8151" transform="translate(3239.0847,727.8151) rotate(90) translate(-3239.0847,-727.8151)" fill="none" width="10" height="10" stroke="black"
@@ -107,6 +107,20 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="3239" xml:space="preserve" y="731" stroke="none"
       ></text
+    ></g
+    ><g fill-opacity="0.0314" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.0314"
+    ><rect x="942.8015" y="1056.3498" width="2494.9246" rx="10" ry="10" height="508.1244" stroke="none"
+    /></g
+    ><g fill="gray" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="gray" color-interpolation="linearRGB" stroke-width="3"
+    ><rect x="942.8015" y="1056.3498" fill="none" width="2494.9246" rx="10" ry="10" height="508.1244"
+      /><rect x="954.8015" y="1068.3498" fill="none" width="2470.9246" rx="10" ry="10" height="484.1244" stroke-width="1"
+    /></g
+    ><g fill-opacity="0.498" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.498"
+    ><path d="M3415.7261 1068.3497 C3421.249 1068.3497 3425.7261 1072.8269 3425.7261 1078.3497 L3425.7261 1542.4741 C3425.7261 1547.9971 3421.249 1552.4741 3415.7261 1552.4741 L964.8015 1552.4741 C959.2787 1552.4741 954.8015 1547.9971 954.8015 1542.4741 L954.8015 1078.3497 C954.8015 1072.8269 959.2787 1068.3497 964.8015 1068.3497 ZM952.8015 1056.3497 C947.2787 1056.3497 942.8015 1060.8269 942.8015 1066.3497 L942.8015 1554.4741 C942.8015 1559.9971 947.2787 1564.4741 952.8015 1564.4741 L3427.7261 1564.4741 C3433.249 1564.4741 3437.7261 1559.9971 3437.7261 1554.4741 L3437.7261 1066.3497 C3437.7261 1060.8269 3433.249 1056.3497 3427.7261 1056.3497 Z" stroke="none"
+    /></g
+    ><g fill="silver" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" font-family="sans-serif" stroke="silver" color-interpolation="linearRGB"
+    ><text x="942" xml:space="preserve" y="1063" stroke="none"
+      > </text
     ></g
     ><g fill-opacity="0.0314" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.0314"
     ><rect x="720.7149" y="453.5049" width="3014.2034" rx="10" ry="10" height="1118.6245" stroke="none"
@@ -123,55 +137,41 @@
       >HIF1A becomes modified at 2 locations </text
       ><text x="2414" xml:space="preserve" y="725" stroke="none"
       >which makes it a target for the VHL </text
-    ></g
-    ><g fill-opacity="0.0314" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.0314"
-    ><rect x="942.8015" y="1056.3498" width="2494.9246" rx="10" ry="10" height="508.1244" stroke="none"
-    /></g
-    ><g fill="gray" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="gray" color-interpolation="linearRGB" stroke-width="3"
-    ><rect x="942.8015" y="1056.3498" fill="none" width="2494.9246" rx="10" ry="10" height="508.1244"
-      /><rect x="954.8015" y="1068.3498" fill="none" width="2470.9246" rx="10" ry="10" height="484.1244" stroke-width="1"
-    /></g
-    ><g fill-opacity="0.498" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.498"
-    ><path d="M3415.7261 1068.3497 C3421.249 1068.3497 3425.7261 1072.8269 3425.7261 1078.3497 L3425.7261 1542.4741 C3425.7261 1547.9971 3421.249 1552.4741 3415.7261 1552.4741 L964.8015 1552.4741 C959.2787 1552.4741 954.8015 1547.9971 954.8015 1542.4741 L954.8015 1078.3497 C954.8015 1072.8269 959.2787 1068.3497 964.8015 1068.3497 ZM952.8015 1056.3497 C947.2787 1056.3497 942.8015 1060.8269 942.8015 1066.3497 L942.8015 1554.4741 C942.8015 1559.9971 947.2787 1564.4741 952.8015 1564.4741 L3427.7261 1564.4741 C3433.249 1564.4741 3437.7261 1559.9971 3437.7261 1554.4741 L3437.7261 1066.3497 C3437.7261 1060.8269 3433.249 1056.3497 3427.7261 1056.3497 Z" stroke="none"
-    /></g
-    ><g fill="silver" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" font-family="sans-serif" stroke="silver" color-interpolation="linearRGB"
-    ><text x="942" xml:space="preserve" y="1063" stroke="none"
-      > </text
       ><ellipse rx="81.5" fill="white" ry="38.25" cx="2720.0631" cy="1459.2792" stroke="none"
       /><text fill="black" x="2678" xml:space="preserve" font-size="14px" y="1463" stroke="none"
       >Hypertrophy</text
-      ><ellipse rx="123" fill="white" ry="25.75" cx="3239.0847" cy="833.3651" stroke="none"
-      /><ellipse rx="123" fill="none" ry="25.75" cx="3239.0847" cy="833.3651" stroke="blue"
-      /><text fill="blue" x="3180" xml:space="preserve" y="837" stroke="none"
-      >TRIIODOTHYRONINE</text
-      ><rect x="3194.0847" y="1049.6151" fill="white" width="90" rx="5" ry="5" height="25" stroke="none"
-      /><rect x="3194.0847" y="1049.6151" fill="none" width="90" rx="5" ry="5" height="25" stroke="black"
-      /><text fill="black" x="3219" xml:space="preserve" y="1066" stroke="none"
-      >CEBPB</text
-      ><rect fill="white" x="3174" width="129" height="26" y="939" stroke="none"
-      /><rect fill="none" x="3174" width="129" height="26" y="939" stroke="black"
-      /><text fill="black" x="3219" xml:space="preserve" y="957" stroke="none"
-      >EPAS1</text
-      ><rect x="2970.7828" y="1025.1706" fill="white" width="90" rx="5" ry="5" height="25" stroke="none"
-      /><rect x="2970.7828" y="1025.1706" fill="none" width="90" rx="5" ry="5" height="25" stroke="black"
-      /><text fill="black" x="2997" xml:space="preserve" y="1042" stroke="none"
-      >CNMD</text
-      ><rect fill="white" x="3194" width="90" height="25" y="1253" stroke="none"
-      /><rect fill="none" x="3194" width="90" height="25" y="1253" stroke="black"
-      /><text fill="black" x="3218" xml:space="preserve" y="1270" stroke="none"
-      >RUNX2</text
-      ><rect fill="white" x="3433" width="90" height="25" y="714" stroke="none"
-      /><rect fill="none" x="3433" width="90" height="25" y="714" stroke="black"
-      /><text fill="black" x="3464" xml:space="preserve" y="731" stroke="none"
-      >DIO2</text
-      ><ellipse rx="45" fill="white" ry="12.5" cx="3239.0847" cy="662.1151" stroke="none"
-      /><ellipse rx="45" fill="none" ry="12.5" cx="3239.0847" cy="662.1151" stroke="blue"
-      /><text fill="blue" x="3205" xml:space="preserve" y="666" stroke="none"
-      >L-thyroxine</text
       ><rect fill="white" x="3194" width="90" height="25" y="1278" stroke="none"
       /><rect fill="none" x="3194" width="90" height="25" y="1278" stroke="black"
       /><text fill="black" x="3211" xml:space="preserve" y="1295" stroke="none"
       >COL10A1</text
+      ><ellipse rx="45" fill="white" ry="12.5" cx="3239.0847" cy="662.1151" stroke="none"
+      /><ellipse rx="45" fill="none" ry="12.5" cx="3239.0847" cy="662.1151" stroke="blue"
+      /><text fill="blue" x="3205" xml:space="preserve" y="666" stroke="none"
+      >L-thyroxine</text
+      ><rect x="2970.7828" y="1025.1706" fill="white" width="90" rx="5" ry="5" height="25" stroke="none"
+      /><rect x="2970.7828" y="1025.1706" fill="none" width="90" rx="5" ry="5" height="25" stroke="black"
+      /><text fill="black" x="2997" xml:space="preserve" y="1042" stroke="none"
+      >CNMD</text
+      ><ellipse rx="62.312" fill="white" ry="17.8226" cx="3239.0847" cy="825.4376" stroke="none"
+      /><ellipse rx="62.312" fill="none" ry="17.8226" cx="3239.0847" cy="825.4376" stroke="blue"
+      /><text fill="blue" x="3188" xml:space="preserve" y="829" stroke="none"
+      >Triiodothyronine</text
+      ><rect x="3194.0847" y="1049.6151" fill="white" width="90" rx="5" ry="5" height="25" stroke="none"
+      /><rect x="3194.0847" y="1049.6151" fill="none" width="90" rx="5" ry="5" height="25" stroke="black"
+      /><text fill="black" x="3219" xml:space="preserve" y="1066" stroke="none"
+      >CEBPB</text
+      ><rect fill="white" x="3433" width="90" height="25" y="714" stroke="none"
+      /><rect fill="none" x="3433" width="90" height="25" y="714" stroke="black"
+      /><text fill="black" x="3464" xml:space="preserve" y="731" stroke="none"
+      >DIO2</text
+      ><rect fill="white" x="3174" width="129" height="26" y="939" stroke="none"
+      /><rect fill="none" x="3174" width="129" height="26" y="939" stroke="black"
+      /><text fill="black" x="3219" xml:space="preserve" y="957" stroke="none"
+      >EPAS1</text
+      ><rect fill="white" x="3194" width="90" height="25" y="1253" stroke="none"
+      /><rect fill="none" x="3194" width="90" height="25" y="1253" stroke="black"
+      /><text fill="black" x="3218" xml:space="preserve" y="1270" stroke="none"
+      >RUNX2</text
       ><rect fill="white" x="3194" width="90" height="25" y="1303" stroke="none"
       /><rect fill="none" x="3194" width="90" height="25" y="1303" stroke="black"
       /><text fill="black" x="3217" xml:space="preserve" y="1320" stroke="none"
@@ -320,12 +320,8 @@
       ><text x="2436" xml:space="preserve" y="1388" stroke="none"
       >Tube formation</text
     ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="1727" width="90" height="25" y="1358" stroke="none"
-      /><rect fill="none" x="1727" width="90" height="25" y="1358" stroke="black"
-      /><text fill="black" x="1757" xml:space="preserve" y="1375" font-family="sans-serif" stroke="none"
-      >JUND</text
-      ><path fill="rgb(248,247,240)" d="M833.9321 164.1583 L1019.3203 164.1583 L1024.3203 169.1583 L1024.3203 222.99 L1019.3203 227.99 L833.9321 227.99 L828.9321 222.99 L828.9321 169.1583 Z" fill-rule="evenodd" stroke="none"
+    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
+    ><path d="M833.9321 164.1583 L1019.3203 164.1583 L1024.3203 169.1583 L1024.3203 222.99 L1019.3203 227.99 L833.9321 227.99 L828.9321 222.99 L828.9321 169.1583 Z" stroke="none" fill-rule="evenodd"
     /></g
     ><g text-rendering="geometricPrecision" stroke-dasharray="8,8" stroke-width="3" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
     ><path fill="none" d="M833.9321 164.1583 L1019.3203 164.1583 L1024.3203 169.1583 L1024.3203 222.99 L1019.3203 227.99 L833.9321 227.99 L828.9321 222.99 L828.9321 169.1583 Z" fill-rule="evenodd"
@@ -333,7 +329,11 @@
       >e57ae</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="836" width="90" height="22" y="197" stroke="none"
+    ><rect x="1727" width="90" height="25" y="1358" stroke="none"
+      /><rect fill="none" x="1727" width="90" height="25" y="1358" stroke="black"
+      /><text fill="black" x="1757" xml:space="preserve" y="1375" font-family="sans-serif" stroke="none"
+      >JUND</text
+      ><rect x="836" width="90" height="22" y="197" stroke="none"
       /><rect fill="none" x="836" width="90" height="22" y="197" stroke="black"
       /><text fill="black" x="858" xml:space="preserve" y="213" font-family="sans-serif" stroke="none"
       >COL3A1</text
@@ -377,10 +377,6 @@
       /><rect fill="none" x="2198" width="90" height="25" y="634" stroke="black"
       /><text fill="black" x="2224" xml:space="preserve" y="651" font-family="sans-serif" stroke="none"
       >STAT3</text
-      ><rect x="2012" width="90" height="25" y="634" stroke="none"
-      /><rect fill="none" x="2012" width="90" height="25" y="634" stroke="black"
-      /><text fill="black" x="2044" xml:space="preserve" y="651" font-family="sans-serif" stroke="none"
-      >JAK2</text
       ><circle r="7.5" cx="2288.3964" cy="644.3373" stroke="none"
       /><circle fill="none" r="7.5" cx="2288.3964" cy="644.3373" stroke="black"
       /><line y2="659" fill="none" x1="2288" x2="2288" stroke="black" y1="651"
@@ -390,7 +386,11 @@
       >P</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="1841" width="90" height="25" y="1366" stroke="none"
+    ><rect x="2012" width="90" height="25" y="634" stroke="none"
+      /><rect fill="none" x="2012" width="90" height="25" y="634" stroke="black"
+      /><text fill="black" x="2044" xml:space="preserve" y="651" font-family="sans-serif" stroke="none"
+      >JAK2</text
+      ><rect x="1841" width="90" height="25" y="1366" stroke="none"
       /><rect fill="none" x="1841" width="90" height="25" y="1366" stroke="black"
       /><text fill="black" x="1867" xml:space="preserve" y="1383" font-family="sans-serif" stroke="none"
       >FOSL2</text
@@ -556,6 +556,10 @@
       /><rect fill="none" x="1109" width="90" height="25" y="872" stroke="black"
       /><text fill="black" x="1133" xml:space="preserve" y="889" font-family="sans-serif" stroke="none"
       >MAPK1</text
+      ><rect x="1109" width="90" height="25" y="895" stroke="none"
+      /><rect fill="none" x="1109" width="90" height="25" y="895" stroke="black"
+      /><text fill="black" x="1133" xml:space="preserve" y="912" font-family="sans-serif" stroke="none"
+      >MAPK3</text
       ><path fill="rgb(248,247,240)" d="M1400.1841 838.5468 L1496.1841 838.5468 L1501.1841 843.5468 L1501.1841 924.5468 L1496.1841 929.5468 L1400.1841 929.5468 L1395.1841 924.5468 L1395.1841 843.5468 Z" fill-rule="evenodd" stroke="none"
     /></g
     ><g text-rendering="geometricPrecision" stroke-dasharray="8,8" stroke-width="3" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
@@ -564,11 +568,7 @@
       >b9fad</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="1109" width="90" height="25" y="895" stroke="none"
-      /><rect fill="none" x="1109" width="90" height="25" y="895" stroke="black"
-      /><text fill="black" x="1133" xml:space="preserve" y="912" font-family="sans-serif" stroke="none"
-      >MAPK3</text
-      ><rect x="1403" width="90" height="25" y="846" stroke="none"
+    ><rect x="1403" width="90" height="25" y="846" stroke="none"
       /><rect fill="none" x="1403" width="90" height="25" y="846" stroke="black"
       /><text fill="black" x="1433" xml:space="preserve" y="863" font-family="sans-serif" stroke="none"
       >AKT1</text
@@ -599,10 +599,6 @@
       /><rect fill="none" x="1093" width="90" height="25" y="1279" stroke="black"
       /><text fill="black" x="1118" xml:space="preserve" y="1296" font-family="sans-serif" stroke="none"
       >VEGFA</text
-      ><rect x="1093" width="90" height="25" y="1304" stroke="none"
-      /><rect fill="none" x="1093" width="90" height="25" y="1304" stroke="black"
-      /><text fill="black" x="1116" xml:space="preserve" y="1321" font-family="sans-serif" stroke="none"
-      >MMP13</text
       ><path fill="rgb(248,247,240)" d="M1418.8788 1229.0746 L1514.8788 1229.0746 L1519.8788 1234.0746 L1519.8788 1315.0746 L1514.8788 1320.0746 L1418.8788 1320.0746 L1413.8788 1315.0746 L1413.8788 1234.0746 Z" fill-rule="evenodd" stroke="none"
     /></g
     ><g text-rendering="geometricPrecision" stroke-dasharray="8,8" stroke-width="3" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
@@ -611,7 +607,11 @@
       >ed2c0</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="1421" width="90" height="25" y="1262" stroke="none"
+    ><rect x="1093" width="90" height="25" y="1304" stroke="none"
+      /><rect fill="none" x="1093" width="90" height="25" y="1304" stroke="black"
+      /><text fill="black" x="1116" xml:space="preserve" y="1321" font-family="sans-serif" stroke="none"
+      >MMP13</text
+      ><rect x="1421" width="90" height="25" y="1262" stroke="none"
       /><rect fill="none" x="1421" width="90" height="25" y="1262" stroke="black"
       /><text fill="black" x="1450" xml:space="preserve" y="1279" font-family="sans-serif" stroke="none"
       >SOX9</text
@@ -720,6 +720,10 @@
       /><path fill="none" d="M2854.6516 889.1678 L2950.6516 889.1678 L2955.6516 894.1678 L2955.6516 950.1678 L2950.6516 955.1678 L2854.6516 955.1678 L2849.6516 950.1678 L2849.6516 894.1678 Z" stroke-width="3" fill-rule="evenodd" stroke="black"
       /><text fill="black" x="2883" xml:space="preserve" y="950" font-family="sans-serif" stroke="none"
       >bc741</text
+      ><rect x="2857.6515" y="922.1678" width="90" rx="5" ry="5" height="25" stroke="none"
+      /><rect x="2857.6515" y="922.1678" fill="none" width="90" rx="5" ry="5" height="25" stroke="black"
+      /><text fill="black" x="2886" xml:space="preserve" y="939" font-family="sans-serif" stroke="none"
+      >ARNT</text
       ><circle r="7.5" cx="2609.4886" cy="770.7307" stroke="none"
       /><circle fill="none" r="7.5" cx="2609.4886" cy="770.7307" stroke="black"
       /><line y2="785" fill="none" x1="2609" x2="2609" stroke="black" y1="778"
@@ -729,11 +733,7 @@
       >Ub</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="2857.6515" y="922.1678" width="90" rx="5" ry="5" height="25" stroke="none"
-      /><rect x="2857.6515" y="922.1678" fill="none" width="90" rx="5" ry="5" height="25" stroke="black"
-      /><text fill="black" x="2886" xml:space="preserve" y="939" font-family="sans-serif" stroke="none"
-      >ARNT</text
-      ><rect x="2492.9258" y="654.1793" width="143.1257" rx="5" ry="5" height="32.3456" stroke="none"
+    ><rect x="2492.9258" y="654.1793" width="143.1257" rx="5" ry="5" height="32.3456" stroke="none"
       /><rect x="2492.9258" y="654.1793" fill="none" width="143.1257" rx="5" ry="5" height="32.3456" stroke="black"
       /><text fill="black" x="2503" xml:space="preserve" y="674" font-family="sans-serif" stroke="none"
       >Prolyl 4-hydroxylase</text
@@ -800,10 +800,10 @@
       /><path fill="none" d="M2791.2068 1111.521 L2623.6541 1180.427"
       /><line y2="1185.0512" fill="none" x1="2621.7523" x2="2625.5557" y1="1175.8028"
       /><line y2="1107.7176" fill="none" x1="2791.2069" x2="2800.4553" y1="1111.521"
-      /><text x="2761" font-size="12px" y="762" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
-      >Hypoxia drives accumulkation of intracellular HIF1A </text
-      ><text x="1133" font-size="12px" y="937" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
+      /><text x="1133" font-size="12px" y="937" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
       >MAPK/AKT proteins interact with transcriptional factors which regulate gene expression</text
+      ><text x="2761" font-size="12px" y="762" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
+      >Hypoxia drives accumulkation of intracellular HIF1A </text
     ></g
   ></g
 ></svg
