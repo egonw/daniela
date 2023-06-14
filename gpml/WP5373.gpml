@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Hypoxia, angiogenesis and the canonical FGF signaling pathway in the development of the osteoarthritic chondrocyte hypertrophic phenotype" Version="20230605" Organism="Homo sapiens">
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Role of Hypoxia, Angiogenesis, and FGF Pathway in Osteoarthritic Chondrocyte Hypertrophy" Version="20230605" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Hypoxia in osteoarthritis (OA) leads to low oxygen levels in cartilage, activating hypoxia-inducible factors (HIFs). Angiogenesis occurs in response to hypoxia, stimulating the formation of new blood vessels. Vascular endothelial growth factor (VEGF) plays a key role in angiogenesis. Dysregulation of the canonical FGF signalling pathway disrupts chondrocyte proliferation and differentiation. In OA, aberrant FGF signalling contributes to the hypertrophic chondrocyte phenotype. This phenotype is associated with increased cell size, altered gene expression and matrix degradation. Understanding these interactions may provide therapeutic insights for the treatment of OA.
 The pathway is based off of Figure 5 of the paper by Ellen G. J. Ripmeester Et al. (2018).</Comment>
   <BiopaxRef>d81</BiopaxRef>
@@ -21,8 +21,8 @@ The pathway is based off of Figure 5 of the paper by Ellen G. J. Ripmeester Et a
     <Graphics CenterX="3239.4951199908155" CenterY="1266.379768319986" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000124813"/>
   </DataNode>
-  <DataNode TextLabel="TRIIODOTHYRONINE" GraphId="cd2cb" Type="Metabolite">
-    <Graphics CenterX="3239.0847152968004" CenterY="833.3650852242365" Width="246.0" Height="51.5" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
+  <DataNode TextLabel="Triiodothyronine" GraphId="cd2cb" Type="Metabolite">
+    <Graphics CenterX="3239.0847152968" CenterY="825.4376366560059" Width="124.62390024977881" Height="35.64510286353675" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff"/>
     <Xref Database="ChEBI" ID="CHEBI:18258"/>
   </DataNode>
   <DataNode TextLabel="CEBPB" GraphId="e3f3b" Type="Protein">
@@ -322,7 +322,7 @@ The pathway is based off of Figure 5 of the paper by Ellen G. J. Ripmeester Et a
   <Interaction GraphId="id274049d5">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="3433.8013091284574" Y="727.1150852242383" GraphRef="ad63c" RelX="-1.0" RelY="0.0"/>
-      <Point X="3239.0847152968004" Y="727.8150852242381" GraphRef="a39c4" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis"/>
+      <Point X="3239.0847152968004" Y="727.8150852242386" GraphRef="a39c4" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis"/>
     </Graphics>
     <Xref Database="" ID=""/>
   </Interaction>
@@ -364,7 +364,7 @@ The pathway is based off of Figure 5 of the paper by Ellen G. J. Ripmeester Et a
   </Interaction>
   <Interaction GraphId="id87cba5a7">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="3239.0847152968004" Y="859.1150852242365" GraphRef="cd2cb" RelX="0.0" RelY="1.0"/>
+      <Point X="3239.0847152968" Y="843.2601880877743" GraphRef="cd2cb" RelX="0.0" RelY="1.0"/>
       <Point X="3239.0847152968004" Y="939.6150852242362" GraphRef="ecbf2" RelX="0.0" RelY="-1.0" ArrowHead="mim-stimulation"/>
     </Graphics>
     <Xref Database="" ID=""/>
@@ -393,7 +393,7 @@ The pathway is based off of Figure 5 of the paper by Ellen G. J. Ripmeester Et a
   <Interaction GraphId="idf4972939">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="3239.0847152968004" Y="674.6150852242392" GraphRef="a2195" RelX="0.0" RelY="1.0"/>
-      <Point X="3239.0847152968004" Y="807.6150852242365" GraphRef="cd2cb" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion"/>
+      <Point X="3239.0847152968" Y="807.6150852242375" GraphRef="cd2cb" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion"/>
       <Anchor Position="0.4" Shape="None" GraphId="a39c4"/>
     </Graphics>
     <Xref Database="" ID=""/>
@@ -728,19 +728,19 @@ The pathway is based off of Figure 5 of the paper by Ellen G. J. Ripmeester Et a
   </Group>
   <InfoBox CenterX="0.0" CenterY="0.0"/>
   <Biopax>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bd1">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22450551</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hypoxia-driven pathways in bone development, regeneration and disease</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.1038/nrrheum.2012.36</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christa Maes</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geert Carmeliet</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ernestina Schipani</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">hypoxia inducible factor pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000360</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteoarthritis</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:8398</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mitogen activated protein kinase signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000007</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="d81">
@@ -755,23 +755,23 @@ The pathway is based off of Figure 5 of the paper by Ellen G. J. Ripmeester Et a
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Welting TJM</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fibroblast growth factor signaling pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000328</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">osteoarthritis</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:8398</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
     </bp:openControlledVocabulary>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="bd1">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22450551</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hypoxia-driven pathways in bone development, regeneration and disease</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.1038/nrrheum.2012.36</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2012</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Christa Maes</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Geert Carmeliet</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ernestina Schipani</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">thyroid hormone biosynthetic pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0002521</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mitogen activated protein kinase signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000007</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fibroblast growth factor signaling pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000328</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
   </Biopax>
