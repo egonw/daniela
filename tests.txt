@@ -20,6 +20,7 @@ CovidDiseaseMapsTests.all
 #CovidDiseaseMapsTests.missingHGNC
 DataNodesTests.all
 #DataNodesTests.dataNodesWithoutIdentifier
+#DataNodesTests.otherDataSource
 #DataNodesTests.unknownTypes
 #DataNodesTests.unknownTypes_Reactome
 #DataNodesTests.unknownTypes_knownDatasource
