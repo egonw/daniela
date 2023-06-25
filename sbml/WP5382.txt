@@ -1,30 +1,38 @@
 Regulation of TGFβ/Smad Signaling Pathway in Trabecular Meshwork (TM) cells. In this pathway, TGF-β binds to the TGF-β-type II receptor, inducing the activation of the TGF-β-type-I receptor. This induces the phosphorylation of Smad2/3 proteins which form a complex with Smad4. The translocation of this complex to the nucleus is facilitated by the TAZ protein.  Once in the nucleous, it binds to SBEs (Smad Binding Elements), promoting the transcription of TGF-beta-response genes. The inhibition of this translocation instead occurs when phosphorylated TAZ protein interacts with 14-3-3 protein preventing the formation of complex TAZ-Smad. 
 The translated ECM proteins are secreted by TM cells to the extracellular space.  
+This pathway is based on Figure 4 of the publication “Mutual regulation of the Hippo/Wnt/LPA/TGF-β signaling pathways and their roles in glaucoma (Review)” by Xin Wang, Guoli Huai, Hailian Wang, Yuande Liu, Ping Qi, Wei Shi, Jie Peng, Hongji Yang, Shaoping Deng, and Yi Wang.
 
 [DataNode:bff42]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
-[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P05121 S
 [DataNode:de268]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
-[-:-]	This database type is not implemented yet: Uniprot-SwissProt; resource: P01137
 [DataNode:a70c6]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
 [LINE:id1e336d19]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
-[LINE:id8329ec1f]	Interaction is not connected
-[LINE:a3c86]	Interaction is not connected
 [LINE:b6200]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
 [LINE:d7f3c]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
 [LINE:d13e3]	Unknown attribute of node. Key: org.pathvisio.DoubleLineProperty; value: Double
-[LINE:d6ce2]	Interaction is not connected
-[TRANSCRIPTION_TRANSLATION:b6200]	Invalid interaction type.
-[TRANSCRIPTION_TRANSLATION:d13e3]	Invalid interaction type.
+[LINE:id49e4638f]	Invalid interaction type.
 [MODIFICATION:e8074]	Invalid interaction type.
+[LINE:iddf767e57]	Invalid interaction type.
 [TRANSCRIPTION_TRANSLATION:d7f3c]	Invalid interaction type.
 [TRANSCRIPTION_TRANSLATION:id1e336d19]	Invalid interaction type.
-[Label:c86ed]	 Label cannot be part of reaction. Tranforming to Unknown
+[TRANSCRIPTION_TRANSLATION:b6200]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:d13e3]	Invalid interaction type.
+[LINE:idefa01927]	Invalid interaction type.
+[BINDING:idd79cf750]	Invalid interaction type "BINDING" as an output from reaction.
+[BINDING:idc184539d]	Invalid interaction type "BINDING" as an output from reaction.
+[BINDING:id244012a6]	Invalid interaction type "BINDING" as an output from reaction.
+[Label:ad84b]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e7089]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:fde20]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e064c]	 Label cannot be part of reaction. Tranforming to Unknown
 [:d9197]	 Shape can not be part of reaction. Tranforming to Unknown
-[HeterodimerAssociationReaction:id14682]	Reaction should contain at least 2 reactants. GraphId: id14682
-[HeterodimerAssociationReaction:e2e20]	Reaction should contain at least 2 reactants. GraphId: e2e20
-[HeterodimerAssociationReaction:idae043325]	Reaction should contain at least 2 reactants. GraphId: idae043325
+[HeterodimerAssociationReaction:id459b8697]	Reaction should contain at least 2 reactants. GraphId: id459b8697
+[HeterodimerAssociationReaction:id54715f69]	Reaction should contain at least 2 reactants. GraphId: id54715f69
+[HeterodimerAssociationReaction:id3662a204]	Reaction should contain at least 2 reactants. GraphId: id3662a204
+[HeterodimerAssociationReaction:id595c7362]	Reaction should contain at least 2 reactants. GraphId: id595c7362
 [HeterodimerAssociationReaction:fda4c]	Reaction should contain at least 2 reactants. GraphId: fda4c
-[Complex:b6eab]	Empty element is invalid
+[Complex:a1838]	Empty element is invalid
+[Complex:f343a]	Empty element is invalid
 [Complex:b83b9]	Empty element is invalid
-[Complex:a983a]	Empty element is invalid
 [Complex:f73f8]	Empty element is invalid
+[Complex:b6eab]	Empty element is invalid
+[Complex:a983a]	Empty element is invalid

@@ -1,11 +1,7 @@
-Growth factors and hormones in Beta-cell proliferation
+Several growth factors and hormones interact with particular beta-cell receptors to start intracellular signaling pathways that encourage cell division and growth. Hormones including prolactin (PRL), thyroid hormone (TH), growth hormone (GH), glucagon-like peptide-1 (GLP-1), insulin-like growth factor-1 (IGF-1), and others have been closely linked. The modulation of B-cell proliferation has been linked to growth factors such as IGF-1, members of the epidermal growth factor (EGF) family, nerve growth factor (NGF), members of the transforming growth factor (TGF)-superfamily, placental growth factor (PLGF), and their corresponding receptors. This pathway provides information on how these various factors are realized. The figure is based on Jiang et al. (2018, doi: 10.3892/etm.2018.6603).
 Growh factors and hormones in Beta-cell proliferation
 
 
-[-:-]	This database type is not implemented yet: Other; resource: CHEBI:18258
-[-:-]	This database type is not implemented yet: Other; resource: CHEBI:18332
-[-:-]	This database type is not implemented yet: Other; resource: CHEBI:29108
-[-:-]	This database type is not implemented yet: Other; resource: CHEBI:18258
 [STIMULATION:id12d019b7]	Interaction is not connected
 [STIMULATION:id23675709]	Interaction is not connected
 [STIMULATION:id3932fca8]	Interaction is not connected

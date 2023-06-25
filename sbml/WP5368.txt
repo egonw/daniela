@@ -2,6 +2,4 @@ The intratumoral production of estradiol-17beta (E2) from circulating steroid ho
 
 This pathway is based on Figure 1 from: Mungenast, F., Aust, S., Vergote, I., Vanderstichele, A., Sehouli, J., Braicu, E., Mahner, S., Castillo‑Tong, D. C., Zeillinger, R., Thalhammer, T."Clinical significance of the estrogen-modifying enzymes steroid sulfatase and estrogen sulfotransferase in epithelial ovarian cancer". Oncology Letters 13, no. 6 (2017): 4047-4054. https://doi.org/10.3892/ol.2017.5969
 
-[CONVERSION:id3c28bb06]	Interaction is not connected
-[CATALYSIS:id94a3115b]	Interaction is not connected
 [HeterodimerAssociationReaction:id367d3891]	Reaction should contain at least 2 reactants. GraphId: id367d3891

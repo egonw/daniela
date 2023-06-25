@@ -1,45 +1,40 @@
 Hypoxia in osteoarthritis (OA) leads to low oxygen levels in cartilage, activating hypoxia-inducible factors (HIFs). Angiogenesis occurs in response to hypoxia, stimulating the formation of new blood vessels. Vascular endothelial growth factor (VEGF) plays a key role in angiogenesis. Dysregulation of the canonical FGF signalling pathway disrupts chondrocyte proliferation and differentiation. In OA, aberrant FGF signalling contributes to the hypertrophic chondrocyte phenotype. This phenotype is associated with increased cell size, altered gene expression and matrix degradation. Understanding these interactions may provide therapeutic insights for the treatment of OA.
-The pathway is based off of Figure 5 of the paper by Ellen G. J. Ripmeester Et al. (2018).
+The pathway is based on Figure 5 of the paper by Ellen G. J. Ripmeester et al. (2018).
 
-[BINDING:b0071]	Interaction is not connected
-[STIMULATION:b6f5e]	Curved connections are not supported.
-[STIMULATION:b71bb]	Invalid interaction type.
-[STIMULATION:cc4d6]	Invalid interaction type.
-[STIMULATION:f49b4]	Invalid interaction type.
-[STIMULATION:f942e]	Invalid interaction type.
-[STIMULATION:fc4a0]	Invalid interaction type.
-[STIMULATION:c62a6]	Invalid interaction type.
-[STIMULATION:d4412]	Invalid interaction type.
-[STIMULATION:d8857]	Invalid interaction type.
-[STIMULATION:id4cba6e2f]	Invalid interaction type.
-[STIMULATION:ee407]	Invalid interaction type.
-[STIMULATION:id588c311a]	Invalid interaction type.
-[STIMULATION:fdf41]	Invalid interaction type.
-[STIMULATION:a0af2]	Invalid interaction type.
-[STIMULATION:a4880]	Invalid interaction type.
-[STIMULATION:id87cba5a7]	Invalid interaction type.
-[STIMULATION:id7fc5084b]	Invalid interaction type.
-[CATALYSIS:a127f]	Invalid interaction type.
-[STIMULATION:idffc2c9d5]	Invalid interaction type.
-[STIMULATION:bf877]	Invalid interaction type.
-[STIMULATION:fcc9a]	Invalid interaction type.
-[STIMULATION:bc206]	Invalid interaction type.
-[STIMULATION:ca269]	Invalid interaction type.
-[STIMULATION:f0c99]	Invalid interaction type.
-[STIMULATION:fd57f]	Invalid interaction type.
-[STIMULATION:e5181]	Invalid interaction type.
-[STIMULATION:aa781]	Invalid interaction type.
-[STIMULATION:idb3180c79]	Invalid interaction type.
-[STIMULATION:b6f5e]	Invalid interaction type.
-[STIMULATION:e4e56]	Invalid interaction type.
-[STIMULATION:id23e92074]	Invalid interaction type.
-[STIMULATION:b5c77]	Invalid interaction type.
-[STIMULATION:ec94a]	Invalid interaction type.
-[STIMULATION:e292a]	Invalid interaction type.
-[Label:e4d48]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:b866c]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:df158]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:c3304]	 Label cannot be part of reaction. Tranforming to Unknown
-[HeterodimerAssociationReaction:de2b5]	Reaction should contain at least 2 reactants. GraphId: de2b5
-[HeterodimerAssociationReaction:dc835]	Reaction should contain at least 2 reactants. GraphId: dc835
-[HeterodimerAssociationReaction:idd316c2a1]	Reaction should contain at least 2 reactants. GraphId: idd316c2a1
+[STIMULATION:f2d2c]	Curved connections are not supported.
+[STIMULATION:d3ceb]	Invalid interaction type.
+[STIMULATION:ca6f6]	Invalid interaction type.
+[STIMULATION:d5e36]	Invalid interaction type.
+[STIMULATION:da3d1]	Invalid interaction type.
+[STIMULATION:fed85]	Invalid interaction type.
+[STIMULATION:b398b]	Invalid interaction type.
+[STIMULATION:f4784]	Invalid interaction type.
+[STIMULATION:f409f]	Invalid interaction type.
+[STIMULATION:fbf8d]	Invalid interaction type.
+[STIMULATION:b1f32]	Invalid interaction type.
+[STIMULATION:e0dd1]	Invalid interaction type.
+[STIMULATION:cc5d0]	Invalid interaction type.
+[STIMULATION:b08d6]	Invalid interaction type.
+[STIMULATION:b4c38]	Invalid interaction type.
+[STIMULATION:b0668]	Invalid interaction type.
+[STIMULATION:e7089]	Invalid interaction type.
+[STIMULATION:f4fd9]	Invalid interaction type.
+[STIMULATION:a3f88]	Invalid interaction type.
+[STIMULATION:a24b4]	Invalid interaction type.
+[STIMULATION:bd177]	Invalid interaction type.
+[STIMULATION:e4f0d]	Invalid interaction type.
+[STIMULATION:d4690]	Invalid interaction type.
+[STIMULATION:d0f37]	Invalid interaction type.
+[STIMULATION:dc2e8]	Invalid interaction type.
+[STIMULATION:d774d]	Invalid interaction type.
+[STIMULATION:cf797]	Invalid interaction type.
+[STIMULATION:db7aa]	Invalid interaction type.
+[STIMULATION:bd3a4]	Invalid interaction type.
+[STIMULATION:dd612]	Invalid interaction type.
+[STIMULATION:a70f6]	Invalid interaction type.
+[STIMULATION:f2d2c]	Invalid interaction type.
+[STIMULATION:a165b]	Invalid interaction type.
+[HeterodimerAssociationReaction:c7e19]	Reaction should contain at least 2 reactants. GraphId: c7e19
+[HeterodimerAssociationReaction:dc090]	Reaction should contain at least 2 reactants. GraphId: dc090
+[HeterodimerAssociationReaction:f9a1a]	Reaction should contain at least 2 reactants. GraphId: f9a1a
+[HeterodimerAssociationReaction:ae4e0]	Reaction should contain at least 2 reactants. GraphId: ae4e0
