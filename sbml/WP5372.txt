@@ -3,12 +3,21 @@ This pathway is based on Figure 1 from the paper:"δ-secretase in neurodegenerat
 
 [TRANSCRIPTION_TRANSLATION:id48dc0e91]	Invalid interaction type.
 [STIMULATION:id4bea0ac7]	Invalid interaction type.
+[MODIFICATION:idc229af7c]	Invalid interaction type.
+[MODIFICATION:id76f5d713]	Invalid interaction type.
+[MODIFICATION:idc8f43ae7]	Invalid interaction type.
+[MODIFICATION:ide6e78eda]	Invalid interaction type.
 [STIMULATION:ide84b785d]	Invalid interaction type.
 [MODIFICATION:idd7e89fb0]	Invalid interaction type.
 [STIMULATION:idf9476c0a]	Invalid interaction type.
 [INHIBITION:id4b6fab95]	Invalid interaction type as an input to reaction.
 [HeterodimerAssociationReaction:ideda33385]	Reaction should contain at least 2 reactants. GraphId: ideda33385
 [HeterodimerAssociationReaction:id1610061a]	Reaction should contain at least 2 reactants. GraphId: id1610061a
+[PositiveInfluenceReaction:idc229af7c]	Reaction should contain only one reactant and one product.
+[PositiveInfluenceReaction:id76f5d713]	Reaction should contain only one reactant and one product.
 [PositiveInfluenceReaction:idd7e89fb0]	Reaction should contain only one reactant and one product.
+[PositiveInfluenceReaction:idc8f43ae7]	Reaction should contain only one reactant and one product.
+[PositiveInfluenceReaction:ide6e78eda]	Reaction should contain only one reactant and one product.
 [HeterodimerAssociationReaction:ida8d8beb]	Reaction should contain at least 2 reactants. GraphId: ida8d8beb
 [HeterodimerAssociationReaction:ide02413c7]	Reaction should contain at least 2 reactants. GraphId: ide02413c7
+[Complex:d8d54]	Empty element is invalid

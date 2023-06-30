@@ -30,9 +30,9 @@ This pathway is based on Figure 4 of the publication “Mutual regulation of the
 [HeterodimerAssociationReaction:id3662a204]	Reaction should contain at least 2 reactants. GraphId: id3662a204
 [HeterodimerAssociationReaction:id595c7362]	Reaction should contain at least 2 reactants. GraphId: id595c7362
 [HeterodimerAssociationReaction:fda4c]	Reaction should contain at least 2 reactants. GraphId: fda4c
-[Complex:a1838]	Empty element is invalid
-[Complex:f343a]	Empty element is invalid
 [Complex:b83b9]	Empty element is invalid
 [Complex:f73f8]	Empty element is invalid
-[Complex:b6eab]	Empty element is invalid
 [Complex:a983a]	Empty element is invalid
+[Complex:f343a]	Empty element is invalid
+[Complex:b6eab]	Empty element is invalid
+[Complex:a1838]	Empty element is invalid
