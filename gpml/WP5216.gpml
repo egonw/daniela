@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Warburg effect modulated by deubiquitinating enzymes and their substrates" Version="20220318" Organism="Homo sapiens">
-  <Comment Source="WikiPathways-description">Schematic model for the Warburg effect modulated by deubiquitinating enzymes (DUBs) and their substrates. The black arrow indicates direct stimulatory/inhibitory modification, and the blue arrow indicates transcriptional stimulatory modification.</Comment>
+  <Comment Source="WikiPathways-description">Even in the presence of oxygen, cancer cells convert glucose to lactate as their main source for energy production, instead of using the citric acid cycle and oxidative phosphorylation. This process is called the Warburg effect. This pathway shows the effects deubiquitinating enzymes (DUBs) and their substrates have. DUBs free proteins of their ubiquitin chain, so that the proteins can resume their function in the cells rather than be degraded by the ubiquitin-proteasome system (UPS). 
+The deubiquitination of VHL via OTUD6B (part of a DUB subfamily) represses HIF-1α, whereas the direct deubiquitination of HIF-1a via DUBs leads to the increased expression of GLUT1 and VEGF. The transcription factor c-Myc helps regulate gene expression involved in the glucose metabolism (e.g., GLUT1, HK2, LDHA) and is stabilised by ubiquitin-specific proteases.  The PI3K/Akt pathway is also upregulated by deubiquitination of VEGF and Akt. This entails cell growth and apoptosis regulation, as well as promoted glucose transport to cancer cells and activating mTor, which improves glycolysis.
+It is shown in this pathway, how deubiquitinating enzymes play an important role in stabilizing different proteins, acting as oncoproteins and tumor suppressors equally.
+This pathway is based on figure 3 featured in “Regulation of Cancer Metabolism by Deubiquitinating Enzymes: The Warburg Effect” by So-Hee Kim and Kwang-Hyun Baek.</Comment>
   <BiopaxRef>adb</BiopaxRef>
   <Graphics BoardWidth="1017.0" BoardHeight="1019.7849331713244" />
   <DataNode TextLabel="SIRT7" GraphId="a065f" Type="GeneProduct">
-    <Graphics CenterX="597.0" CenterY="581.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="581.0" CenterY="607.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="51547" />
   </DataNode>
   <DataNode TextLabel="OTUB2" GraphId="a2f58" Type="GeneProduct">
@@ -72,7 +75,7 @@
     <Xref Database="Ensembl" ID="ENSG00000117394" />
   </DataNode>
   <DataNode TextLabel="USP28" GraphId="c7abf" Type="GeneProduct" GroupRef="ab616">
-    <Graphics CenterX="615.95" CenterY="248.9500000000001" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="621.4346831652796" CenterY="248.9500000000001" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="57646" />
   </DataNode>
   <DataNode TextLabel="VHL" GraphId="cb56f" Type="GeneProduct">
@@ -162,7 +165,7 @@
     <Xref Database="Entrez Gene" ID="78990" />
   </DataNode>
   <DataNode TextLabel="USP7" GraphId="efdf6" Type="GeneProduct">
-    <Graphics CenterX="597.7" CenterY="532.3499999999995" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="581.7" CenterY="546.3499999999995" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="7874" />
   </DataNode>
   <DataNode TextLabel="U2AF2" GraphId="f36f0" Type="GeneProduct">
@@ -207,11 +210,11 @@
     <Xref Database="Entrez Gene" ID="57695" />
   </DataNode>
   <DataNode TextLabel="USP37" GraphId="e2316" Type="GeneProduct" GroupRef="ab616">
-    <Graphics CenterX="615.95" CenterY="273.9500000000001" Width="90.0" Height="25.0" ZOrder="32775" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="621.4346831652796" CenterY="273.9500000000001" Width="90.0" Height="25.0" ZOrder="32775" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="57695" />
   </DataNode>
   <DataNode TextLabel="OTUB2" GraphId="eaf14" Type="GeneProduct" GroupRef="ab616">
-    <Graphics CenterX="615.95" CenterY="298.95000000000016" Width="90.0" Height="25.0" ZOrder="32776" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="621.4346831652796" CenterY="298.95000000000016" Width="90.0" Height="25.0" ZOrder="32776" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="78990" />
   </DataNode>
   <DataNode TextLabel="OTUB2" GraphId="e8056" Type="GeneProduct" GroupRef="a39cd">
@@ -270,63 +273,36 @@
     <Graphics CenterX="662.8999999999982" CenterY="792.0999999999967" Width="90.0" Height="25.0" ZOrder="32793" FontSize="12" Valign="Middle" />
     <Xref Database="Entrez Gene" ID="10869" />
   </DataNode>
-  <Interaction>
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="459.30000000000007" Y="267.2500000000001" GraphRef="c3dbb" RelX="-1.0" RelY="-0.5" />
-      <Point X="421.0419198055891" Y="290.5" GraphRef="b2052" RelX="0.5" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
+  <DataNode TextLabel="PGK1" GraphId="adb59" Type="GeneProduct">
+    <Graphics CenterX="398.0" CenterY="565.5" Width="90.0" Height="25.0" ZOrder="32794" FontSize="12" Valign="Middle" />
+    <Xref Database="Entrez Gene" ID="5230" />
+  </DataNode>
+  <DataNode TextLabel="VEGFR2" GraphId="f8cba" Type="GeneProduct">
+    <Graphics CenterX="727.0" CenterY="203.5" Width="90.0" Height="25.0" ZOrder="32795" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000128052" />
+  </DataNode>
+  <State GraphRef="c3f11" TextLabel="Ac" GraphId="b5e27">
+    <Graphics RelX="-0.9111111111111111" RelY="-1.0" Width="18.041919805589036" Height="18.04981773997543" ShapeType="Oval" />
     <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
-      <Point X="504.30000000000007" Y="261.0000000000001" GraphRef="c3dbb" RelX="0.0" RelY="-1.0" />
-      <Point X="457.15000000000003" Y="240.45" />
-      <Point X="410.0" Y="214.5" GraphRef="c7846" RelX="0.0" RelY="1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="485.0" Y="845.25" GraphRef="aa994" RelX="-1.0" RelY="-0.5" />
-      <Point X="419.700675818872" Y="880.6249620912128" GraphRef="c3fc1" RelX="0.5" RelY="-1.0" ArrowHead="mim-transcription-translation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
+  </State>
+  <Interaction GraphId="id145f76be">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="486.0" Y="912.75" GraphRef="cb03f" RelX="-1.0" RelY="0.5" />
       <Point X="442.200675818872" Y="899.3749620912128" GraphRef="c3fc1" RelX="1.0" RelY="0.5" ArrowHead="mim-transcription-translation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
-  <Interaction>
-    <Comment>deubiquitination</Comment>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="397.14999999999975" Y="939.5999999999989" GraphRef="c758b" RelX="-0.5" RelY="-1.0" />
-      <Point X="397.200675818872" Y="905.6249620912128" GraphRef="c3fc1" RelX="0.0" RelY="1.0" ArrowHead="mim-modification" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Comment>deubiquitination</Comment>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="607.6999999999994" Y="933.7500000000005" GraphRef="ea6cf" RelX="-1.0" RelY="0.0" />
-      <Point X="576.0" Y="906.5" GraphRef="cb03f" RelX="1.0" RelY="0.0" ArrowHead="mim-modification" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Comment>deubiqitination</Comment>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="609.8999999999982" Y="829.5999999999967" GraphRef="ca1d1" RelX="-1.0" RelY="0.0" />
-      <Point X="575.0" Y="851.5" GraphRef="aa994" RelX="1.0" RelY="0.0" ArrowHead="mim-modification" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id1ef3950f">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="549.3000000000001" Y="273.5000000000001" GraphRef="c3dbb" RelX="1.0" RelY="0.0" />
-      <Point X="562.95" Y="273.95000000000016" GraphRef="c366b" RelX="-1.0" RelY="0.0" />
+      <Point X="568.4346831652796" Y="273.95000000000016" GraphRef="c366b" RelX="-1.0" RelY="0.0" />
+      <Point X="549.3000000000001" Y="273.5000000000001" GraphRef="c3dbb" RelX="1.0" RelY="0.0" ArrowHead="mim-modification" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id242a7a14">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="485.0" Y="845.25" GraphRef="aa994" RelX="-1.0" RelY="-0.5" />
+      <Point X="419.700675818872" Y="880.6249620912128" GraphRef="c3fc1" RelX="0.5" RelY="-1.0" ArrowHead="mim-transcription-translation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -379,8 +355,8 @@
   <Interaction GraphId="id4394d9f8">
     <Comment>deubiquitination</Comment>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="597.7" Y="544.8499999999995" GraphRef="efdf6" RelX="0.0" RelY="1.0" />
-      <Point X="597.0" Y="568.5" GraphRef="a065f" RelX="0.0" RelY="-1.0" ArrowHead="mim-modification" />
+      <Point X="581.7" Y="558.8499999999995" GraphRef="efdf6" RelX="0.0" RelY="1.0" />
+      <Point X="581.0" Y="594.5" GraphRef="a065f" RelX="0.0" RelY="-1.0" ArrowHead="mim-modification" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -429,6 +405,29 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id58af8d42">
+    <Comment>deubiquitination</Comment>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="397.14999999999975" Y="939.5999999999989" GraphRef="c758b" RelX="-0.5" RelY="-1.0" />
+      <Point X="397.200675818872" Y="905.6249620912128" GraphRef="c3fc1" RelX="0.0" RelY="1.0" ArrowHead="mim-modification" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id5a99a28">
+    <Comment>deubiqitination</Comment>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="609.8999999999982" Y="829.5999999999967" GraphRef="ca1d1" RelX="-1.0" RelY="0.0" />
+      <Point X="575.0" Y="851.5" GraphRef="aa994" RelX="1.0" RelY="0.0" ArrowHead="mim-modification" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id61e01cb3">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="536.0" Y="607.0" GraphRef="a065f" RelX="-1.0" RelY="0.0" />
+      <Point X="398.32515188335344" Y="607.1298906439853" GraphRef="c13df" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id63384f0d">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="311.5" Y="276.5" GraphRef="fb4c7" RelX="0.5" RelY="1.0" />
@@ -449,6 +448,13 @@
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="516.2500000000002" Y="691.6000000000016" GraphRef="edd70" RelX="0.0" RelY="-1.0" />
       <Point X="421.0419198055891" Y="651.5498177399755" GraphRef="c3f11" RelX="0.5" RelY="1.0" ArrowHead="mim-modification" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7d485c38">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="459.30000000000007" Y="267.2500000000001" GraphRef="c3dbb" RelX="-1.0" RelY="-0.5" />
+      <Point X="421.0419198055891" Y="290.5" GraphRef="b2052" RelX="0.5" RelY="-1.0" ArrowHead="mim-transcription-translation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -491,6 +497,14 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id91c5a538">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="398.5419198055891" Y="626.5498177399755" GraphRef="c3f11" RelX="0.0" RelY="-1.0" />
+      <Point X="398.0" Y="578.0" GraphRef="adb59" RelX="0.0" RelY="1.0" ArrowHead="mim-modification" />
+      <Anchor Position="0.4" Shape="None" GraphId="c13df" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id92d66332">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="728.0" Y="396.5" GraphRef="b007e" RelX="0.0" RelY="1.0" />
@@ -515,7 +529,7 @@
   <Interaction GraphId="idac528ce">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="727.0" Y="159.5" GraphRef="f9fb4" RelX="0.0" RelY="1.0" />
-      <Point X="727.0" Y="256.5" GraphRef="d1cdc" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="727.0" Y="191.0" GraphRef="f8cba" RelX="0.0" RelY="-1.0" ArrowHead="mim-binding" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -526,10 +540,26 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="idbecdfda">
+    <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
+      <Point X="504.30000000000007" Y="261.0000000000001" GraphRef="c3dbb" RelX="0.0" RelY="-1.0" />
+      <Point X="457.15000000000003" Y="240.45" />
+      <Point X="410.0" Y="214.5" GraphRef="c7846" RelX="0.0" RelY="1.0" ArrowHead="mim-transcription-translation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idc8d05b6f">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="219.0" Y="440.0" GraphRef="cd6e0" RelX="1.0" RelY="0.0" />
       <Point X="266.5" Y="440.9" GraphRef="ca5d5" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idcf59c6d0">
+    <Comment>deubiquitination</Comment>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="607.6999999999994" Y="933.7500000000005" GraphRef="ea6cf" RelX="-1.0" RelY="0.0" />
+      <Point X="576.0" Y="906.5" GraphRef="cb03f" RelX="1.0" RelY="0.0" ArrowHead="mim-modification" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -697,6 +727,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="ec223">
+    <Graphics ZOrder="32796" LineThickness="1.0">
+      <Point X="727.0" Y="216.0" GraphRef="f8cba" RelX="0.0" RelY="1.0" />
+      <Point X="727.0" Y="256.5" GraphRef="d1cdc" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Shape GraphId="bd9c9">
     <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Mitochondria" />
     <Graphics CenterX="107.0" CenterY="799.0" Width="162.0" Height="100.0" ZOrder="16384" FontSize="12" Valign="Middle" ShapeType="Mitochondria" LineThickness="3.0" Color="c0c0c0" Rotation="0.0" />
@@ -714,23 +751,14 @@
   <Group GroupId="d97f6" GraphId="a3167" Style="Group" />
   <Group GroupId="ab616" GraphId="c366b" Style="Group" />
   <Group GroupId="c96dd" GraphId="ca1d1" Style="Group" />
+  <Group GroupId="c8869" GraphId="caa0d" Style="Group" />
+  <Group GroupId="a8d0c" GraphId="d9a37" Style="Group" />
   <Group GroupId="d8a8f" GraphId="dc673" Style="Group" />
   <Group GroupId="c9cf9" GraphId="e328f" Style="Group" />
   <Group GroupId="be412" GraphId="ea6cf" Style="Group" />
   <Group GroupId="a39cd" GraphId="f0720" Style="Group" />
-  <Group GroupId="c8869" GraphId="caa0d" Style="Group" />
-  <Group GroupId="a8d0c" GraphId="d9a37" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="adb">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.3390/IJMS22126173</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of Cancer Metabolism by Deubiquitinating Enzymes: The Warburg Effect</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.3390/IJMS22126173</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">So-Hee Kim:
-Kwang-hyun Baek</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="eb3">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21591214</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -740,6 +768,11 @@ Kwang-hyun Baek</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Behrman EJ</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gopalan V</bp:AUTHORS>
     </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cancer</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:162</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="a18">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30742905</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -749,11 +782,15 @@ Kwang-hyun Baek</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Arafeh R</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samuels Y</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">cancer</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOID:162</bp:ID>
-      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Disease</bp:Ontology>
-    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="adb">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.3390/IJMS22126173</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">DOI</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Regulation of Cancer Metabolism by Deubiquitinating Enzymes: The Warburg Effect</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://doi.org/10.3390/IJMS22126173</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2021</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">So-Hee Kim:
+Kwang-hyun Baek</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycolysis pathway</bp:TERM>
       <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000640</bp:ID>
